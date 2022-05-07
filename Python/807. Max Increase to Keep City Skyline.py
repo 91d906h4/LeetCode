@@ -1,4 +1,3 @@
-import numpy
 class Solution:
     def maxIncreaseKeepingSkyline(self, grid: List[List[int]]) -> int:
 #         column = [max(x) for x in zip(*grid)]
