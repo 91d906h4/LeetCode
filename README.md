@@ -17,7 +17,7 @@
 | 27 | Remove Element | Easy | [JavaScript](JavaScript/27.%20Remove%20Element.js) | |
 | 28 | Implement strStr() | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) | |
 | 35 | Search Insert Position | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) | |
-| 53 | Maximum Subarray | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | |
+| 53 | Maximum Subarray | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | Kadane's Algorithm |
 | 58 | Length of Last Word | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
 | 66 | Plus One | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | |
 | 69 | Sqrt(x) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) | |
