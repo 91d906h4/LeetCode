@@ -8,7 +8,6 @@ class Solution:
             if element in dict_:
                 dict_.popleft()
             else:
-                pointer_2 = i
                 dict_.append(element)
                 i += 1
             result = max(result, len(dict_))
