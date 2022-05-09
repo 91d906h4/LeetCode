@@ -78,7 +78,7 @@
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | [JavaScript](JavaScript/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [JavaScript](JavaScript/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js) | |
 | 1389 | Create Target Array in the Given Order | Easy | [JavaScript](JavaScript/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.js) | |
-| 1393 | Capital Gain／Loss | Easy | [MySQL](MySQL/1393.%20Capital%20Gain／Loss) | |
+| 1393 | Capital Gain／Loss | Medium | [MySQL](MySQL/1393.%20Capital%20Gain／Loss) | |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [JavaScript](JavaScript/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js) | |
 | 1470 | Shuffle the Array | Easy | [JavaScript](JavaScript/1470.%20Shuffle%20the%20Array.js) | |
 | 1480 | Running Sum of 1d Array | Easy | [JavaScript](JavaScript/1480.%20Running%20Sum%20of%201d%20Array.js) | |
