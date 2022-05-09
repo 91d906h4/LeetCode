@@ -2,8 +2,8 @@
 
 📚This repository consists of some leetcode problem solutions.
 
-| **Number** | **Title** | **Level** | **Language** | **Remark** |
-| ---------- | --------- | --------- | ------------ | ---------- |
+| **ID** | **Title** | **Level** | **Language** | **Remark** |
+| ------ | --------- | --------- | ------------ | ---------- |
 | 1 | [Two Sum](JavaScript/1.%20Two%20Sum.js) | Easy | JavaScript | |
 | 4 | [Median of Two Sorted Arrays](JavaScript/4.%20Median%20of%20Two%20Sorted%20Arrays.js) | Easy | JavaScript | |
 | 7 | [Reverse Integer](JavaScript/7.%20Reverse%20Integer.js) | Easy | JavaScript | |
