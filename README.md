@@ -22,7 +22,7 @@
 | 66 | Plus One | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | |
 | 69 | Sqrt(x) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) | |
 | 70 | Climbing Stairs | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) | |
-| 75 | Sort Colors | Medium | [Python](Python/75.%20Sort%20Colors.py) | |
+| 75 | Sort Colors | Medium | [Python](Python/75.%20Sort%20Colors.py) | Counting Sort |
 | 88 | Merge Sorted Array | Easy | [Python](Python/88.%20Merge%20Sorted%20Array.py) | |
 | 100 | Same Tree | Easy | [JavaScript](JavaScript/100.%20Same%20Tree.js) | |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Python](Python/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | |
