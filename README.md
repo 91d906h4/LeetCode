@@ -41,10 +41,12 @@
 | 415 | Add Strings | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) | |
 | 496 | Next Greater Element I | Easy | [JavaScript](JavaScript/496.%20Next%20Greater%20Element%20I.js) | |
 | 507 | Perfect Number | Easy | [Python](Python/507.%20Perfect%20Number.py) | |
+| 511 | Game Play Analysis I | Easy | [MySQL](MySQL/511.%20Game%20Play%20Analysis%20I) | |
 | 535 | Encode and Decode TinyURL | Medium | [Python](Python/535.%20Encode%20and%20Decode%20TinyURL.py) | |
 | 557 | Reverse Words in a String III | Easy | [JavaScript](JavaScript/557.%20Reverse%20Words%20in%20a%20String%20III.js) | |
 | 561 | Array Partition I | Easy | [JavaScript](JavaScript/561.%20Array%20Partition%20I.js) | |
 | 605 | Can Place Flowers | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
+| 627 | Swap Salary | Easy | [MySQL](MySQL/627.%20Swap%20Salary) | |
 | 709 | To Lower Case | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) | |
 | 728 | Self Dividing Numbers | Easy | [JavaScript](JavaScript/728.%20Self%20Dividing%20Numbers.js) | |
 | 771 | Jewels and Stones | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) | |
@@ -63,6 +65,7 @@
 | 938 | Range Sum of BST | Easy | [Python](Python/938.%20Range%20Sum%20of%20BST.py) | |
 | 1051 | Height Checker | Easy | [JavaScript](JavaScript/1051.%20Height%20Checker.js) | |
 | 1108 | Defanging an IP Address | Easy | [JavaScript](JavaScript/1108.%20Defanging%20an%20IP%20Address.js) | |
+| 1179 | Reformat Department Table | Easy | [MySQL](MySQL/1179.%20Reformat%20Department%20Table) | |
 | 1221 | Split a String in Balanced Strings | Easy | [JavaScript](JavaScript/1221.%20Split%20a%20String%20in%20Balanced%20Strings.js) | |
 | 1266 | Minimum Time Visiting All Points | Easy | [JavaScript](JavaScript/1266.%20Minimum%20Time%20Visiting%20All%20Points.js) | |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | [JavaScript](JavaScript/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.js) | |
@@ -75,6 +78,7 @@
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | [JavaScript](JavaScript/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [JavaScript](JavaScript/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js) | |
 | 1389 | Create Target Array in the Given Order | Easy | [JavaScript](JavaScript/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.js) | |
+| 1393 | Capital Gain／Loss | Easy | [MySQL](MySQL/1393.%20Capital%20Gain／Loss) | |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [JavaScript](JavaScript/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js) | |
 | 1470 | Shuffle the Array | Easy | [JavaScript](JavaScript/1470.%20Shuffle%20the%20Array.js) | |
 | 1480 | Running Sum of 1d Array | Easy | [JavaScript](JavaScript/1480.%20Running%20Sum%20of%201d%20Array.js) | |
@@ -82,6 +86,8 @@
 | 1512 | Number of Good Pairs | Easy | [JavaScript](JavaScript/1512.%20Number%20of%20Good%20Pairs.js) | |
 | 1528 | Shuffle String | Easy | [JavaScript](JavaScript/1528.%20Shuffle%20String.js) | |
 | 1534 | Count Good Triplets | Easy | [JavaScript](JavaScript/1534.%20Count%20Good%20Triplets.js) | |
+| 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | [MySQL](MySQL/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions) | |
+| 1587 | Bank Account Summary II | Easy | [MySQL](MySQL/1587.%20Bank%20Account%20Summary%20II) | |
 | 1603 | Design Parking System | Easy | [JavaScript](JavaScript/1603.%20Design%20Parking%20System.js) | |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | [JavaScript](JavaScript/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.js) | |
 | 1637 | Widest Vertical Area Between Two Points Containing No Points | Medium | [Python](Python/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py) | |
@@ -91,11 +97,15 @@
 | 1684 | Count the Number of Consistent Strings | Easy | [JavaScript](JavaScript/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js) | |
 | 1688 | Count of Matches in Tournament | Easy | [JavaScript](JavaScript/1688.%20Count%20of%20Matches%20in%20Tournament.js) | |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [Python](Python/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py) | |
+| 1693 | Daily Leads and Partners | Easy | [MySQL](MySQL/1693.%20Daily%20Leads%20and%20Partners) | |
 | 1720 | Decode XORed Array | Easy | [JavaScript](JavaScript/1720.%20Decode%20XORed%20Array.js) | |
 | 1732 | Find the Highest Altitude | Easy | [JavaScript](JavaScript/1732.%20Find%20the%20Highest%20Altitude.js) | |
+| 1741 | Find Total Time Spent by Each Employee | Easy | [MySQL](MySQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee) | |
+| 1757 | Recyclable and Low Fat Products | Easy | [MySQL](MySQL/1757.%20Recyclable%20and%20Low%20Fat%20Products) | |
 | 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | [Python](Python/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.py) | |
 | 1773 | Count Items Matching a Rule | Easy | [JavaScript](JavaScript/1773.%20Count%20Items%20Matching%20a%20Rule.js) | |
 | 1791 | Find Center of Star Graph | Easy | [Python](Python/1791.%20Find%20Center%20of%20Star%20Graph.py) | |
+| 1795 | Rearrange Products Table | Easy | [MySQL](MySQL/1795.%20Rearrange%20Products%20Table) | |
 | 1805 | Number of Different Integers in a String | Easy | [JavaScript](JavaScript/1805.%20Number%20of%20Different%20Integers%20in%20a%20String.js) | |
 | 1816 | Truncate Sentence | Easy | [JavaScript](JavaScript/1816.%20Truncate%20Sentence.js) | |
 | 1827 | Minimum Operations to Make the Array Increasing | Easy | [JavaScript](JavaScript/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.js) | |
@@ -103,11 +113,13 @@
 | 1837 | Sum of Digits in Base K | Easy | [JavaScript](JavaScript/1837.%20Sum%20of%20Digits%20in%20Base%20K.js) | |
 | 1844 | Replace All Digits with Characters | Easy | [JavaScript](JavaScript/1844.%20Replace%20All%20Digits%20with%20Characters.js) | |
 | 1859 | Sorting the Sentence | Easy | [JavaScript](JavaScript/1859.%20Sorting%20the%20Sentence.js) | |
+| 1873 | Calculate Special Bonus | Easy | [MySQL](MySQL/1873.%20Calculate%20Special%20Bonus) | |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [Python](Python/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.py) | |
 | 1913 | Maximum Product Difference Between Two Pairs | Easy | [JavaScript](JavaScript/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.js) | |
 | 1920 | Build Array from Permutation | Easy | [JavaScript](JavaScript/1920.%20Build%20Array%20from%20Permutation.js) | |
 | 1929 | Concatenation of Array | Easy | [JavaScript](JavaScript/1929.%20Concatenation%20of%20Array.js) | |
 | 1941 | Check if All Characters Have Equal Number of Occurrences | Easy | [JavaScript](JavaScript/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.js) | |
+| 1965 | Employees With Missing Information | Easy | [MySQL](MySQL/1965.%20Employees%20With%20Missing%20Information) | |
 | 1967 | Number of Strings That Appear as Substrings in Word | Easy | [JavaScript](JavaScript/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js) | |
 | 2006 | Count Number of Pairs With Absolute Difference K | Easy | [JavaScript](JavaScript/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.js) | |
 | 2011 | Final Value of Variable After Performing Operations | Easy | [JavaScript](JavaScript/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.js) | |
