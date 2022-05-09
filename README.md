@@ -100,6 +100,7 @@
 | 1816 | Truncate Sentence | Easy | [JavaScript](JavaScript/1816.%20Truncate%20Sentence.js) | |
 | 1827 | Minimum Operations to Make the Array Increasing | Easy | [JavaScript](JavaScript/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.js) | |
 | 1832 | Check if the Sentence Is Pangram | Easy | [JavaScript](JavaScript/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.js) | |
+| 1837 | Sum of Digits in Base K | Easy | [JavaScript](JavaScript/1837.%20Sum%20of%20Digits%20in%20Base%20K.js) | |
 | 1844 | Replace All Digits with Characters | Easy | [JavaScript](JavaScript/1844.%20Replace%20All%20Digits%20with%20Characters.js) | |
 | 1859 | Sorting the Sentence | Easy | [JavaScript](JavaScript/1859.%20Sorting%20the%20Sentence.js) | |
 | 1877 | Minimize Maximum Pair Sum in Array | Easy | [Python](Python/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.py) | |
