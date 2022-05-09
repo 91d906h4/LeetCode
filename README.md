@@ -4,4 +4,4 @@
 
 | **Number** | **Title** | **Level** | **Language** | **Remark** |
 | ---------- | --------- | --------- | ------------ | ---------- |
-| 1 | [Two Sum](JavaScript/1_Two Sum.js) | Easy | JavaScript | |
+| 1 | [Two Sum.java](Java/1_TwoSum.java) | Easy | JavaScript | |
