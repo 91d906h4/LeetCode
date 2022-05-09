@@ -15,6 +15,7 @@
 | 26 | Remove Duplicates from Sorted Array | Easy | [JavaScript](JavaScript/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) | |
 | 27 | Remove Element | Easy | [JavaScript](JavaScript/27.%20Remove%20Element.js) | |
 | 28 | Implement strStr() | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) | |
+| 35 | Search Insert Position | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) | |
 | 53 | Maximum Subarray | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) | |
 | 58 | Length of Last Word | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
 | 66 | Plus One | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | |
@@ -27,6 +28,27 @@
 | 191 | Number of 1 Bits | Easy | [JavaScript](JavaScript/191.%20Number%20of%201%20Bits.js) | |
 | 202 | Happy Number | Easy | [JavaScript](JavaScript/202.%20Happy%20Number.js) | |
 | 205 | Isomorphic Strings | Easy | [JavaScript](JavaScript/205.%20Isomorphic%20Strings.js) | |
+| 217 | Contains Duplicate | Easy | [JavaScript](JavaScript/217.%20Contains%20Duplicate.js) | |
+| 342 | Power of Four | Easy | [JavaScript](JavaScript/342.%20Power%20of%20Four.js) | |
+| 412 | Fizz Buzz | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
+| 415 | Add Strings | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) | |
+| 496 | Next Greater Element I | Easy | [JavaScript](JavaScript/496.%20Next%20Greater%20Element%20I.js) | |
+| 557 | Reverse Words in a String III | Easy | [JavaScript](JavaScript/557.%20Reverse%20Words%20in%20a%20String%20III.js) | |
+| 561 | Array Partition I | Easy | [JavaScript](JavaScript/561.%20Array%20Partition%20I.js) | |
+| 709 | To Lower Case | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) | |
+| 728 | Self Dividing Numbers | Easy | [JavaScript](JavaScript/728.%20Self%20Dividing%20Numbers.js) | |
+| 771 | Jewels and Stones | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) | |
+| 796 | Rotate String | Easy | [JavaScript](JavaScript/796.%20Rotate%20String.js) | |
+| 804 | Unique Morse Code Words | Easy | [JavaScript](JavaScript/804.%20Unique%20Morse%20Code%20Words.js) | |
+| 832 | Flipping an Image | Easy | [JavaScript](JavaScript/832.%20Flipping%20an%20Image.js) | |
+| 884 | Backspace String Compare | Easy | [JavaScript](JavaScript/844.%20Backspace%20String%20Compare.js) | |
+| 867 | Transpose Matrix | Easy | [JavaScript](JavaScript/867.%20Transpose%20Matrix.js) | |
+| 868 | Binary Gap | Easy | [JavaScript](JavaScript/868.%20Binary%20Gap.js) | |
+| 888 | Fair Candy Swap | Easy | [JavaScript](JavaScript/888.%20Fair%20Candy%20Swap.js) | |
+| 896 | Monotonic Array | Easy | [JavaScript](JavaScript/896.%20Monotonic%20Array.js) | |
+| 905 | Sort Array By Parity | Easy | [JavaScript](JavaScript/905.%20Sort%20Array%20By%20Parity.js) | |
+| 917 | Reverse Only Letters | Easy | [JavaScript](JavaScript/917.%20Reverse%20Only%20Letters.js) | |
+| 922 | Sort Array By Parity II | Easy | [JavaScript](JavaScript/922.%20Sort%20Array%20By%20Parity%20II.js) | |
 | 1051 | Height Checker | Easy | [JavaScript](JavaScript/1051.%20Height%20Checker.js) | |
 | 1108 | Defanging an IP Address | Easy | [JavaScript](JavaScript/1108.%20Defanging%20an%20IP%20Address.js) | |
 | 1221 | Split a String in Balanced Strings | Easy | [JavaScript](JavaScript/1221.%20Split%20a%20String%20in%20Balanced%20Strings.js) | |
@@ -71,17 +93,14 @@
 | 1967 | Number of Strings That Appear as Substrings in Word | Easy | [JavaScript](JavaScript/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js) | |
 | 2006 | Count Number of Pairs With Absolute Difference K | Easy | [JavaScript](JavaScript/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.js) | |
 | 2011 | Final Value of Variable After Performing Operations | Easy | [JavaScript](JavaScript/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.js) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
-| 100 | __________ | Easy | [JavaScript](JavaScript/______) | |
+| 2089 | Find Target Indices After Sorting Array | Easy | [JavaScript](JavaScript/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.js) | |
+| 2103 | Rings and Rods | Easy | [JavaScript](JavaScript/2103.%20Rings%20and%20Rods.js) | |
+| 2108 | Find First Palindromic String in the Array | Easy | [JavaScript](JavaScript/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.js) | |
+| 2114 | Maximum Number of Words Found in Sentences | Easy | [JavaScript](JavaScript/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.js) | |
+| 2119 | A Number After a Double Reversal | Easy | [JavaScript](JavaScript/2119.%20A%20Number%20After%20a%20Double%20Reversal.js) | |
+| 2160 | Minimum Sum of Four Digit Number After Splitting Digits | Easy | [JavaScript](JavaScript/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.js) | |
+| 2176 | Count Equal and Divisible Pairs in an Array | Easy | [JavaScript](JavaScript/2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.js) | |
+| 2194 | Cells in a Range on an Excel Sheet | Easy | [JavaScript](JavaScript/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.js) | |
+| 2220 | Minimum Bit Flips to Convert Number | Easy | [JavaScript](JavaScript/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.js) | |
+| 2235 | Add Two Integers | Easy | [JavaScript](JavaScript/2235.%20Add%20Two%20Integers.js) | |
+| 2236 | Root Equals Sum of Children | Easy | [JavaScript](JavaScript/2236.%20Root%20Equals%20Sum%20of%20Children.js) | |
