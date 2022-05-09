@@ -44,7 +44,7 @@
 | 535 | Encode and Decode TinyURL | Easy | [Python](Python/535.%20Encode%20and%20Decode%20TinyURL.py) | |
 | 557 | Reverse Words in a String III | Easy | [JavaScript](JavaScript/557.%20Reverse%20Words%20in%20a%20String%20III.js) | |
 | 561 | Array Partition I | Easy | [JavaScript](JavaScript/561.%20Array%20Partition%20I.js) | |
-| 605 | Can Place Flowers | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | * |
+| 605 | Can Place Flowers | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
 | 709 | To Lower Case | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) | |
 | 728 | Self Dividing Numbers | Easy | [JavaScript](JavaScript/728.%20Self%20Dividing%20Numbers.js) | |
 | 771 | Jewels and Stones | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) | |
