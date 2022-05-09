@@ -17,7 +17,7 @@
 | 28 | Implement strStr() | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) | |
 | 53 | Maximum Subarray | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) | |
 | 58 | Length of Last Word | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
-| 66 | Plus One | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) | |
+| 66 | Plus One | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | |
 | 69 | Sqrt(x) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) | |
 | 70 | Climbing Stairs | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) | |
 | 100 | Same Tree | Easy | [JavaScript](JavaScript/100.%20Same%20Tree.js) | |
