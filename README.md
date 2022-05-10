@@ -21,7 +21,7 @@
 | 53 | Maximum Subarray | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | Kadane's Algorithm |
 | 58 | Length of Last Word | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
 | 66 | Plus One | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | |
-| 69 | Sqrt(x) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) | |
+| 69 | Sqrt(x) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) | Binary Search |
 | 70 | Climbing Stairs | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) | |
 | 75 | Sort Colors | Medium | [Python](Python/75.%20Sort%20Colors.py) | Counting Sort |
 | 88 | Merge Sorted Array | Easy | [Python](Python/88.%20Merge%20Sorted%20Array.py) | |
