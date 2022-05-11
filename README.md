@@ -21,7 +21,7 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | Kadane's Algorithm |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | |
-| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](Python/67.%20Add%20Binary) | |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](Python/67.%20Add%20Binary.py) | |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) | Binary Search |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) | |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [Python](Python/75.%20Sort%20Colors.py) | Counting Sort |
