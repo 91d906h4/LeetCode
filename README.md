@@ -98,7 +98,7 @@
 | 1678 | Goal Parser Interpretation | Easy | [JavaScript](JavaScript/1678.%20Goal%20Parser%20Interpretation.js) | |
 | 1684 | Count the Number of Consistent Strings | Easy | [JavaScript](JavaScript/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js) | |
 | 1688 | Count of Matches in Tournament | Easy | [JavaScript](JavaScript/1688.%20Count%20of%20Matches%20in%20Tournament.js) | |
-| 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [Python](Python/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py) | |
+| 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [JavaScript](JavaScript/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.js) / [Python](Python/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py) | |
 | 1693 | Daily Leads and Partners | Easy | [MySQL](MySQL/1693.%20Daily%20Leads%20and%20Partners) | |
 | 1720 | Decode XORed Array | Easy | [JavaScript](JavaScript/1720.%20Decode%20XORed%20Array.js) | |
 | 1732 | Find the Highest Altitude | Easy | [JavaScript](JavaScript/1732.%20Find%20the%20Highest%20Altitude.js) | |
