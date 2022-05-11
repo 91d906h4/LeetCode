@@ -10,15 +10,15 @@
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | [JavaScript](JavaScript/7.%20Reverse%20Integer.js) | |
 | 0009 | [Palindromem Number](https://leetcode.com/problems/palindrome-number) | Easy | [JavaScript](JavaScript/9.%20Palindrome%20Number.js) | |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | [Python](Python/11.%20Container%20With%20Most%20Water.py) | |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [JavaScript](JavaScript/13.%20Roman%20to%20Integer.js) | |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | [JavaScript](JavaScript/14.%20Longest%20Common%20Prefix.js) | |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [JavaScript](JavaScript/20.%20Valid%20Parentheses.js) | |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | [JavaScript](JavaScript/21.%20Merge%20Two%20Sorted%20Lists.js) | |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | [JavaScript](JavaScript/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) | |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [JavaScript](JavaScript/27.%20Remove%20Element.js) | |
-| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) | |
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) | |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | Kadane's Algorithm |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [JavaScript](JavaScript/13.%20Roman%20to%20Integer.js) | |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | [JavaScript](JavaScript/14.%20Longest%20Common%20Prefix.js) | |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [JavaScript](JavaScript/20.%20Valid%20Parentheses.js) | |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | [JavaScript](JavaScript/21.%20Merge%20Two%20Sorted%20Lists.js) | |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | [JavaScript](JavaScript/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) | |
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [JavaScript](JavaScript/27.%20Remove%20Element.js) | |
+| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) | |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) | |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | Kadane's Algorithm |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | \*Built-in Function Solution |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](Python/67.%20Add%20Binary.py) | |
