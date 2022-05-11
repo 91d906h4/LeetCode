@@ -65,7 +65,7 @@
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy | [JavaScript](JavaScript/917.%20Reverse%20Only%20Letters.js) | |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | [JavaScript](JavaScript/922.%20Sort%20Array%20By%20Parity%20II.js) | |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](Python/938.%20Range%20Sum%20of%20BST.py) | |
-| 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | Easy | [Python](Python/1037.%20Valid%20Boomerang.py) | |
+| 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | Easy | [JavaScript](JavaScript/1037.%20Valid%20Boomerang.js) / [Python](Python/1037.%20Valid%20Boomerang.py) | |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [JavaScript](JavaScript/1051.%20Height%20Checker.js) | |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [JavaScript](JavaScript/1108.%20Defanging%20an%20IP%20Address.js) | |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | [MySQL](MySQL/1179.%20Reformat%20Department%20Table) | |
