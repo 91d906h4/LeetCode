@@ -40,7 +40,7 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Python](Python/283.%20Move%20Zeroes.py) | |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | [JavaScript](JavaScript/342.%20Power%20of%20Four.js) | |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
-| 415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) | |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | [JavaScript](JavaScript/496.%20Next%20Greater%20Element%20I.js) | |
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | [Python](Python/507.%20Perfect%20Number.py) | |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | [MySQL](MySQL/511.%20Game%20Play%20Analysis%20I) | |
