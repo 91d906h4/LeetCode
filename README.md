@@ -80,8 +80,9 @@
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | [JavaScript](JavaScript/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | [JavaScript](JavaScript/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js) | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | Easy | [JavaScript](JavaScript/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.js) | |
-| 1393 | [Capital Gain／Loss](https://leetcode.com/problems/capital-gainloss) | Medium | [MySQL](MySQL/1393.%20Capital%20Gain／Loss) | |
+| 1393 | [Capital Gain／Loss](https://leetcode.com/problems/capital-gainloss) | Medium | [MySQL](MySQL/1393.%20Capital%20Gain／Loss.js) | |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | [JavaScript](JavaScript/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js) | |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city) | Easy | [Python](Python/1436.%20Destination%20City.py) | |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | [JavaScript](JavaScript/1470.%20Shuffle%20the%20Array.js) | |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | [JavaScript](JavaScript/1480.%20Running%20Sum%20of%201d%20Array.js) | |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | [JavaScript](JavaScript/1486.%20XOR%20Operation%20in%20an%20Array.js) | |
