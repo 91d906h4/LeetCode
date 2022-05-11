@@ -144,4 +144,5 @@
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | Easy | [JavaScript](JavaScript/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.js) | |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [JavaScript](JavaScript/2235.%20Add%20Two%20Integers.js) | |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children) | Easy | [JavaScript](JavaScript/2236.%20Root%20Equals%20Sum%20of%20Children.js) | |
+| 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | Easy | [Python](Python/2259.%20Remove%20Digit%20From%20Number%20to%20Maximize%20Result.py) | |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | Easy | [JavaScript](JavaScript/2264.%20Largest%203-Same-Digit%20Number%20in%20String.js) / [Python](Python/2264.%20Largest%203-Same-Digit%20Number%20in%20String.py) | |
