@@ -19,52 +19,52 @@
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) | |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) | |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | Kadane's Algorithm |
-| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
-| 66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | \*Built-in Function Solution |
-| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](Python/67.%20Add%20Binary.py) | |
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) | Binary Search |
-| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) | |
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [Python](Python/75.%20Sort%20Colors.py) | Counting Sort |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [Python](Python/88.%20Merge%20Sorted%20Array.py) | |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [JavaScript](JavaScript/100.%20Same%20Tree.js) | |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | [Python](Python/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | |
-| 136 | [Single Number](https://leetcode.com/problems/single-number) | Medium | [JavaScript](JavaScript/136.%20Single%20Number.js) | |
-| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Easy | [Python](Python/151.%20Reverse%20Words%20in%20a%20String.py) | |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | [JavaScript](JavaScript/169.%20Majority%20Element.js) | |
-| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [JavaScript](JavaScript/190.%20Reverse%20Bits.js) | |
-| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [JavaScript](JavaScript/191.%20Number%20of%201%20Bits.js) | |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [JavaScript](JavaScript/202.%20Happy%20Number.js) | |
-| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [JavaScript](JavaScript/205.%20Isomorphic%20Strings.js) | |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [JavaScript](JavaScript/217.%20Contains%20Duplicate.js) | |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | [Python](Python/268.%20Missing%20Number.py) | |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Python](Python/283.%20Move%20Zeroes.py) | |
-| 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | [JavaScript](JavaScript/342.%20Power%20of%20Four.js) | |
-| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
-| 415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution |
-| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | [JavaScript](JavaScript/496.%20Next%20Greater%20Element%20I.js) | |
-| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | [Python](Python/507.%20Perfect%20Number.py) | |
-| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | [MySQL](MySQL/511.%20Game%20Play%20Analysis%20I) | |
-| 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](Python/535.%20Encode%20and%20Decode%20TinyURL.py) | |
-| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | [JavaScript](JavaScript/557.%20Reverse%20Words%20in%20a%20String%20III.js) | |
-| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | Easy | [JavaScript](JavaScript/561.%20Array%20Partition%20I.js) | |
-| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
-| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary) | |
-| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) | |
-| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | [JavaScript](JavaScript/728.%20Self%20Dividing%20Numbers.js) | |
-| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) | |
-| 796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | [JavaScript](JavaScript/796.%20Rotate%20String.js) | |
-| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | [JavaScript](JavaScript/804.%20Unique%20Morse%20Code%20Words.js) | |
-| 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | Medium | [Python](Python/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.py) | |
-| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [JavaScript](JavaScript/832.%20Flipping%20an%20Image.js) | |
-| 884 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | [JavaScript](JavaScript/844.%20Backspace%20String%20Compare.js) | |
-| 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [JavaScript](JavaScript/867.%20Transpose%20Matrix.js) | |
-| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | [JavaScript](JavaScript/868.%20Binary%20Gap.js) | |
-| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | Easy | [JavaScript](JavaScript/888.%20Fair%20Candy%20Swap.js) | |
-| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | [JavaScript](JavaScript/896.%20Monotonic%20Array.js) | |
-| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | [JavaScript](JavaScript/905.%20Sort%20Array%20By%20Parity.js) | |
-| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy | [JavaScript](JavaScript/917.%20Reverse%20Only%20Letters.js) | |
-| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | [JavaScript](JavaScript/922.%20Sort%20Array%20By%20Parity%20II.js) | |
-| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](Python/938.%20Range%20Sum%20of%20BST.py) | |
+| 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
+| 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | \*Built-in Function Solution |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](Python/67.%20Add%20Binary.py) | |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) | Binary Search |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) | |
+| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [Python](Python/75.%20Sort%20Colors.py) | Counting Sort |
+| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [Python](Python/88.%20Merge%20Sorted%20Array.py) | |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [JavaScript](JavaScript/100.%20Same%20Tree.js) | |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | [Python](Python/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | |
+| 0136 | [Single Number](https://leetcode.com/problems/single-number) | Medium | [JavaScript](JavaScript/136.%20Single%20Number.js) | |
+| 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Easy | [Python](Python/151.%20Reverse%20Words%20in%20a%20String.py) | |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | [JavaScript](JavaScript/169.%20Majority%20Element.js) | |
+| 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [JavaScript](JavaScript/190.%20Reverse%20Bits.js) | |
+| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [JavaScript](JavaScript/191.%20Number%20of%201%20Bits.js) | |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [JavaScript](JavaScript/202.%20Happy%20Number.js) | |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [JavaScript](JavaScript/205.%20Isomorphic%20Strings.js) | |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [JavaScript](JavaScript/217.%20Contains%20Duplicate.js) | |
+| 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | [Python](Python/268.%20Missing%20Number.py) | |
+| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Python](Python/283.%20Move%20Zeroes.py) | |
+| 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | [JavaScript](JavaScript/342.%20Power%20of%20Four.js) | |
+| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
+| 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution |
+| 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | [JavaScript](JavaScript/496.%20Next%20Greater%20Element%20I.js) | |
+| 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | [Python](Python/507.%20Perfect%20Number.py) | |
+| 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | [MySQL](MySQL/511.%20Game%20Play%20Analysis%20I) | |
+| 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](Python/535.%20Encode%20and%20Decode%20TinyURL.py) | |
+| 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | [JavaScript](JavaScript/557.%20Reverse%20Words%20in%20a%20String%20III.js) | |
+| 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | Easy | [JavaScript](JavaScript/561.%20Array%20Partition%20I.js) | |
+| 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
+| 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary) | |
+| 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) | |
+| 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | [JavaScript](JavaScript/728.%20Self%20Dividing%20Numbers.js) | |
+| 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) | |
+| 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | [JavaScript](JavaScript/796.%20Rotate%20String.js) | |
+| 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | [JavaScript](JavaScript/804.%20Unique%20Morse%20Code%20Words.js) | |
+| 0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | Medium | [Python](Python/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.py) | |
+| 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [JavaScript](JavaScript/832.%20Flipping%20an%20Image.js) | |
+| 0884 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | [JavaScript](JavaScript/844.%20Backspace%20String%20Compare.js) | |
+| 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [JavaScript](JavaScript/867.%20Transpose%20Matrix.js) | |
+| 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | [JavaScript](JavaScript/868.%20Binary%20Gap.js) | |
+| 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | Easy | [JavaScript](JavaScript/888.%20Fair%20Candy%20Swap.js) | |
+| 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | [JavaScript](JavaScript/896.%20Monotonic%20Array.js) | |
+| 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | [JavaScript](JavaScript/905.%20Sort%20Array%20By%20Parity.js) | |
+| 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy | [JavaScript](JavaScript/917.%20Reverse%20Only%20Letters.js) | |
+| 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | [JavaScript](JavaScript/922.%20Sort%20Array%20By%20Parity%20II.js) | |
+| 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](Python/938.%20Range%20Sum%20of%20BST.py) | |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5) | Easy | [Python](Python/1018.%20Binary%20Prefix%20Divisible%20By%205.py) | |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | Easy | [JavaScript](JavaScript/1037.%20Valid%20Boomerang.js) / [Python](Python/1037.%20Valid%20Boomerang.py) | |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [JavaScript](JavaScript/1051.%20Height%20Checker.js) | |
