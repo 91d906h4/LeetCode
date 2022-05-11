@@ -4,7 +4,7 @@
 
 | **ID** | **Title** | **Level** | **Language** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
-| 1 | Two Sum | Easy | [JavaScript](JavaScript/1.%20Two%20Sum.js) | |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [JavaScript](JavaScript/1.%20Two%20Sum.js) | |
 | 3 | Longest Substring Without Repeating Characters | Mediun | [Python](Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) | |
 | 4 | Median of Two Sorted Arrays | Hard | [JavaScript](JavaScript/4.%20Median%20of%20Two%20Sorted%20Arrays.js) | |
 | 7 | Reverse Integer | Medium | [JavaScript](JavaScript/7.%20Reverse%20Integer.js) | |
