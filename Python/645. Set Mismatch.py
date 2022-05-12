@@ -9,7 +9,7 @@ class Solution:
 #             else:
 #                 result.append(nums[i])
 #                 break
-
+#
 #         for i in range(1, len_ + 1):
 #             if i not in nums:
 #                 result.append(i)
