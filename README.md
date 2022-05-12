@@ -73,6 +73,7 @@
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [JavaScript](JavaScript/1108.%20Defanging%20an%20IP%20Address.js) | |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](Python/1137.%20N-th%20Tribonacci%20Number.py) / [PHP](PHP/1137.%20N-th%20Tribonacci%20Number.php) | |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | [MySQL](MySQL/1179.%20Reformat%20Department%20Table) | |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | [Python](Python/1189.%20Maximum%20Number%20of%20Balloons.py) | |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [JavaScript](JavaScript/1221.%20Split%20a%20String%20in%20Balanced%20Strings.js) | |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points) | Easy | [JavaScript](JavaScript/1266.%20Minimum%20Time%20Visiting%20All%20Points.js) | |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | [JavaScript](JavaScript/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.js) | |
