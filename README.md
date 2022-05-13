@@ -134,6 +134,7 @@
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | Easy | [JavaScript](JavaScript/1773.%20Count%20Items%20Matching%20a%20Rule.js) | |
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph) | Easy | [Python](Python/1791.%20Find%20Center%20of%20Star%20Graph.py) | |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | Easy | [MySQL](MySQL/1795.%20Rearrange%20Products%20Table) | |
+| 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | Easy | [Python](Python/1796.%20Second%20Largest%20Digit%20in%20a%20String.py) | |
 | 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string) | Easy | [JavaScript](JavaScript/1805.%20Number%20of%20Different%20Integers%20in%20a%20String.js) | |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | Easy | [JavaScript](JavaScript/1816.%20Truncate%20Sentence.js) | |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | Easy | [JavaScript](JavaScript/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.js) | |
@@ -143,6 +144,7 @@
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | [JavaScript](JavaScript/1859.%20Sorting%20the%20Sentence.js) | |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | Easy | [MySQL](MySQL/1873.%20Calculate%20Special%20Bonus) | |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | Medium | [Python](Python/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.py) | |
+| 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | Easy | [Python](Python/1903.%20Largest%20Odd%20Number%20in%20String.py) | |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | Easy | [JavaScript](JavaScript/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.js) | |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [JavaScript](JavaScript/1920.%20Build%20Array%20from%20Permutation.js) | |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [JavaScript](JavaScript/1929.%20Concatenation%20of%20Array.js) | |
