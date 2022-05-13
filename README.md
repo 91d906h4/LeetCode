@@ -101,6 +101,7 @@
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | [JavaScript](JavaScript/1470.%20Shuffle%20the%20Array.js) | |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | [JavaScript](JavaScript/1480.%20Running%20Sum%20of%201d%20Array.js) | |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | [JavaScript](JavaScript/1486.%20XOR%20Operation%20in%20an%20Array.js) | |
+| 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | Easy | [Python](Python/1507.%20Reformat%20Date.py) | |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | Easy | [JavaScript](JavaScript/1512.%20Number%20of%20Good%20Pairs.js) | |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | Easy | [JavaScript](JavaScript/1528.%20Shuffle%20String.js) | |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | Easy | [JavaScript](JavaScript/1534.%20Count%20Good%20Triplets.js) | |
