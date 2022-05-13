@@ -149,7 +149,7 @@
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [JavaScript](JavaScript/1920.%20Build%20Array%20from%20Permutation.js) | |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [JavaScript](JavaScript/1929.%20Concatenation%20of%20Array.js) | |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | Easy | [JavaScript](JavaScript/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.js) | |
-| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | Easy | [Python](Python/1952.%20Three%20Divisors.py) | |
+| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | Easy | [Python](Python/1952.%20Three%20Divisors.py) | \*Meth Solution |
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | Easy | [MySQL](MySQL/1965.%20Employees%20With%20Missing%20Information) | |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy | [JavaScript](JavaScript/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js) | |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | [Python](Python/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.py) | |
@@ -162,6 +162,7 @@
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy | [JavaScript](JavaScript/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.js) | |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | [JavaScript](JavaScript/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.js) | |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | Easy | [JavaScript](JavaScript/2119.%20A%20Number%20After%20a%20Double%20Reversal.js) | |
+| 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | Easy | [Python](Python/2129.%20Capitalize%20the%20Title.py) | |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | Medium | [Python](Python/2149.%20Rearrange%20Array%20Elements%20by%20Sign.py) | |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | [JavaScript](JavaScript/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.js) | |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | [Python](Python/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.py) | |
