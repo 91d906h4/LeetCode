@@ -3,8 +3,6 @@ class Solution:
         counter = 0
         counter += numBottles
         while numBottles // numExchange >= 1:
-            print(counter, numBottles)
             counter += numBottles // numExchange
             numBottles = numBottles // numExchange + numBottles % numExchange
-            print(counter, numBottles)
         return counter
