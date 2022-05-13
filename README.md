@@ -124,6 +124,7 @@
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | [JavaScript](JavaScript/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.js) / [Python](Python/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py) | |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | Easy | [MySQL](MySQL/1693.%20Daily%20Leads%20and%20Partners) | |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | [JavaScript](JavaScript/1720.%20Decode%20XORed%20Array.js) | |
+| 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | Easy | [Python](Python/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py) | |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | [JavaScript](JavaScript/1732.%20Find%20the%20Highest%20Altitude.js) | |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | Easy | [MySQL](MySQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee) | |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | [MySQL](MySQL/1757.%20Recyclable%20and%20Low%20Fat%20Products) | |
