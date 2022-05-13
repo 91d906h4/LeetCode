@@ -93,6 +93,7 @@
 | 1393 | [Capital Gain／Loss](https://leetcode.com/problems/capital-gainloss) | Medium | [MySQL](MySQL/1393.%20Capital%20Gain／Loss.js) | |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | [JavaScript](JavaScript/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js) | |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | Easy | [Python](Python/1436.%20Destination%20City.py) | |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | Easy | [Python](Python/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.py) | |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | Easy | [Python](Python/1446.%20Consecutive%20Characters.py) | |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy | [Python](Python/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.py) | |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | [JavaScript](JavaScript/1470.%20Shuffle%20the%20Array.js) | |
