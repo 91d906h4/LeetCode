@@ -96,6 +96,7 @@
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | Easy | [Python](Python/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.py) | |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | Easy | [Python](Python/1446.%20Consecutive%20Characters.py) | |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy | [Python](Python/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.py) | |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | [Python](Python/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py) | |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | [JavaScript](JavaScript/1470.%20Shuffle%20the%20Array.js) | |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | [JavaScript](JavaScript/1480.%20Running%20Sum%20of%201d%20Array.js) | |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | [JavaScript](JavaScript/1486.%20XOR%20Operation%20in%20an%20Array.js) | |
