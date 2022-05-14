@@ -19,13 +19,13 @@
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [JavaScript](JavaScript/27.%20Remove%20Element.js) | |
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) | |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) | |
-| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | Kadane's Algorithm |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | \*Built-in Function Solution |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](Python/67.%20Add%20Binary.py) | |
-| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) | Binary Search |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) | |
-| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [Python](Python/75.%20Sort%20Colors.py) | Counting Sort |
+| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [Python](Python/75.%20Sort%20Colors.py) | [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | [Python](Python/83.%20Remove%20Duplicates%20from%20Sorted%20List.py) | |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [Python](Python/88.%20Merge%20Sorted%20Array.py) | |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [JavaScript](JavaScript/100.%20Same%20Tree.js) | |
@@ -71,7 +71,7 @@
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary) | |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | [Python](Python/645.%20Set%20Mismatch.py) | <details><summary>Python</summary>list : O(n)<br>disct : O(1)</details> |
-| 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](Python/704.%20Binary%20Search.py) | Binary Search |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](Python/704.%20Binary%20Search.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) | |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | [JavaScript](JavaScript/728.%20Self%20Dividing%20Numbers.js) | |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) | |
