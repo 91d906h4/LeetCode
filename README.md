@@ -71,6 +71,7 @@
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary) | |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | [Python](Python/645.%20Set%20Mismatch.py) | <details><summary>Python</summary>list : O(n)<br>disct : O(1)</details> |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](Python/704.%20Binary%20Search.py) | Binary Search |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) | |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | [JavaScript](JavaScript/728.%20Self%20Dividing%20Numbers.js) | |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) | |
