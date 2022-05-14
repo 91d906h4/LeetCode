@@ -3,7 +3,7 @@
 📚This repository consists of some leetcode problem solutions.<br>
 (Total solved problems : 188)
 
-| **ID** | **Title** | **Level** | **Language** | **Remark** |
+| **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [JavaScript](JavaScript/1.%20Two%20Sum.js) | |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Mediun | [Python](Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) | |
