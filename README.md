@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 180)
+(Total solved problems : 188)
 
 | **ID** | **Title** | **Level** | **Language** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
