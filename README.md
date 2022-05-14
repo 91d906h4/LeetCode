@@ -51,6 +51,7 @@
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | [Python](Python/232.%20Implement%20Queue%20using%20Stacks.py) | |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | [Python](Python/242.%20Valid%20Anagram.py) | |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | [Python](Python/258.%20Add%20Digits.py) | |
+| 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | [Python](Python/263.%20Ugly%20Number.py) | |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | [Python](Python/268.%20Missing%20Number.py) | |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Python](Python/283.%20Move%20Zeroes.py) | |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | [JavaScript](JavaScript/342.%20Power%20of%20Four.js) | |
