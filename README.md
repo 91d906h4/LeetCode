@@ -169,6 +169,7 @@
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | [JavaScript](JavaScript/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.js) | |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | [Python](Python/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.py) | |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | Easy | [JavaScript](JavaScript/2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.js) | |
+| 2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array) | Easy | [Python](Python/2190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array.py) | |
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | Easy | [JavaScript](JavaScript/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.js) | |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | Easy | [Python](Python/2206.%20Divide%20Array%20Into%20Equal%20Pairs.py) | |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | Easy | [JavaScript](JavaScript/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.js) | |
