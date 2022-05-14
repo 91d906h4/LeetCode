@@ -1,6 +1,7 @@
 # LeetCode
 
-📚This repository consists of some leetcode problem solutions.
+📚This repository consists of some leetcode problem solutions.<br>
+Total : 180
 
 | **ID** | **Title** | **Level** | **Language** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
