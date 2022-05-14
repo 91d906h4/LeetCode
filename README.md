@@ -49,6 +49,7 @@
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | Easy | [Python](Python/228.%20Summary%20Ranges.py) | |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | [Python](Python/231.%20Power%20of%20Two.py) | |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | [Python](Python/242.%20Valid%20Anagram.py) | |
+| 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | [Python](Python/258.%20Add%20Digits.py) | |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | [Python](Python/268.%20Missing%20Number.py) | |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Python](Python/283.%20Move%20Zeroes.py) | |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | [JavaScript](JavaScript/342.%20Power%20of%20Four.js) | |
