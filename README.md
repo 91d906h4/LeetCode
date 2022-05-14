@@ -31,7 +31,8 @@
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [JavaScript](JavaScript/100.%20Same%20Tree.js) | |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | [Python](Python/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Medium | [JavaScript](JavaScript/136.%20Single%20Number.js) | |
-| 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Easy | [Python](Python/151.%20Reverse%20Words%20in%20a%20String.py) | |
+| 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Easy | [Python](Python/155.%20Min%20Stack.py) | |
+| 0155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy | [Python](Python/151.%20Reverse%20Words%20in%20a%20String.py) | |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | [JavaScript](JavaScript/169.%20Majority%20Element.js) | |
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [JavaScript](JavaScript/190.%20Reverse%20Bits.js) | |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [JavaScript](JavaScript/191.%20Number%20of%201%20Bits.js) | |
