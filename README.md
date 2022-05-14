@@ -34,6 +34,7 @@
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Easy | [Python](Python/155.%20Min%20Stack.py) | |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy | [Python](Python/151.%20Reverse%20Words%20in%20a%20String.py) | |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | [JavaScript](JavaScript/169.%20Majority%20Element.js) | |
+| 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy | [Python](Python/171.%20Excel%20Sheet%20Column%20Number.py) | |
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [JavaScript](JavaScript/190.%20Reverse%20Bits.js) | |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [JavaScript](JavaScript/191.%20Number%20of%201%20Bits.js) | |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [JavaScript](JavaScript/202.%20Happy%20Number.js) | |
