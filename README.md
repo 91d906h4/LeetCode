@@ -21,7 +21,7 @@
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) | |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
-| 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
+| 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | \*Built-in Function Solution <sup>[1](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](Python/67.%20Add%20Binary.py) | |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) | |
@@ -61,7 +61,7 @@
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | [Python](Python/303.%20Range%20Sum%20Query%20-%20Immutable.py) | |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | [Python](Python/326.%20Power%20of%20Three.py) | |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
-| 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution <sup>[1](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
+| 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | [JavaScript](JavaScript/496.%20Next%20Greater%20Element%20I.js) | |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | [Python](Python/507.%20Perfect%20Number.py) | |
 | 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | [MySQL](MySQL/511.%20Game%20Play%20Analysis%20I) | |
@@ -131,7 +131,7 @@
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | Easy | [JavaScript](JavaScript/1534.%20Count%20Good%20Triplets.js) | |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | Medium | [Python](Python/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.py) | |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | Easy | [Python](Python/1550.%20Three%20Consecutive%20Odds.py) | |
-| 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator) | Easy | [Python](Python/1556.%20Thousand%20Separator.py) | \*Built-in Function Solution <sup>[1](https://docs.python.org/3.8/tutorial/inputoutput.html)</sup> |
+| 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator) | Easy | [Python](Python/1556.%20Thousand%20Separator.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/3.8/tutorial/inputoutput.html)</sup> |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | Easy | [MySQL](MySQL/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions) | |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | Easy | [MySQL](MySQL/1587.%20Bank%20Account%20Summary%20II) | |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | Easy | [JavaScript](JavaScript/1603.%20Design%20Parking%20System.js) | |
