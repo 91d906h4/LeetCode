@@ -39,6 +39,7 @@
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | [MySQL](MySQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers) | |
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | [MySQL](MySQL/182.%20Duplicate%20Emails) | |
 | 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | [MySQL](MySQL/183.%20Customers%20Who%20Never%20Order) | |
+| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Easy | [Python](Python/189.%20Rotate%20Array.py) | |
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [JavaScript](JavaScript/190.%20Reverse%20Bits.js) | |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [JavaScript](JavaScript/191.%20Number%20of%201%20Bits.js) | |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | [MySQL](MySQL/196.%20Delete%20Duplicate%20Emails) | |
