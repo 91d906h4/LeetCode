@@ -21,6 +21,7 @@
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [JavaScript](JavaScript/27.%20Remove%20Element.js) | |
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) | |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) / [Python](Python/35.%20Search%20Insert%20Position.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
+| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](Python/50.%20Pow(x,%20n).py) | |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
