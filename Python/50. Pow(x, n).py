@@ -2,8 +2,6 @@ class Solution:
     def myPow(self, x: float, n: int) -> float:
 #         return pow(x, n)
 
-#         return x ** n
-
         if n < 0:
             x = 1 / x
             n = abs(n)
