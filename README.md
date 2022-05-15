@@ -213,3 +213,4 @@
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | Easy | [Python](Python/2255.%20Count%20Prefixes%20of%20a%20Given%20String.py) / [PHP](PHP/2255.%20Count%20Prefixes%20of%20a%20Given%20String.php) | |
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | Easy | [Python](Python/2259.%20Remove%20Digit%20From%20Number%20to%20Maximize%20Result.py) | |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | Easy | [JavaScript](JavaScript/2264.%20Largest%203-Same-Digit%20Number%20in%20String.js) / [Python](Python/2264.%20Largest%203-Same-Digit%20Number%20in%20String.py) | |
+| 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number) | Easy | [Python](Python/2269.%20Find%20the%20K-Beauty%20of%20a%20Number.py) | |
