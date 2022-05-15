@@ -127,6 +127,7 @@
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | [JavaScript](JavaScript/1470.%20Shuffle%20the%20Array.js) | |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | [JavaScript](JavaScript/1480.%20Running%20Sum%20of%201d%20Array.js) | |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | [JavaScript](JavaScript/1486.%20XOR%20Operation%20in%20an%20Array.js) | |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | Easy | [Python](Python/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py) | |
 | 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | Easy | [Python](Python/1507.%20Reformat%20Date.py) | |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | Easy | [JavaScript](JavaScript/1512.%20Number%20of%20Good%20Pairs.js) | |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles) | Easy | [Python](Python/1518.%20Water%20Bottles.py) | |
