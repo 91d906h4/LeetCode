@@ -122,6 +122,7 @@
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | [JavaScript](JavaScript/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js) | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | Easy | [JavaScript](JavaScript/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.js) | |
 | 1393 | [Capital Gain／Loss](https://leetcode.com/problems/capital-gainloss) | Medium | [MySQL](MySQL/1393.%20Capital%20Gain／Loss.js) | |
+| 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers) | Easy | [MySQL](MySQL/1407.%20Top%20Travellers) | |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | [JavaScript](JavaScript/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js) | |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | Easy | [Python](Python/1436.%20Destination%20City.py) | |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | Easy | [Python](Python/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.py) | |
