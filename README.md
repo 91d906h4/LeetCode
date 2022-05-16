@@ -44,7 +44,7 @@
 | 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | [MySQL](MySQL/183.%20Customers%20Who%20Never%20Order) | |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Easy | [Python](Python/189.%20Rotate%20Array.py) | |
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [JavaScript](JavaScript/190.%20Reverse%20Bits.js) | |
-| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [JavaScript](JavaScript/191.%20Number%20of%201%20Bits.js) | |
+| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [JavaScript](JavaScript/191.%20Number%20of%201%20Bits.js) / [Python](Python/191.%20Number%20of%201%20Bits.py) | |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | [MySQL](MySQL/196.%20Delete%20Duplicate%20Emails) | |
 | 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | [MySQL](MySQL/183.%20Customers%20Who%20Never%20Order) | |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [JavaScript](JavaScript/202.%20Happy%20Number.js) | |
