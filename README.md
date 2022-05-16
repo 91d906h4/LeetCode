@@ -136,6 +136,7 @@
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/destination-city) | Easy | [Python](Python/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.py) | |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays) | Easy | [Python](Python/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py) | |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | [JavaScript](JavaScript/1470.%20Shuffle%20the%20Array.js) | |
+| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | Easy | [JavaScript](Python/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py) | |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | [JavaScript](JavaScript/1480.%20Running%20Sum%20of%201d%20Array.js) | |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | Easy | [MySQL](MySQL/1484.%20Group%20Sold%20Products%20By%20The%20Date) | |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | [JavaScript](JavaScript/1486.%20XOR%20Operation%20in%20an%20Array.js) | |
