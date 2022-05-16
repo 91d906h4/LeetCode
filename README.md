@@ -218,4 +218,4 @@
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | Easy | [Python](Python/2259.%20Remove%20Digit%20From%20Number%20to%20Maximize%20Result.py) | |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | Easy | [JavaScript](JavaScript/2264.%20Largest%203-Same-Digit%20Number%20in%20String.js) / [Python](Python/2264.%20Largest%203-Same-Digit%20Number%20in%20String.py) | |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number) | Easy | [Python](Python/2269.%20Find%20the%20K-Beauty%20of%20a%20Number.py) | |
-| 3 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) | Easy | [Python](Python/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.py) | |
+| 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) | Easy | [Python](Python/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.py) | |
