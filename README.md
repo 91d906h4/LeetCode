@@ -78,6 +78,7 @@
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | [JavaScript](JavaScript/557.%20Reverse%20Words%20in%20a%20String%20III.js) | |
 | 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | Easy | [JavaScript](JavaScript/561.%20Array%20Partition%20I.js) | |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | [MySQL](MySQL/584.%20Find%20Customer%20Referee) | |
+| 0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | Easy | [MySQL](MySQL/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders) | |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [MySQL](MySQL/595.%20Big%20Countries) | |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary) | |
