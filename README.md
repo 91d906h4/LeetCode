@@ -174,6 +174,7 @@
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | Easy | [Python](Python/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py) | |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | [JavaScript](JavaScript/1732.%20Find%20the%20Highest%20Altitude.js) | |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | Easy | [MySQL](MySQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee) | |
+| 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box) | Easy | [Python](Python/1742.%20Maximum%20Number%20of%20Balls%20in%20a%20Box.py) | |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | [Python](Python/1748.%20Sum%20of%20Unique%20Elements.py) | |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | [MySQL](MySQL/1757.%20Recyclable%20and%20Low%20Fat%20Products) | |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | Easy | [Python](Python/1768.%20Merge%20Strings%20Alternately.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/3/library/itertools.html?highlight=zip_longest#itertools.zip_longest)</sup> |
