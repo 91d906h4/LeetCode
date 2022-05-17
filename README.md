@@ -39,15 +39,14 @@
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Easy | [Python](Python/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) | |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | [JavaScript](JavaScript/169.%20Majority%20Element.js) | |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy | [Python](Python/171.%20Excel%20Sheet%20Column%20Number.py) | |
-| 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | [MySQL](MySQL/175.%20Combine%20Two%20Tables) | |
-| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | [MySQL](MySQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers) | |
-| 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | [MySQL](MySQL/182.%20Duplicate%20Emails) | |
-| 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | [MySQL](MySQL/183.%20Customers%20Who%20Never%20Order) | |
+| 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | [MySQL](MySQL/175.%20Combine%20Two%20Tables.mysql) | |
+| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | [MySQL](MySQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.mysql) | |
+| 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | [MySQL](MySQL/182.%20Duplicate%20Emails.mysql) | |
+| 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | [MySQL](MySQL/183.%20Customers%20Who%20Never%20Order.mysql) | |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Easy | [Python](Python/189.%20Rotate%20Array.py) | |
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [JavaScript](JavaScript/190.%20Reverse%20Bits.js) | |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [JavaScript](JavaScript/191.%20Number%20of%201%20Bits.js) / [Python](Python/191.%20Number%20of%201%20Bits.py) | |
-| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | [MySQL](MySQL/196.%20Delete%20Duplicate%20Emails) | |
-| 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | [MySQL](MySQL/183.%20Customers%20Who%20Never%20Order) | |
+| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | [MySQL](MySQL/196.%20Delete%20Duplicate%20Emails.mysql) | |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [JavaScript](JavaScript/202.%20Happy%20Number.js) | |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [JavaScript](JavaScript/205.%20Isomorphic%20Strings.js) | |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [JavaScript](JavaScript/217.%20Contains%20Duplicate.js) / [Python](Python/217.%20Contains%20Duplicate.py) | |
@@ -73,15 +72,15 @@
 | 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](Python/461.%20Hamming%20Distance.py) | <details><summary>Note</summary> [Bitwise Operations on Integer Types](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)</details> |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | [JavaScript](JavaScript/496.%20Next%20Greater%20Element%20I.js) | |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | [Python](Python/507.%20Perfect%20Number.py) | |
-| 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | [MySQL](MySQL/511.%20Game%20Play%20Analysis%20I) | |
+| 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | [MySQL](MySQL/511.%20Game%20Play%20Analysis%20I.mysql) | |
 | 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](Python/535.%20Encode%20and%20Decode%20TinyURL.py) | |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | [JavaScript](JavaScript/557.%20Reverse%20Words%20in%20a%20String%20III.js) | |
 | 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | Easy | [JavaScript](JavaScript/561.%20Array%20Partition%20I.js) | |
-| 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | [MySQL](MySQL/584.%20Find%20Customer%20Referee) | |
-| 0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | Easy | [MySQL](MySQL/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders) | |
-| 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [MySQL](MySQL/595.%20Big%20Countries) | |
+| 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | [MySQL](MySQL/584.%20Find%20Customer%20Referee.mysql) | |
+| 0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | Easy | [MySQL](MySQL/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.mysql) | |
+| 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [MySQL](MySQL/595.%20Big%20Countries.mysql) | |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
-| 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary) | |
+| 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary.mysql) | |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | [Python](Python/645.%20Set%20Mismatch.py) | <details><summary>Note</summary> [Time Complexity](https://wiki.python.org/moin/TimeComplexity)</details> |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | [Python](Python/657.%20Robot%20Return%20to%20Origin.py) | |
 | 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | [Python](Python/682.%20Baseball%20Game.py) | |
