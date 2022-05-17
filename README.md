@@ -216,6 +216,7 @@
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | Easy | [Python](Python/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.py) | |
 | 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | Easy | [Python](Python/2129.%20Capitalize%20the%20Title.py) | |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | Medium | [Python](Python/2149.%20Rearrange%20Array%20Elements%20by%20Sign.py) | |
+| 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | Easy | [Python](Python/2154.%20Keep%20Multiplying%20Found%20Values%20by%20Two.py) | |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | [JavaScript](JavaScript/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.js) | |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | [Python](Python/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.py) | |
 | 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | Easy | [Python](Python/2169.%20Count%20Operations%20to%20Obtain%20Zero.py) | |
