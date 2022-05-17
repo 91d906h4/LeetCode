@@ -62,10 +62,11 @@
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Python](Python/283.%20Move%20Zeroes.py) | |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | [Python](Python/290.%20Word%20Pattern.py) | |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game) | Easy | [Python](Python/292.%20Nim%20Game.py) | |
-| 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | [JavaScript](JavaScript/342.%20Power%20of%20Four.js) | |
-| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Python](Python/344.%20Reverse%20String.py) | |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | [Python](Python/303.%20Range%20Sum%20Query%20-%20Immutable.py) | |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | [Python](Python/326.%20Power%20of%20Three.py) | |
+| 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | [JavaScript](JavaScript/342.%20Power%20of%20Four.js) | |
+| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Python](Python/344.%20Reverse%20String.py) | |
+| 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | [Python](Python/367.%20Valid%20Perfect%20Square.py) | |
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | [Python](Python/374.%20Guess%20Number%20Higher%20or%20Lower.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
