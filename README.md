@@ -84,6 +84,7 @@
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary) | |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | [Python](Python/645.%20Set%20Mismatch.py) | <details><summary>Note</summary> [Time Complexity](https://wiki.python.org/moin/TimeComplexity)</details> |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | [Python](Python/657.%20Robot%20Return%20to%20Origin.py) | |
+| 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | [Python](Python/682.%20Baseball%20Game.py) | |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](Python/704.%20Binary%20Search.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) | |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | [JavaScript](JavaScript/728.%20Self%20Dividing%20Numbers.js) | |
