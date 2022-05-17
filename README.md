@@ -76,7 +76,7 @@
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | [Python](Python/507.%20Perfect%20Number.py) | |
 | 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | [MySQL](MySQL/511.%20Game%20Play%20Analysis%20I.mysql) | |
 | 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](Python/535.%20Encode%20and%20Decode%20TinyURL.py) | |
-| 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | [JavaScript](JavaScript/557.%20Reverse%20Words%20in%20a%20String%20III.js) | |
+| 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | [JavaScript](JavaScript/557.%20Reverse%20Words%20in%20a%20String%20III.js) / [Python](Python/557.%20Reverse%20Words%20in%20a%20String%20III.py) | |
 | 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | Easy | [JavaScript](JavaScript/561.%20Array%20Partition%20I.js) | |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | [MySQL](MySQL/584.%20Find%20Customer%20Referee.mysql) | |
 | 0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | Easy | [MySQL](MySQL/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.mysql) | |
