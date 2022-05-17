@@ -176,6 +176,7 @@
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | Easy | [Python](Python/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py) | |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | [JavaScript](JavaScript/1720.%20Decode%20XORed%20Array.js) | |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | Easy | [Python](Python/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py) | |
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count) | Easy | [MySQL](MySQL/1729.%20Find%20Followers%20Count.mysql) | |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | [JavaScript](JavaScript/1732.%20Find%20the%20Highest%20Altitude.js) | |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | Easy | [MySQL](MySQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee) | |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box) | Easy | [Python](Python/1742.%20Maximum%20Number%20of%20Balls%20in%20a%20Box.py) | |
