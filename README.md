@@ -192,6 +192,7 @@
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | [JavaScript](JavaScript/1859.%20Sorting%20the%20Sentence.js) | |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | Easy | [MySQL](MySQL/1873.%20Calculate%20Special%20Bonus) | |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | Medium | [Python](Python/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.py) | |
+| 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | Easy | [Python](Python/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.py) | |
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | Easy | [MySQL](MySQL/1890.%20The%20Latest%20Login%20in%202020) | |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | Easy | [Python](Python/1903.%20Largest%20Odd%20Number%20in%20String.py) | |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | Easy | [JavaScript](JavaScript/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.js) | |
