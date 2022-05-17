@@ -66,6 +66,7 @@
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | [Python](Python/326.%20Power%20of%20Three.py) | |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | [JavaScript](JavaScript/342.%20Power%20of%20Four.js) | |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Python](Python/344.%20Reverse%20String.py) | |
+| 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | [Python](Python/350.%20Intersection%20of%20Two%20Arrays%20II.py) | |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | [Python](Python/367.%20Valid%20Perfect%20Square.py) | |
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | [Python](Python/374.%20Guess%20Number%20Higher%20or%20Lower.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
