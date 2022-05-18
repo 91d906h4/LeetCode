@@ -137,6 +137,7 @@
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | Easy | [Python](Python/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) | |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | [JavaScript](JavaScript/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js) | |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string) | Easy | [Python](Python/1370.%20Increasing%20Decreasing%20String.py) | |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | Easy | [Python](Python/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.py) | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | Easy | [JavaScript](JavaScript/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.js) | |
 | 1393 | [Capital Gain／Loss](https://leetcode.com/problems/capital-gainloss) | Medium | [MySQL](MySQL/1393.%20Capital%20Gain／Loss.js) | |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers) | Easy | [MySQL](MySQL/1407.%20Top%20Travellers) | |
