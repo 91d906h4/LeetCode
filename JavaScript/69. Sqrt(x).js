@@ -15,16 +15,13 @@ var mySqrt = function(x) {
         let temp = low + Math.round((high - low) / 2);
         let pow = temp * temp;
         if(pow == x){
-            result = temp;
-            break;
+            return temp
         }
         else if(pow > x){
             high = temp - 1;
         }
         else{
             low = temp + 1;
-            result = temp;
         }
     }
-    return result;
-};
+    return high;
