@@ -70,6 +70,7 @@
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | [Python](Python/350.%20Intersection%20of%20Two%20Arrays%20II.py) | |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | [Python](Python/367.%20Valid%20Perfect%20Square.py) | |
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | [Python](Python/374.%20Guess%20Number%20Higher%20or%20Lower.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
+| 0384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | Mediun | [Python](Python/384.%20Shuffle%20an%20Array.py) | |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
 | 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](Python/461.%20Hamming%20Distance.py) | <details><summary>Note</summary> [Bitwise Operations on Integer Types](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)</details> |
