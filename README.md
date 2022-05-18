@@ -193,6 +193,7 @@
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | Easy | [Python](Python/1768.%20Merge%20Strings%20Alternately.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/3/library/itertools.html?highlight=zip_longest#itertools.zip_longest)</sup> |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | Medium | [Python](Python/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.py) | |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | Easy | [JavaScript](JavaScript/1773.%20Count%20Items%20Matching%20a%20Rule.js) | |
+| 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | Easy | [Python](Python/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py) | |
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph) | Easy | [Python](Python/1791.%20Find%20Center%20of%20Star%20Graph.py) | |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | Easy | [MySQL](MySQL/1795.%20Rearrange%20Products%20Table) | |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | Easy | [Python](Python/1796.%20Second%20Largest%20Digit%20in%20a%20String.py) | |
