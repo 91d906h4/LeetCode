@@ -13,9 +13,7 @@ class Solution:
         for i in range(numRows):
             temp = []
             for j in range(i + 1):
-                if j == 0 or j == i:
-                    temp.append(1)
-                else:
-                    temp.append(result[i - 1][j] + result[i - 1][j - 1])
+                if j == 0 or j == i: temp.append(1)
+                else: temp.append(result[i - 1][j] + result[i - 1][j - 1])
             result.append(temp)
         return result
