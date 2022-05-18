@@ -197,6 +197,7 @@
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | Easy | [Python](Python/1796.%20Second%20Largest%20Digit%20in%20a%20String.py) | |
 | 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string) | Easy | [JavaScript](JavaScript/1805.%20Number%20of%20Different%20Integers%20in%20a%20String.js) | |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | Easy | [JavaScript](JavaScript/1816.%20Truncate%20Sentence.js) | |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | Easy | [Python](Python/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py) | |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | Easy | [JavaScript](JavaScript/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.js) | |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | [JavaScript](JavaScript/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.js) | |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | Easy | [JavaScript](JavaScript/1837.%20Sum%20of%20Digits%20in%20Base%20K.js) | |
