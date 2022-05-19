@@ -118,7 +118,8 @@
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy | [JavaScript](JavaScript/917.%20Reverse%20Only%20Letters.js) | |
 | 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | [JavaScript](JavaScript/922.%20Sort%20Array%20By%20Parity%20II.js) | |
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | Easy | [Python](Python/933.%20Number%20of%20Recent%20Calls.py) | |
-| 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](Python/938.%20Range%20Sum%20of%20BST.py) | |
+| 0938 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | Easy | [Python](Python/941.%20Valid%20Mountain%20Array.py) | |
+| 0941 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](Python/938.%20Range%20Sum%20of%20BST.py) | |
 | 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | Easy | [Python](Python/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.py) | |
 | 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | [Python](Python/976.%20Largest%20Perimeter%20Triangle.py) | |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](Python/977.%20Squares%20of%20a%20Sorted%20Array.py) | |
