@@ -107,6 +107,7 @@
 | 0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | Medium | [Python](Python/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.py) | |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [JavaScript](JavaScript/832.%20Flipping%20an%20Image.js) | |
 | 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | Easy | [Python](Python/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
+| 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | Easy | [Python](Python/859.%20Buddy%20Strings.py) | |
 | 0884 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | [JavaScript](JavaScript/844.%20Backspace%20String%20Compare.js) | |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [JavaScript](JavaScript/867.%20Transpose%20Matrix.js) | |
 | 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | [JavaScript](JavaScript/868.%20Binary%20Gap.js) | |
