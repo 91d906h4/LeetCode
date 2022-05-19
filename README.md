@@ -108,6 +108,7 @@
 | 0884 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | [JavaScript](JavaScript/844.%20Backspace%20String%20Compare.js) | |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [JavaScript](JavaScript/867.%20Transpose%20Matrix.js) | |
 | 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | [JavaScript](JavaScript/868.%20Binary%20Gap.js) | |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](Python/876.%20Middle%20of%20the%20Linked%20List.py) | |
 | 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | Easy | [JavaScript](JavaScript/888.%20Fair%20Candy%20Swap.js) | |
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | [JavaScript](JavaScript/896.%20Monotonic%20Array.js) | |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | [JavaScript](JavaScript/905.%20Sort%20Array%20By%20Parity.js) | |
