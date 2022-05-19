@@ -184,6 +184,7 @@
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | Easy | [MySQL](MySQL/1587.%20Bank%20Account%20Summary%20II) | |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | Easy | [JavaScript](JavaScript/1603.%20Design%20Parking%20System.js) | |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | [JavaScript](JavaScript/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.js) | |
+| 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | [Python](Python/1629.%20Slowest%20Key.py) | |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | Medium | [Python](Python/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py) | |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy | [JavaScript](JavaScript/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.js) / [Python](Python/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py) | |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | Easy | [MySQL](1667.%20Fix%20Names%20in%20a%20Table) | |
