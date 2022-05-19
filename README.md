@@ -34,6 +34,7 @@
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | [Python](Python/83.%20Remove%20Duplicates%20from%20Sorted%20List.py) | |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [Python](Python/88.%20Merge%20Sorted%20Array.py) | |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [JavaScript](JavaScript/100.%20Same%20Tree.js) | |
+| 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [Python](Python/101.%20Symmetric%20Tree.py) | [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | [Python](Python/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Medium | [JavaScript](JavaScript/136.%20Single%20Number.js) | |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Easy | [Python](Python/155.%20Min%20Stack.py) | |
