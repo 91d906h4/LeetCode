@@ -129,6 +129,7 @@
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | [Python](Python/1189.%20Maximum%20Number%20of%20Balloons.py) | |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy | [Python](Python/1207.%20Unique%20Number%20of%20Occurrences.py) | |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [JavaScript](JavaScript/1221.%20Split%20a%20String%20in%20Balanced%20Strings.js) | |
+| 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | [Python](Python/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py) | |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points) | Easy | [JavaScript](JavaScript/1266.%20Minimum%20Time%20Visiting%20All%20Points.js) | |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | [JavaScript](JavaScript/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.js) / [Python](Python/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py) | |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array) | Easy | [Python](Python/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array.py) | |
