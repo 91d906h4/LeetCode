@@ -75,6 +75,7 @@
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | [Python](Python/374.%20Guess%20Number%20Higher%20or%20Lower.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Mediun | [Python](Python/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/3/library/functions.html?highlight=sum#sum)<sup> |
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | Mediun | [Python](Python/380.%20Insert%20Delete%20GetRandom%20O(1).py) | |
+| 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | [Python](Python/383.%20Ransom%20Note.py) | |
 | 0384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | Mediun | [Python](Python/384.%20Shuffle%20an%20Array.py) | |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | [Python](Python/387.%20First%20Unique%20Character%20in%20a%20String.py) | |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
