@@ -200,7 +200,7 @@
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters) | Easy | [Python](Python/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py) | |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | Easy | [MySQL](MySQL/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.mysql) | |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | Easy | [MySQL](MySQL/1587.%20Bank%20Account%20Summary%20II.mysql) | |
-| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | Easy | [Python](Python/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) | \*Mathematical Method |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | Easy | [Python](Python/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) | \*Mathematical Method <sup>[[1]](.Notes/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.txt)</sup> |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | Easy | [JavaScript](JavaScript/1603.%20Design%20Parking%20System.js) | |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | [JavaScript](JavaScript/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.js) | |
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | [Python](Python/1629.%20Slowest%20Key.py) | |
@@ -248,7 +248,7 @@
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [JavaScript](JavaScript/1920.%20Build%20Array%20from%20Permutation.js) | |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [JavaScript](JavaScript/1929.%20Concatenation%20of%20Array.js) | |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | Easy | [JavaScript](JavaScript/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.js) | |
-| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | Easy | [Python](Python/1952.%20Three%20Divisors.py) | \*Mathematical Method <sup>[[1]](https://github.com/91d906h4/LeetCode/blob/main/.Notes/1952.%20Three%20Divisors.txt)</sup> |
+| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | Easy | [Python](Python/1952.%20Three%20Divisors.py) | \*Mathematical Method <sup>[[1]](.Notes/1952.%20Three%20Divisors.txt)</sup> |
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | Easy | [MySQL](MySQL/1965.%20Employees%20With%20Missing%20Information.mysql) | |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy | [JavaScript](JavaScript/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js) | |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | [Python](Python/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.py) | |
