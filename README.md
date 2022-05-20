@@ -199,7 +199,8 @@
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | [Python](Python/1629.%20Slowest%20Key.py) | |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | Medium | [Python](Python/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py) | |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy | [JavaScript](JavaScript/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.js) / [Python](Python/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py) | |
-| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | Easy | [MySQL](1667.%20Fix%20Names%20in%20a%20Table) | |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | Easy | [MySQL](1667.%20Fix%20Names%20in%20a%20Table.mysql) | |
+| 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) | Easy | [Python](Python/1668.%20Maximum%20Repeating%20Substring.py) | |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | [JavaScript](JavaScript/1672.%20Richest%20Customer%20Wealth.js) / [Python](Python/1672.%20Richest%20Customer%20Wealth.py) | |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | [JavaScript](JavaScript/1678.%20Goal%20Parser%20Interpretation.js) | |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | Easy | [JavaScript](JavaScript/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js) | |
