@@ -36,7 +36,7 @@
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | [Python](Python/94.%20Binary%20Tree%20Inorder%20Traversal.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [JavaScript](JavaScript/100.%20Same%20Tree.js) | |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy | [Python](Python/101.%20Symmetric%20Tree.py) | [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
-| 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | [Python](Python/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
+| 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | [Python](Python/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | [Python](Python/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Medium | [JavaScript](JavaScript/136.%20Single%20Number.js) | |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Easy | [Python](Python/155.%20Min%20Stack.py) | |
