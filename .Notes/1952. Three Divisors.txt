@@ -1,0 +1,16 @@
+# 1952. Three Divisors
+
+    Given an integer n, return true if n has exactly three positive divisors. Otherwise, return false.
+    An integer m is a divisor of n if there exists an integer k such that n = k * m.
+
+Constraints:
+
+    1 <= n <= 10^4
+
+Explanation:
+
+    The problem asks us to find the numbers that have exactly three positive divisors.
+    And only the numbers the are squares of prime numbers have exactly three positive divisors (1, itself, and it's square).
+    Based on the above reason, what we need to do is to find the squares of prime numbers under 10000.
+    So, 
+        4, 9, 25, 49, 121, 169, 289, 361, 529, 841, 961, 1369, 1521, 1681, 1849, 2209, 2601, 2809, 3481, 3721, 4489, 5041, 5329, 6241, 6889, 7921, 9409
