@@ -6,8 +6,6 @@ class Solution:
         #     elif n < (k + 1) * k / 2: return k - 1
         #     k += 1
 
-        # return int((-1 + sqrt(1 + 8 * n)) / 2)
-
         left, right = 0, n
         while left <= right:
             mid = (left + right) // 2
