@@ -73,7 +73,7 @@
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | [Python](Python/350.%20Intersection%20of%20Two%20Arrays%20II.py) | |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | [Python](Python/367.%20Valid%20Perfect%20Square.py) | |
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | [Python](Python/374.%20Guess%20Number%20Higher%20or%20Lower.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
-| 0378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Mediun | [Python](Python/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/3/library/functions.html?highlight=sum#sum)<sup> |
+| 0378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Mediun | [Python](Python/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/3/library/functions.html#sum)<sup> |
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | Mediun | [Python](Python/380.%20Insert%20Delete%20GetRandom%20O(1).py) | |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | [Python](Python/383.%20Ransom%20Note.py) | |
 | 0384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | Mediun | [Python](Python/384.%20Shuffle%20an%20Array.py) | |
@@ -209,7 +209,7 @@
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box) | Easy | [Python](Python/1742.%20Maximum%20Number%20of%20Balls%20in%20a%20Box.py) | |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | [Python](Python/1748.%20Sum%20of%20Unique%20Elements.py) | |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | [MySQL](MySQL/1757.%20Recyclable%20and%20Low%20Fat%20Products) | |
-| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | Easy | [Python](Python/1768.%20Merge%20Strings%20Alternately.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/3/library/itertools.html?highlight=zip_longest#itertools.zip_longest)</sup> |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | Easy | [Python](Python/1768.%20Merge%20Strings%20Alternately.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/3/library/itertools.html#itertools.zip_longest)</sup> |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | Medium | [Python](Python/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.py) | |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | Easy | [JavaScript](JavaScript/1773.%20Count%20Items%20Matching%20a%20Rule.js) | |
 | 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | Easy | [Python](Python/1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.py) | |
