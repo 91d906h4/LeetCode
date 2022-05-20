@@ -157,6 +157,7 @@
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | Easy | [JavaScript](JavaScript/1313.%20Decompress%20Run-Length%20Encoded%20List.js) | |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | Easy | [JavaScript](JavaScript/1323.%20Maximum%2069%20Number.js) | |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | [JavaScript](JavaScript/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | |
+| 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | Easy | [Python](Python/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py) | |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | Easy | [Python](Python/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) | |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | [JavaScript](JavaScript/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js) | |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string) | Easy | [Python](Python/1370.%20Increasing%20Decreasing%20String.py) | |
