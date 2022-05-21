@@ -245,6 +245,7 @@
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | Medium | [Python](Python/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.py) | |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | Easy | [Python](Python/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.py) | |
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | Easy | [MySQL](MySQL/1890.%20The%20Latest%20Login%20in%202020.mysql) | |
+| 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered) | Easy | [Python](Python/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py) | |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | Easy | [Python](Python/1903.%20Largest%20Odd%20Number%20in%20String.py) | |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | Easy | [JavaScript](JavaScript/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.js) | |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [JavaScript](JavaScript/1920.%20Build%20Array%20from%20Permutation.js) | |
