@@ -1,0 +1,7 @@
+# Write your MySQL query statement below
+SELECT p.product_id, p.product_name
+FROM Product p
+LEFT JOIN Sales s
+ON p.product_id = s.product_id
+GROUP BY product_id
+HAVING MAX(QUARTER(s.sale_date)) = 1
