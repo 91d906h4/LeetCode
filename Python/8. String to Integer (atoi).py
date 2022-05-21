@@ -13,7 +13,6 @@ class Solution:
             else:
                 break
         if len(temp) == 0 or temp == "-" or temp == "+": return 0
-        print(temp)
         temp = int(temp)
         if temp > pow(2, 31) - 1: return pow(2, 31) - 1
         elif temp < pow(2, 31) * -1: return pow(2, 31) * -1
