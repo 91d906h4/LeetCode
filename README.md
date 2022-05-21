@@ -87,6 +87,7 @@
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | [Python](Python/441.%20Arranging%20Coins.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](Python/461.%20Hamming%20Distance.py) | <details><summary>Note</summary> [Bitwise Operations on Integer Types](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)</details> |
+| 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | [Python](Python/482.%20License%20Key%20Formatting.py) | |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | [JavaScript](JavaScript/496.%20Next%20Greater%20Element%20I.js) / [Python](Python/496.%20Next%20Greater%20Element%20I.py) | |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | [Python](Python/504.%20Base%207.py) | |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | [Python](Python/506.%20Relative%20Ranks.py) | |
