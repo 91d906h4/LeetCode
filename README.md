@@ -102,6 +102,7 @@
 | 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy | [Python](Python/589.%20N-ary%20Tree%20Preorder%20Traversal.py) | [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [MySQL](MySQL/595.%20Big%20Countries.mysql) | |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
+| 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | [MySQL](MySQL/607.%20Sales%20Person.mysql) | |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | [MySQL](MySQL/620.%20Not%20Boring%20Movies.mysql) | |
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary.mysql) | |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | [Python](Python/645.%20Set%20Mismatch.py) | <details><summary>Note</summary> [Time Complexity](https://wiki.python.org/moin/TimeComplexity)</details> |
