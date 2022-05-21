@@ -276,6 +276,7 @@
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | [JavaScript](JavaScript/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.js) | |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | Easy | [JavaScript](JavaScript/2119.%20A%20Number%20After%20a%20Double%20Reversal.js) | |
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | Easy | [Python](Python/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.py) | |
+| 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank) | Medium | [Python](Python/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.py) | |
 | 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | Easy | [Python](Python/2129.%20Capitalize%20the%20Title.py) | |
 | 2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) | Easy | [Python](Python/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.py) | |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | Medium | [Python](Python/2149.%20Rearrange%20Array%20Elements%20by%20Sign.py) | |
