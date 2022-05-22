@@ -285,6 +285,7 @@
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | Easy | [Python](Python/2057.%20Smallest%20Index%20With%20Equal%20Value.py) | |
 | 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants) | Medium | [Python](Python/2079.%20Watering%20Plants.py) | |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | Easy | [JavaScript](JavaScript/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.js) | |
+| 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum) | Easy | [Python](Python/2099.%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum.py) | |
 | 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | Easy | [JavaScript](JavaScript/2103.%20Rings%20and%20Rods.js) | |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy | [JavaScript](JavaScript/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.js) | |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | [JavaScript](JavaScript/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.js) | |
