@@ -112,6 +112,7 @@
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary.mysql) | |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | [Python](Python/645.%20Set%20Mismatch.py) | <details><summary>Note</summary> [Time Complexity](https://wiki.python.org/moin/TimeComplexity)</details> |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | [Python](Python/657.%20Robot%20Return%20to%20Origin.py) | |
+| 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | Easy | [Python](Python/674.%20Longest%20Continuous%20Increasing%20Subsequence.py) | |
 | 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | [Python](Python/682.%20Baseball%20Game.py) | |
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium | [Python](Python/695.%20Max%20Area%20of%20Island.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](Python/704.%20Binary%20Search.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
