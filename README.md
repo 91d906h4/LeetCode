@@ -111,6 +111,7 @@
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | [MySQL](MySQL/620.%20Not%20Boring%20Movies.mysql) | |
 | 0626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | Medium | [MySQL](MySQL/626.%20Exchange%20Seats.mysql) | |
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary.mysql) | |
+| 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy | [Python](Python/643.%20Maximum%20Average%20Subarray%20I.py) | |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | [Python](Python/645.%20Set%20Mismatch.py) | <details><summary>Note</summary> [Time Complexity](https://wiki.python.org/moin/TimeComplexity)</details> |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | [Python](Python/657.%20Robot%20Return%20to%20Origin.py) | |
 | 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | Easy | [Python](Python/674.%20Longest%20Continuous%20Increasing%20Subsequence.py) | |
