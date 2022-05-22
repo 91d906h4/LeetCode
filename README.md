@@ -85,6 +85,7 @@
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | [Python](Python/387.%20First%20Unique%20Character%20in%20a%20String.py) | |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
+| 0419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) | Medium | [Python](Python/419.%20Battleships%20in%20a%20Board.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | [Python](Python/441.%20Arranging%20Coins.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](Python/461.%20Hamming%20Distance.py) | <details><summary>Note</summary> [Bitwise Operations on Integer Types](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)</details> |
 | 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | [Python](Python/482.%20License%20Key%20Formatting.py) | |
