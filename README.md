@@ -246,6 +246,7 @@
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | [JavaScript](JavaScript/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.js) / [Python](Python/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py) | |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | Easy | [MySQL](MySQL/1693.%20Daily%20Leads%20and%20Partners.mysql) | |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | Easy | [Python](Python/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py) | |
+| 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Easy | [Python](Python/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.py) | |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | [JavaScript](JavaScript/1720.%20Decode%20XORed%20Array.js) | |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | Easy | [Python](Python/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py) | |
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count) | Easy | [MySQL](MySQL/1729.%20Find%20Followers%20Count.mysql) | |
