@@ -157,6 +157,7 @@
 | 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | [Python](Python/976.%20Largest%20Perimeter%20Triangle.py) | |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](Python/977.%20Squares%20of%20a%20Sorted%20Array.py) | |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | [Python](Python/989.%20Add%20to%20Array-Form%20of%20Integer.py) | |
+| 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2) | Medium | [Python](Python/1017.%20Convert%20to%20Base%20-2.py) | [Negative Base](https://en.wikipedia.org/wiki/Negative_base) |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5) | Easy | [Python](Python/1018.%20Binary%20Prefix%20Divisible%20By%205.py) | |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | [Python](Python/1021.%20Remove%20Outermost%20Parentheses.py) | |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | Easy | [JavaScript](JavaScript/1037.%20Valid%20Boomerang.js) / [Python](Python/1037.%20Valid%20Boomerang.py) | |
