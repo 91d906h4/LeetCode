@@ -4,7 +4,6 @@ class Solution:
         result = []
         while n != 0:
             n, i = divmod(n, -2)
-            if i < 0:
-                n, i = n + 1, i + 2
+            if i < 0: n, i = n + 1, i + 2
             result.append(str(i))
         return "".join(result)[::-1]
