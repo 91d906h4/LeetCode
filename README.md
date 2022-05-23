@@ -190,6 +190,7 @@
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | Easy | [JavaScript](JavaScript/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.js) | | 
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | Easy | [JavaScript](JavaScript/1313.%20Decompress%20Run-Length%20Encoded%20List.js) | |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | Easy | [JavaScript](JavaScript/1323.%20Maximum%2069%20Number.js) | |
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | Easy | [Python](Python/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py) | |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | [JavaScript](JavaScript/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | Easy | [Python](Python/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py) | |
 | 1347 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | Easy | [Python](Python/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py) | |
