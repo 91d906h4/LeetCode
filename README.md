@@ -73,6 +73,7 @@
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | [Python](Python/303.%20Range%20Sum%20Query%20-%20Immutable.py) | |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | [Python](Python/326.%20Power%20of%20Three.py) | |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | [JavaScript](JavaScript/342.%20Power%20of%20Four.js) | |
+| 0343 | [Integer Break](https://leetcode.com/problems/integer-break) | Medium | [Python](Python/343.%20Integer%20Break.py) | |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Python](Python/344.%20Reverse%20String.py) | |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | [Python](Python/345.%20Reverse%20Vowels%20of%20a%20String.py) | |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Mediun | [Python](Python/347.%20Top%20K%20Frequent%20Elements.py) | |
