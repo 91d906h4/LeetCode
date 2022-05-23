@@ -67,7 +67,7 @@
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | [Python](Python/268.%20Missing%20Number.py) | |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | [Python](Python/278.%20First%20Bad%20Version.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Python](Python/283.%20Move%20Zeroes.py) | |
-| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Python](Python/283.%20Move%20Zeroes.py) | |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | [Python](Python/287.%20Find%20the%20Duplicate%20Number.py) | |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | [Python](Python/290.%20Word%20Pattern.py) | |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game) | Easy | [Python](Python/292.%20Nim%20Game.py) | |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | [Python](Python/303.%20Range%20Sum%20Query%20-%20Immutable.py) | |
