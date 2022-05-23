@@ -3,8 +3,5 @@ class Solution:
         temp = Counter(words[0])
         for i in words:
             for j in temp:
-                if j not in i:
-                    temp[j] = 0
-                else:
-                    temp[j] = min(temp[j], Counter(i)[j])
-        return "".join([a * b for a, b in temp.items() if b != 0])
+                temp[j] = min(temp[j], Counter(i)[j])
+        return "".join([a * b for a, b in temp.items()])
