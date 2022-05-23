@@ -286,6 +286,7 @@
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | Easy | [Python](Python/1952.%20Three%20Divisors.py) | \*Mathematical Method <sup>[[1]](.Notes/1952.%20Three%20Divisors.txt)</sup> |
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | Easy | [MySQL](MySQL/1965.%20Employees%20With%20Missing%20Information.mysql) | |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy | [JavaScript](JavaScript/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js) | |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | Easy | [Python](Python/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.py) | |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | [Python](Python/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.py) | |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | Easy | [Python](Python/2000.%20Reverse%20Prefix%20of%20Word.py) | |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | Easy | [JavaScript](JavaScript/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.js) | |
