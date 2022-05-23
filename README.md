@@ -131,6 +131,7 @@
 | 0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | Medium | [Python](Python/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.py) | |
 | 0811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | Medium | [Python](Python/811.%20Subdomain%20Visit%20Count.py) | [Hash Table](https://en.wikipedia.org/wiki/Hash_table) |
 | 0819 | [Most Common Word](https://leetcode.com/problems/most-common-word) | Easy | [Python](Python/819.%20Most%20Common%20Word.py) | |
+| 0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | Easy | [Python](Python/830.%20Positions%20of%20Large%20Groups.py) | |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [JavaScript](JavaScript/832.%20Flipping%20an%20Image.js) | |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | [Python](Python/836.%20Rectangle%20Overlap.py) | |
 | 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | Easy | [Python](Python/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
