@@ -107,6 +107,7 @@
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | [MySQL](MySQL/584.%20Find%20Customer%20Referee.mysql) | |
 | 0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | Easy | [MySQL](MySQL/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.mysql) | |
 | 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy | [Python](Python/589.%20N-ary%20Tree%20Preorder%20Traversal.py) | [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
+| 0590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | Easy | [Python](Python/590.%20N-ary%20Tree%20Postorder%20Traversal.py) | [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [MySQL](MySQL/595.%20Big%20Countries.mysql) | |
 | 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | Easy | [MySQL](MySQL/596.%20Classes%20More%20Than%205%20Students.mysql) | |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
