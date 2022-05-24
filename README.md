@@ -125,7 +125,7 @@
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium | [Python](Python/695.%20Max%20Area%20of%20Island.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | [Python](Python/700.%20Search%20in%20a%20Binary%20Search%20Tree.py) | |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](Python/704.%20Binary%20Search.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
-| 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) | |
+| 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) / [Python](Python/709.%20To%20Lower%20Case.py) | |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | [JavaScript](JavaScript/728.%20Self%20Dividing%20Numbers.js) | |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | [Python](Python/733.%20Flood%20Fill.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
 | 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | [Python](Python/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py) | |
