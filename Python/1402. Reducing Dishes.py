@@ -13,8 +13,6 @@ class Solution:
         temp, result = 0, 0
         for i in satisfaction:
             temp += i
-            if temp > 0:
-                result += temp
-            else:
-                break
+            if temp > 0: result += temp
+            else: break
         return result
