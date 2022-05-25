@@ -21,7 +21,8 @@
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [JavaScript](JavaScript/27.%20Remove%20Element.js) | |
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) | |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) / [Python](Python/35.%20Search%20Insert%20Position.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
-| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Python](Python/36.%20Valid%20Sudoku.py) | |
+| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | [Python](Python/36.%20Valid%20Sudoku.py) | |
+| 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | Hard | [Python](Python/41.%20First%20Missing%20Positive.py) | |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](Python/50.%20Pow(x,%20n).py) | |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
