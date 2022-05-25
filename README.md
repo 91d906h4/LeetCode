@@ -211,6 +211,7 @@
 | 1393 | [Capital Gain／Loss](https://leetcode.com/problems/capital-gainloss) | Medium | [MySQL](MySQL/1393.%20Capital%20Gain／Loss.mysql) | |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes) | Hard | [Python](Python/1402.%20Reducing%20Dishes.py) | |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers) | Easy | [MySQL](MySQL/1407.%20Top%20Travellers.mysql) | |
+| 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array) | Easy | [Python](Python/1408.%20String%20Matching%20in%20an%20Array.py) | |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | [JavaScript](JavaScript/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js) | |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | Easy | [Python](Python/1436.%20Destination%20City.py) | |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | Easy | [Python](Python/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.py) | |
