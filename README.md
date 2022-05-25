@@ -171,6 +171,7 @@
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | Easy | [JavaScript](JavaScript/1037.%20Valid%20Boomerang.js) / [Python](Python/1037.%20Valid%20Boomerang.py) | |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | [MySQL](MySQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.mysql) | |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [JavaScript](JavaScript/1051.%20Height%20Checker.js) | |
+| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram) | Easy | [Python](Python/1078.%20Occurrences%20After%20Bigram.py) | |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | Medium | [Python](Python/1079.%20Letter%20Tile%20Possibilities.py) | |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | Easy | [MySQL](MySQL/1084.%20Sales%20Analysis%20III.mysql) | |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | Easy | [Python](Python/1089.%20Duplicate%20Zeros.py) | |
