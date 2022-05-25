@@ -151,7 +151,7 @@
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](Python/876.%20Middle%20of%20the%20Linked%20List.py) | |
 | 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | Easy | [JavaScript](JavaScript/888.%20Fair%20Candy%20Swap.js) | |
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | [JavaScript](JavaScript/896.%20Monotonic%20Array.js) | |
-| 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | [JavaScript](JavaScript/905.%20Sort%20Array%20By%20Parity.js) | |
+| 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | [JavaScript](JavaScript/905.%20Sort%20Array%20By%20Parity.js) / [Python](Python/905.%20Sort%20Array%20By%20Parity.py) | |
 | 0914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | Easy | [Python](Python/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.py) | |
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy | [JavaScript](JavaScript/917.%20Reverse%20Only%20Letters.js) | |
 | 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | [JavaScript](JavaScript/922.%20Sort%20Array%20By%20Parity%20II.js) | |
