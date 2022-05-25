@@ -252,6 +252,7 @@
 | 1603 | [Design Parking System](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Medium | [Python](JavaScript/1603.%20Design%20Parking%20System.js) | |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/design-parking-system) | Easy | [JavaScript](Python/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.py) | [Greedy Algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | [JavaScript](JavaScript/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.js) | |
+| 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | Easy | [Python](Python/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters.py) | |
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | [Python](Python/1629.%20Slowest%20Key.py) | |
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays) | Medium | [Python](Python/1630.%20Arithmetic%20Subarrays.py) | |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | Medium | [Python](Python/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py) | |
