@@ -148,6 +148,7 @@
 | 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | Easy | [Python](Python/859.%20Buddy%20Strings.py) | |
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | Easy | [Python](Python/860.%20Lemonade%20Change.py) | |
 | 0884 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | [JavaScript](JavaScript/844.%20Backspace%20String%20Compare.js) | |
+| 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | Easy | [Python](Python/806.%20Number%20of%20Lines%20To%20Write%20String.py) | |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [JavaScript](JavaScript/867.%20Transpose%20Matrix.js) | |
 | 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | [JavaScript](JavaScript/868.%20Binary%20Gap.js) | |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](Python/876.%20Middle%20of%20the%20Linked%20List.py) | |
