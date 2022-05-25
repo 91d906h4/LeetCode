@@ -310,6 +310,7 @@
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | Easy | [JavaScript](JavaScript/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.js) | |
 | 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) | Easy | [Python](Python/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py) | |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | Easy | [Python](Python/1952.%20Three%20Divisors.py) | \*Mathematical Method <sup>[[1]](.Notes/1952.%20Three%20Divisors.txt)</sup> |
+| 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | Easy | [Python](Python/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py) | |
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | Easy | [MySQL](MySQL/1965.%20Employees%20With%20Missing%20Information.mysql) | |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy | [JavaScript](JavaScript/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js) | |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | Easy | [Python](Python/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.py) | |
