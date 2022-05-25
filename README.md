@@ -96,6 +96,7 @@
 | 0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | Easy | [Python](Python/434.%20Number%20of%20Segments%20in%20a%20String.py) |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | [Python](Python/441.%20Arranging%20Coins.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](Python/461.%20Hamming%20Distance.py) | <details><summary>Note</summary> [Bitwise Operations on Integer Types](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)</details> |
+| 0476 | [LNumber Complement](https://leetcode.com/problems/number-complement) | Easy | [Python](Python/476.%20Number%20Complement.py) | |
 | 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | [Python](Python/482.%20License%20Key%20Formatting.py) | |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | [JavaScript](JavaScript/496.%20Next%20Greater%20Element%20I.js) / [Python](Python/496.%20Next%20Greater%20Element%20I.py) | |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | [Python](Python/504.%20Base%207.py) | |
@@ -165,6 +166,7 @@
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](Python/977.%20Squares%20of%20a%20Sorted%20Array.py) | |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | [Python](Python/989.%20Add%20to%20Array-Form%20of%20Integer.py) | |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | Easy | [Python](Python/1002.%20Find%20Common%20Characters.py) |  |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](Python/1009.%20Complement%20of%20Base%2010%20Integer.py) |  |
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2) | Medium | [Python](Python/1017.%20Convert%20to%20Base%20-2.py) | [Negative Base](https://en.wikipedia.org/wiki/Negative_base) |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5) | Easy | [Python](Python/1018.%20Binary%20Prefix%20Divisible%20By%205.py) | |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | [Python](Python/1021.%20Remove%20Outermost%20Parentheses.py) | |
