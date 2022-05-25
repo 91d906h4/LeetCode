@@ -208,6 +208,7 @@
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | Easy | [Python](Python/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.py) | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | Easy | [JavaScript](JavaScript/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.js) | |
 | 1393 | [Capital Gain／Loss](https://leetcode.com/problems/capital-gainloss) | Medium | [MySQL](MySQL/1393.%20Capital%20Gain／Loss.mysql) | |
+| 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes) | Hard | [Python](Python/1402.%20Reducing%20Dishes.py) | |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers) | Easy | [MySQL](MySQL/1407.%20Top%20Travellers.mysql) | |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | [JavaScript](JavaScript/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js) | |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | Easy | [Python](Python/1436.%20Destination%20City.py) | |
