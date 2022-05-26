@@ -20,6 +20,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | [JavaScript](JavaScript/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) | |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [JavaScript](JavaScript/27.%20Remove%20Element.js) | |
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) | |
+| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | [Python](Python/33.%20Search%20in%20Rotated%20Sorted%20Array.py) | |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Easy | [Python](Python/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) | |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) / [Python](Python/35.%20Search%20Insert%20Position.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | [Python](Python/36.%20Valid%20Sudoku.py) | |
