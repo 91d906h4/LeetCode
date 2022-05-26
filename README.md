@@ -15,7 +15,7 @@
 | 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | Medium | [Python](Python/12.%20Integer%20to%20Roman.py) | |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [JavaScript](JavaScript/13.%20Roman%20to%20Integer.js) | |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | [JavaScript](JavaScript/14.%20Longest%20Common%20Prefix.js) | |
-| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [JavaScript](JavaScript/20.%20Valid%20Parentheses.js) | |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [JavaScript](JavaScript/20.%20Valid%20Parentheses.js) / [Python](Python/20.%20Valid%20Parentheses.py) | |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | [JavaScript](JavaScript/21.%20Merge%20Two%20Sorted%20Lists.js) | |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | [JavaScript](JavaScript/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) | |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [JavaScript](JavaScript/27.%20Remove%20Element.js) | |
