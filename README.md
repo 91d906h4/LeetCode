@@ -299,6 +299,7 @@
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | [JavaScript](JavaScript/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.js) | |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | Easy | [JavaScript](JavaScript/1837.%20Sum%20of%20Digits%20in%20Base%20K.js) | |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | Easy | [JavaScript](JavaScript/1844.%20Replace%20All%20Digits%20with%20Characters.js) | |
+| 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values) | Medium | [Python](Python/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.py) | |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | [JavaScript](JavaScript/1859.%20Sorting%20the%20Sentence.js) | |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | Easy | [MySQL](MySQL/1873.%20Calculate%20Special%20Bonus.mysql) | |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | Medium | [Python](Python/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.py) | |
