@@ -122,6 +122,7 @@
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | [MySQL](MySQL/620.%20Not%20Boring%20Movies.mysql) | |
 | 0626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | Medium | [MySQL](MySQL/626.%20Exchange%20Seats.mysql) | |
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary.mysql) | |
+| 0633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) | Medium | [Python](Python/633.%20Sum%20of%20Square%20Numbers.py) | |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy | [Python](Python/643.%20Maximum%20Average%20Subarray%20I.py) | |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | [Python](Python/645.%20Set%20Mismatch.py) | <details><summary>Note</summary> [Time Complexity](https://wiki.python.org/moin/TimeComplexity)</details> |
 | 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother) | Easy | [Python](Python/661.%20Image%20Smoother.py) | |
