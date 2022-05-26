@@ -43,7 +43,7 @@
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy | [Python](Python/111.%20Minimum%20Depth%20of%20Binary%20Tree.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | [Python](Python/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Medium | [JavaScript](JavaScript/136.%20Single%20Number.js) | |
-| 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | [Python](Python/144.%20Binary%20Tree%20Preorder%20Traversal.py) | [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
+| 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | [Python](Python/144.%20Binary%20Tree%20Preorder%20Traversal.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Easy | [Python](Python/155.%20Min%20Stack.py) | |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium | [Python](Python/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy | [Python](Python/151.%20Reverse%20Words%20in%20a%20String.py) | |
