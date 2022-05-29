@@ -9,7 +9,9 @@ class Solution(object):
 #             if i not in nums:
 #                 return i
 
-        nums_size = len(nums)
-        nums_sum = sum(nums)
-        real_sum = (1 + nums_size) * nums_size / 2
-        return real_sum - nums_sum
+#         nums_size = len(nums)
+#         nums_sum = sum(nums)
+#         real_sum = (1 + nums_size) * nums_size / 2
+#         return real_sum - nums_sum
+
+        return "".join(map(str, list(set(range(len(nums) + 1)) - set(nums))))
