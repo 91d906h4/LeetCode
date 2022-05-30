@@ -86,6 +86,7 @@
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Python](Python/344.%20Reverse%20String.py) | |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | [Python](Python/345.%20Reverse%20Vowels%20of%20a%20String.py) | |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Mediun | [Python](Python/347.%20Top%20K%20Frequent%20Elements.py) | |
+| 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | [Python](Python/349.%20Intersection%20of%20Two%20Arrays.py) | |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | [Python](Python/350.%20Intersection%20of%20Two%20Arrays%20II.py) | |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | [Python](Python/367.%20Valid%20Perfect%20Square.py) | |
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | [Python](Python/374.%20Guess%20Number%20Higher%20or%20Lower.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
