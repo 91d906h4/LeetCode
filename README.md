@@ -71,6 +71,7 @@
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy | [Python](Python/237.%20Delete%20Node%20in%20a%20Linked%20List.py) | |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | [Python](Python/242.%20Valid%20Anagram.py) | |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | [Python](Python/258.%20Add%20Digits.py) | |
+| 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii) | Medium | [Python](Python/260.%20Single%20Number%20III.py) | |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | [Python](Python/263.%20Ugly%20Number.py) | |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | [Python](Python/268.%20Missing%20Number.py) | |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | [Python](Python/278.%20First%20Bad%20Version.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
