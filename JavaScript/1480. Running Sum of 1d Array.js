@@ -3,12 +3,17 @@
  * @return {number[]}
  */
 var runningSum = function(nums) {
-    var a = new Array(nums.length);
-    a.fill(0);
-    for(var i = 0;i < nums.length;i++){
-        for(var j = 0;j <= i;j++){
-            a[i] = a[i] + nums[j];
-        }
+//     var a = new Array(nums.length);
+//     a.fill(0);
+//     for(var i = 0;i < nums.length;i++){
+//         for(var j = 0;j <= i;j++){
+//             a[i] = a[i] + nums[j];
+//         }
+//     }
+//     return a;
+
+    for(var i = 1;i < nums.length;i++){
+        nums[i] += nums[i - 1];
     }
-    return a;
+    return nums;
 };
