@@ -243,7 +243,7 @@
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | [JavaScript](JavaScript/1470.%20Shuffle%20the%20Array.js) | |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history) | Medium | [Python](Python/1472.%20Design%20Browser%20History.py) | |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | Easy | [Python](Python/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py) | |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | [JavaScript](JavaScript/1480.%20Running%20Sum%20of%201d%20Array.js) | |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | [JavaScript](JavaScript/1480.%20Running%20Sum%20of%201d%20Array.js) / [Python](Python/1480.%20Running%20Sum%20of%201d%20Array.py) | |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | Easy | [MySQL](MySQL/1484.%20Group%20Sold%20Products%20By%20The%20Date.mysql) | |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | [JavaScript](JavaScript/1486.%20XOR%20Operation%20in%20an%20Array.js) | |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | Easy | [Python](Python/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py) | |
