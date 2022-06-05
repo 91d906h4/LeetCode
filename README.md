@@ -195,6 +195,7 @@
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | Easy | [Python](Python/1103.%20Distribute%20Candies%20to%20People.py) | |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [JavaScript](JavaScript/1108.%20Defanging%20an%20IP%20Address.js) | |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](Python/1137.%20N-th%20Tribonacci%20Number.py) / [PHP](PHP/1137.%20N-th%20Tribonacci%20Number.php) | |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | Easy | [MySQL](MySQL/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.mysql) | |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | [MySQL](MySQL/1148.%20Article%20Views%20I.mysql) | |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | [Python](Python/1154.%20Day%20of%20the%20Year.py) | |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | [MySQL](MySQL/1179.%20Reformat%20Department%20Table.mysql) | |
