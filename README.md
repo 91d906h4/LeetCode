@@ -98,6 +98,7 @@
 | 0384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | Mediun | [Python](Python/384.%20Shuffle%20an%20Array.py) | |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | [Python](Python/387.%20First%20Unique%20Character%20in%20a%20String.py) | |
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy | [Python](Python/389.%20Find%20the%20Difference.py) | |
+| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | [Python](Python/392.%20Is%20Subsequence.py) | |
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy | [Python](Python/404.%20Sum%20of%20Left%20Leaves.py) | |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
