@@ -175,6 +175,7 @@
 | 0938 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | Easy | [Python](Python/941.%20Valid%20Mountain%20Array.py) | |
 | 0941 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](Python/938.%20Range%20Sum%20of%20BST.py) | |
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match) | Easy | [Python](Python/942.%20DI%20String%20Match.py) | |
+| 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | Easy | [Python](Python/944.%20Delete%20Columns%20to%20Make%20Sorted.py) | |
 | 0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | Easy | [Python](Python/953.%20Verifying%20an%20Alien%20Dictionary.py) | |
 | 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | Easy | [Python](Python/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.py) | |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Medium | [Python](Python/973.%20K%20Closest%20Points%20to%20Origin.py) | |
