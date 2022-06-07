@@ -244,7 +244,7 @@
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | Easy | [Python](Python/1446.%20Consecutive%20Characters.py) | |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | Easy | [Python](Python/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.py) | |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy | [Python](Python/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.py) | |
-| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/destination-city) | Easy | [Python](Python/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.py) | |
+| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/destination-city) | Easy | [JavaScritp](JavaScript/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.js) / [Python](Python/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.py) | |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays) | Easy | [Python](Python/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py) | |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | [JavaScript](JavaScript/1470.%20Shuffle%20the%20Array.js) | |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history) | Medium | [Python](Python/1472.%20Design%20Browser%20History.py) | |
