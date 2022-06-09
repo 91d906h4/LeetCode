@@ -123,6 +123,7 @@
 | 0511 | [Game Play Analysis I](https://leetcode.com/problems/student-attendance-record-i) | Easy | [Python](Python/551.%20Student%20Attendance%20Record%20I.py) | |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | [Python](Python/520.%20Detect%20Capital.py) | |
 | 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](Python/535.%20Encode%20and%20Decode%20TinyURL.py) | |
+| 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | Easy | [Python](Python/541.%20Reverse%20String%20II.py) | |
 | 0551 | [Student Attendance Record I](https://leetcode.com/problems/game-play-analysis-i) | Easy | [MySQL](MySQL/511.%20Game%20Play%20Analysis%20I.mysql) | |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | [JavaScript](JavaScript/557.%20Reverse%20Words%20in%20a%20String%20III.js) / [Python](Python/557.%20Reverse%20Words%20in%20a%20String%20III.py) | |
 | 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | Easy | [JavaScript](JavaScript/561.%20Array%20Partition%20I.js) | |
