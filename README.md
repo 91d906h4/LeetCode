@@ -111,6 +111,7 @@
 | 0476 | [LNumber Complement](https://leetcode.com/problems/number-complement) | Easy | [Python](Python/476.%20Number%20Complement.py) | |
 | 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | [Python](Python/482.%20License%20Key%20Formatting.py) | |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | [JavaScript](JavaScript/496.%20Next%20Greater%20Element%20I.js) / [Python](Python/496.%20Next%20Greater%20Element%20I.py) | |
+| 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | Easy | [Python](Python/500.%20Keyboard%20Row.py) | |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | [Python](Python/504.%20Base%207.py) | |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | [Python](Python/506.%20Relative%20Ranks.py) | |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | [Python](Python/507.%20Perfect%20Number.py) | |
