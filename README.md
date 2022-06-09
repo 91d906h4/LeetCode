@@ -107,6 +107,7 @@
 | 0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | Easy | [Python](Python/434.%20Number%20of%20Segments%20in%20a%20String.py) |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | [Python](Python/441.%20Arranging%20Coins.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | [Python](Python/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | |
+| 0459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | Easy | [Python](Python/459.%20Repeated%20Substring%20Pattern.py) | |
 | 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](Python/461.%20Hamming%20Distance.py) | <details><summary>Note</summary> [Bitwise Operations on Integer Types](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)</details> |
 | 0476 | [LNumber Complement](https://leetcode.com/problems/number-complement) | Easy | [Python](Python/476.%20Number%20Complement.py) | |
 | 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | [Python](Python/482.%20License%20Key%20Formatting.py) | |
