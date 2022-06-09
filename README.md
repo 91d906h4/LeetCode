@@ -61,6 +61,7 @@
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [JavaScript](JavaScript/190.%20Reverse%20Bits.js) | |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [JavaScript](JavaScript/191.%20Number%20of%201%20Bits.js) / [Python](Python/191.%20Number%20of%201%20Bits.py) | |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | [MySQL](MySQL/196.%20Delete%20Duplicate%20Emails.mysql) | |
+| 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | Easy | [MySQL](MySQL/197.%20Rising%20Temperature.mysql) | |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [JavaScript](JavaScript/202.%20Happy%20Number.js) / [Python](Python/202.%20Happy%20Number.py) | |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [JavaScript](JavaScript/205.%20Isomorphic%20Strings.js) | |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [JavaScript](JavaScript/217.%20Contains%20Duplicate.js) / [Python](Python/217.%20Contains%20Duplicate.py) | |
