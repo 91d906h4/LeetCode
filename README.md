@@ -359,6 +359,7 @@
 | 2053 | [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy | [Python](Python/2053.%20Kth%20Distinct%20String%20in%20an%20Array.py) | |
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | Easy | [Python](Python/2057.%20Smallest%20Index%20With%20Equal%20Value.py) | |
 | 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants) | Medium | [Python](Python/2079.%20Watering%20Plants.py) | |
+| 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | Easy | [Python](Python/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.py) | |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | Easy | [JavaScript](JavaScript/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.js) | |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum) | Easy | [Python](Python/2099.%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum.py) | |
 | 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | Easy | [JavaScript](JavaScript/2103.%20Rings%20and%20Rods.js) | |
