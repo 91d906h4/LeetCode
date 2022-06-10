@@ -23,4 +23,4 @@ class Solution(object):
 #                 i += 1
 #             j += 1
 
-nums[:] = list(filter((0).__ne__, nums)) + [0] * nums.count(0)
+        nums[:] = list(filter((0).__ne__, nums)) + [0] * nums.count(0)
