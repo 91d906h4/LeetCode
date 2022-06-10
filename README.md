@@ -352,6 +352,7 @@
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | Easy | [Python](Python/2000.%20Reverse%20Prefix%20of%20Word.py) | |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | Easy | [JavaScript](JavaScript/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.js) | |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | Easy | [JavaScript](JavaScript/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.js) | |
+| 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | Easy | [Python](Python/2022.%20Convert%201D%20Array%20Into%202D%20Array.py) | |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | Easy | [Python](Python/2032.%20Two%20Out%20of%20Three.py) | |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | Easy | [Python](Python/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.py) | |
 | 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence) | Easy | [Python](Python/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence.py) | |
