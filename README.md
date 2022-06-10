@@ -355,6 +355,7 @@
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | Easy | [Python](Python/2022.%20Convert%201D%20Array%20Into%202D%20Array.py) | |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | Easy | [Python](Python/2032.%20Two%20Out%20of%20Three.py) | |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | Easy | [Python](Python/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.py) | |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | Easy | [Python](Python/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py) | |
 | 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence) | Easy | [Python](Python/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence.py) | |
 | 2053 | [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy | [Python](Python/2053.%20Kth%20Distinct%20String%20in%20an%20Array.py) | |
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | Easy | [Python](Python/2057.%20Smallest%20Index%20With%20Equal%20Value.py) | |
