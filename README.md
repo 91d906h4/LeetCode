@@ -374,6 +374,7 @@
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | [Python](Python/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.py) | |
 | 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | Easy | [Python](Python/2169.%20Count%20Operations%20to%20Obtain%20Zero.py) | |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | Easy | [JavaScript](JavaScript/2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.js) | |
+| 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum) | Easy | [Python](Python/2180.%20Count%20Integers%20With%20Even%20Digit%20Sum.py) | |
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | Easy | [JavaScript](JavaScript/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.js) / [Python](Python/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py) | |
 | 2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array) | Easy | [Python](Python/2190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array.py) | |
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | Easy | [JavaScript](JavaScript/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.js) | |
