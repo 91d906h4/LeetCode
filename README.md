@@ -378,6 +378,7 @@
 | 2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array) | Easy | [Python](Python/2190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array.py) | |
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | Easy | [JavaScript](JavaScript/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.js) | |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | Easy | [Python](Python/2206.%20Divide%20Array%20Into%20Equal%20Pairs.py) | |
+| 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array) | Easy | [Python](Python/2210.%20Count%20Hills%20and%20Valleys%20in%20an%20Array.py) | |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | [Python](Python/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.py) | |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | Easy | [JavaScript](JavaScript/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.js) | |
 | 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time) | Easy | [Python](Python/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time.py) | |
