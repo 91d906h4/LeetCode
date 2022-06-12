@@ -18,11 +18,17 @@ class Solution(object):
 #             temp[i] = counter
 #         return np.amax(temp)
 
-        max_, temp = -float("inf"), -float("inf")
-        for i in nums:
-            if i + temp > i:
-                temp += i
-            else:
-                temp = i
-            max_ = max(max_, temp)
-        return max_
+#         max_, temp = -float("inf"), -float("inf")
+#         for i in nums:
+#             if i + temp > i:
+#                 temp += i
+#             else:
+#                 temp = i
+#             max_ = max(max_, temp)
+#         return max_
+
+        temp = result = nums[0]
+        for i in nums[1:]:
+            temp = max(i, temp + i)
+            result = max(temp, result)
+        return result
