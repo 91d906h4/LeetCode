@@ -349,7 +349,7 @@
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered) | Easy | [Python](Python/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py) | |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | Easy | [Python](Python/1903.%20Largest%20Odd%20Number%20in%20String.py) | |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | Easy | [JavaScript](JavaScript/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.js) | |
-| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [JavaScript](JavaScript/1920.%20Build%20Array%20from%20Permutation.js) | |
+| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [JavaScript](JavaScript/1920.%20Build%20Array%20from%20Permutation.js) / [PHP](PHP/1920.%20Build%20Array%20from%20Permutation.php) | |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [JavaScript](JavaScript/1929.%20Concatenation%20of%20Array.js) | |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | Easy | [Python](Python/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.py) | |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | Easy | [JavaScript](JavaScript/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.js) | |
@@ -399,7 +399,7 @@
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | Easy | [JavaScript](JavaScript/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.js) | |
 | 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time) | Easy | [Python](Python/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time.py) | |
 | 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | Easy | [Python](Python/2231.%20Largest%20Number%20After%20Digit%20Swaps%20by%20Parity.py) | |
-| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [JavaScript](JavaScript/2235.%20Add%20Two%20Integers.js) | |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [JavaScript](JavaScript/2235.%20Add%20Two%20Integers.js) / [PHP](PHP/2235.%20Add%20Two%20Integers.php) | |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children) | Easy | [JavaScript](JavaScript/2236.%20Root%20Equals%20Sum%20of%20Children.js) | |
 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero) | Easy | [Python](Python/2239.%20Find%20Closest%20Number%20to%20Zero.py) | |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string) | Easy | [Python](Python/2243.%20Calculate%20Digit%20Sum%20of%20a%20String.py) | |
