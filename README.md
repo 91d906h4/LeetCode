@@ -161,6 +161,7 @@
 | 0791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | Medium | [Python](Python/791.%20Custom%20Sort%20String.py) | |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | [JavaScript](JavaScript/796.%20Rotate%20String.js) | |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | [JavaScript](JavaScript/804.%20Unique%20Morse%20Code%20Words.js) | |
+| 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | Easy | [Python](Python/806.%20Number%20of%20Lines%20To%20Write%20String.py) | |
 | 0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | Medium | [Python](Python/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.py) | |
 | 0811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | Medium | [Python](Python/811.%20Subdomain%20Visit%20Count.py) | [Hash Table](https://en.wikipedia.org/wiki/Hash_table) |
 | 0819 | [Most Common Word](https://leetcode.com/problems/most-common-word) | Easy | [Python](Python/819.%20Most%20Common%20Word.py) | |
@@ -168,14 +169,14 @@
 | 0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | Easy | [Python](Python/830.%20Positions%20of%20Large%20Groups.py) | |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [JavaScript](JavaScript/832.%20Flipping%20an%20Image.js) | |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | [Python](Python/836.%20Rectangle%20Overlap.py) | |
+| 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | [JavaScript](JavaScript/844.%20Backspace%20String%20Compare.js) | |
 | 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | Easy | [Python](Python/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | Easy | [Python](Python/859.%20Buddy%20Strings.py) | |
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | Easy | [Python](Python/860.%20Lemonade%20Change.py) | |
-| 0884 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | [JavaScript](JavaScript/844.%20Backspace%20String%20Compare.js) | |
-| 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | Easy | [Python](Python/806.%20Number%20of%20Lines%20To%20Write%20String.py) | |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [JavaScript](JavaScript/867.%20Transpose%20Matrix.js) | |
 | 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | [JavaScript](JavaScript/868.%20Binary%20Gap.js) | |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](Python/876.%20Middle%20of%20the%20Linked%20List.py) | |
+| 0884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](Python/884.%20Uncommon%20Words%20from%20Two%20Sentences.py) | |
 | 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | Easy | [JavaScript](JavaScript/888.%20Fair%20Candy%20Swap.js) | |
 | 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | Medium | [Python](Python/890.%20Find%20and%20Replace%20Pattern.py) | |
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | [JavaScript](JavaScript/896.%20Monotonic%20Array.js) | |
