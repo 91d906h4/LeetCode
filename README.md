@@ -203,6 +203,7 @@
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | [Python](Python/1046.%20Last%20Stone%20Weight.py) | |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | [MySQL](MySQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.mysql) | |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [JavaScript](JavaScript/1051.%20Height%20Checker.js) | |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | Easy | [Python](Python/1071.%20Greatest%20Common%20Divisor%20of%20Strings.py) | |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram) | Easy | [Python](Python/1078.%20Occurrences%20After%20Bigram.py) | |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | Medium | [Python](Python/1079.%20Letter%20Tile%20Possibilities.py) | |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | Easy | [MySQL](MySQL/1084.%20Sales%20Analysis%20III.mysql) | |
