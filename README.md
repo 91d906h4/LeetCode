@@ -69,7 +69,8 @@
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [JavaScript](JavaScript/205.%20Isomorphic%20Strings.js) | |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [JavaScript](JavaScript/217.%20Contains%20Duplicate.js) / [Python](Python/217.%20Contains%20Duplicate.py) | |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | [Python](Python/219.%20Contains%20Duplicate%20II.py) | |
-| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | [Python](226.%20Invert%20Binary%20Tree.py) | |
+| 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy | [Python](Python/225.%20Implement%20Stack%20using%20Queues.py) | |
+| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | [Python](Python/226.%20Invert%20Binary%20Tree.py) | |
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | Easy | [Python](Python/228.%20Summary%20Ranges.py) | |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | [Python](Python/231.%20Power%20of%20Two.py) | |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | [Python](Python/232.%20Implement%20Queue%20using%20Stacks.py) | |
