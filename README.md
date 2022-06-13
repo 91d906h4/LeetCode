@@ -198,6 +198,7 @@
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2) | Medium | [Python](Python/1017.%20Convert%20to%20Base%20-2.py) | [Negative Base](https://en.wikipedia.org/wiki/Negative_base) |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5) | Easy | [Python](Python/1018.%20Binary%20Prefix%20Divisible%20By%205.py) | |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | [Python](Python/1021.%20Remove%20Outermost%20Parentheses.py) | |
+| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game) | Easy | [Python](Python/1025.%20Divisor%20Game.py) | |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang) | Easy | [JavaScript](JavaScript/1037.%20Valid%20Boomerang.js) / [Python](Python/1037.%20Valid%20Boomerang.py) | |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | [Python](Python/1046.%20Last%20Stone%20Weight.py) | |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | [MySQL](MySQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.mysql) | |
