@@ -209,6 +209,7 @@
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](Python/977.%20Squares%20of%20a%20Sorted%20Array.py) | |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | [Python](Python/989.%20Add%20to%20Array-Form%20of%20Integer.py) | |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | Easy | [Python](Python/1002.%20Find%20Common%20Characters.py) |  |
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | Easy | [Python](Python/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py) |  |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](Python/1009.%20Complement%20of%20Base%2010%20Integer.py) |  |
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2) | Medium | [Python](Python/1017.%20Convert%20to%20Base%20-2.py) | [Negative Base](https://en.wikipedia.org/wiki/Negative_base) |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5) | Easy | [Python](Python/1018.%20Binary%20Prefix%20Divisible%20By%205.py) | |
@@ -234,6 +235,7 @@
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | [Python](Python/1189.%20Maximum%20Number%20of%20Balloons.py) | |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy | [Python](Python/1207.%20Unique%20Number%20of%20Occurrences.py) | |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [JavaScript](JavaScript/1221.%20Split%20a%20String%20in%20Balanced%20Strings.js) | |
+| 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability) | Medium | [Python](Python/1227.%20Airplane%20Seat%20Assignment%20Probability.py) | \*Mathematical Solution <sup>[[1]](.Notes/1227.%20Airplane%20Seat%20Assignment%20Probability.txt)</sup> |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | [Python](Python/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py) | |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | Medium | [Python](Python/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py) | |
 | 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array) | Hard | [Python](Python/1250.%20Check%20If%20It%20Is%20a%20Good%20Array.py) | |
@@ -310,6 +312,7 @@
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | Easy | [MySQL](MySQL/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.mysql) | |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | Easy | [MySQL](MySQL/1587.%20Bank%20Account%20Summary%20II.mysql) | |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | Easy | [Python](Python/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) | \*Mathematical Method <sup>[[1]](.Notes/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.txt)</sup> |
+| 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words) | Easy | [Python](Python/1592.%20Rearrange%20Spaces%20Between%20Words.py) | |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | Easy | [Python](Python/1598.%20Crawler%20Log%20Folder.py) | |
 | 1603 | [Design Parking System](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Medium | [Python](JavaScript/1603.%20Design%20Parking%20System.js) / [Python](Python/1603.%20Design%20Parking%20System.py) | |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Easy | [Python](Python/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.py) | [Greedy Algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) |
