@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 450)
+(Total solved problems : 451)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -443,3 +443,4 @@
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game) | Easy | [Python](Python/2293.%20Min%20Max%20Game.py) | |
 | 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | Easy | [Python](Python/2299.%20Strong%20Password%20Checker%20II.py) | |
 | 2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes) | Easy | [Python](Python/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.py) | |
+| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | [Python](Python/2325.%20Decode%20the%20Message.py) | |
