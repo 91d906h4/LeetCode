@@ -1,13 +1,13 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 451)
+(Total solved problems : 452)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [JavaScript](JavaScript/1.%20Two%20Sum.js) / [Python](Python/1.%20Two%20Sum.py) | |
-| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Mediun | [Python](Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) | |
-| 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [JavaScript](JavaScript/4.%20Median%20of%20Two%20Sorted%20Arrays.js) | |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [JavaScript](JavaScript/1.%20Two%20Sum.js) / [Python](Python/1.%20Two%20Sum.py) | |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Mediun | [Python](Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) | |
+| 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | [JavaScript](JavaScript/4.%20Median%20of%20Two%20Sorted%20Arrays.js) | |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | [JavaScript](JavaScript/7.%20Reverse%20Integer.js) | |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | [Python](Python/8.%20String%20to%20Integer%20(atoi).py) | |
 | 0009 | [Palindromem Number](https://leetcode.com/problems/palindrome-number) | Easy | [JavaScript](JavaScript/9.%20Palindrome%20Number.js) | |
@@ -33,10 +33,10 @@
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
 | 0065 | [Valid Number](https://leetcode.com/problems/valid-number) | Hard | [Python](Python/65.%20Valid%20Number.py) | [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
-| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](Python/67.%20Add%20Binary.py) | |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | [Python](Python/67.%20Add%20Binary.py) | |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) / [Python](Python/69.%20Sqrt(x).py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) | |
-| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Easy | [Python](Python/74.%20Search%20a%202D%20Matrix.py) | |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Easy | [Python](Python/74.%20Search%20a%202D%20Matrix.py) | |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [Python](Python/75.%20Sort%20Colors.py) | [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | [Python](Python/83.%20Remove%20Duplicates%20from%20Sorted%20List.py) | |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [Python](Python/88.%20Merge%20Sorted%20Array.py) | |
@@ -158,6 +158,7 @@
 | 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | Easy | [Python](Python/674.%20Longest%20Continuous%20Increasing%20Subsequence.py) | |
 | 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | [Python](Python/682.%20Baseball%20Game.py) | |
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium | [Python](Python/695.%20Max%20Area%20of%20Island.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
+| 0697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | Easy | [Python](Python/697.%20Degree%20of%20an%20Array.py) | |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | [Python](Python/700.%20Search%20in%20a%20Binary%20Search%20Tree.py) | |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](Python/704.%20Binary%20Search.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) / [Python](Python/709.%20To%20Lower%20Case.py) | |
