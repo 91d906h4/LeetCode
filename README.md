@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 452)
+(Total solved problems : 453)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -198,6 +198,7 @@
 | 0914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | Easy | [Python](Python/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.py) | |
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy | [JavaScript](JavaScript/917.%20Reverse%20Only%20Letters.js) | |
 | 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | [JavaScript](JavaScript/922.%20Sort%20Array%20By%20Parity%20II.js) | |
+| 0925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | Easy | [Python](Python/925.%20Long%20Pressed%20Name.py) | |
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | Easy | [Python](Python/933.%20Number%20of%20Recent%20Calls.py) | |
 | 0937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files) | Easy | [Python](Python/937.%20Reorder%20Data%20in%20Log%20Files.py) | |
 | 0938 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | Easy | [Python](Python/941.%20Valid%20Mountain%20Array.py) | |
