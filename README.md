@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 456)
+(Total solved problems : 457)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -56,9 +56,10 @@
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium | [Python](Python/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy | [Python](Python/151.%20Reverse%20Words%20in%20a%20String.py) | |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | [JavaScript](JavaScript/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.js) / [Python](Python/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) / [PHP](PHP/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.php) | |
-| 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | [JavaScript](JavaScript/169.%20Majority%20Element.js) | |
+| 0169 | [Second Highest Salary](https://leetcode.com/problems/majority-element) | Easy | [JavaScript](JavaScript/169.%20Majority%20Element.js) | |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy | [Python](Python/171.%20Excel%20Sheet%20Column%20Number.py) | |
 | 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | [MySQL](MySQL/175.%20Combine%20Two%20Tables.mysql) | |
+| 0176 | [Combine Two Tables](https://leetcode.com/problems/second-highest-salary) | Medium | [MySQL](MySQL/176.%20Second%20Highest%20Salary.mysql) | |
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | [MySQL](MySQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.mysql) | |
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | [MySQL](MySQL/182.%20Duplicate%20Emails.mysql) | |
 | 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | [MySQL](MySQL/183.%20Customers%20Who%20Never%20Order.mysql) | |
