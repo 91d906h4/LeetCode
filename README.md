@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 455)
+(Total solved problems : 456)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -351,6 +351,7 @@
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | [Python](Python/1748.%20Sum%20of%20Unique%20Elements.py) | |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | [Python](Python/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py) | |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | [MySQL](MySQL/1757.%20Recyclable%20and%20Low%20Fat%20Products.mysql) | |
+| 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string) | Easy | [Python](Python/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.py) | |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | Easy | [Python](Python/1768.%20Merge%20Strings%20Alternately.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/3/library/itertools.html#itertools.zip_longest)</sup> |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | Medium | [Python](Python/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.py) | |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | Easy | [JavaScript](JavaScript/1773.%20Count%20Items%20Matching%20a%20Rule.js) | |
