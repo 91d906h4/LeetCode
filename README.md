@@ -282,6 +282,7 @@
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers) | Easy | [MySQL](MySQL/1407.%20Top%20Travellers.mysql) | |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array) | Easy | [Python](Python/1408.%20String%20Matching%20in%20an%20Array.py) | |
 | 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser) | Medium | [Python](Python/1410.%20HTML%20Entity%20Parser.py) | |
+| 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) | Easy | [Python](Python/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.py) | |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | Easy | [Python](Python/1417.%20Reformat%20The%20String.py) | |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | [JavaScript](JavaScript/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js) | |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | Medium | [Python](Python/1433.%20Check%20If%20a%20String%20Can%20Break%20Another%20String.py) | |
