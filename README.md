@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 465)
+(Total solved problems : 466)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -453,6 +453,7 @@
 | 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | Easy | [Python](Python/2299.%20Strong%20Password%20Checker%20II.py) | |
 | 2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes) | Easy | [Python](Python/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.py) | |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | [Python](Python/2325.%20Decode%20the%20Message.py) | |
+| 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | Midium | [Python](Python/2336.%20Smallest%20Number%20in%20Infinite%20Set.py) | |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) | Easy | [Python](Python/2341.%20Maximum%20Number%20of%20Pairs%20in%20Array.py) | |
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | Midium | [Python](Python/2348.%20Number%20of%20Zero-Filled%20Subarrays.py) | |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | Easy | [Python](Python/2351.%20First%20Letter%20to%20Appear%20Twice.py) | |
