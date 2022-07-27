@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 466)
+(Total solved problems : 467)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -445,6 +445,7 @@
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | Easy | [Python](Python/2259.%20Remove%20Digit%20From%20Number%20to%20Maximize%20Result.py) | |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | Easy | [JavaScript](JavaScript/2264.%20Largest%203-Same-Digit%20Number%20in%20String.js) / [Python](Python/2264.%20Largest%203-Same-Digit%20Number%20in%20String.py) | |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number) | Easy | [Python](Python/2269.%20Find%20the%20K-Beauty%20of%20a%20Number.py) | |
+| 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | Midium | [Python](Python/2270.%20Number%20of%20Ways%20to%20Split%20Array.py) | |
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) | Easy | [Python](Python/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.py) | |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | Easy | [Python](Python/2278.%20Percentage%20of%20Letter%20in%20String.py) | |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value) | Easy | [Python](Python/2283.%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.py) | |
