@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 471)
+(Total solved problems : 472)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -440,6 +440,7 @@
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [JavaScript](JavaScript/2235.%20Add%20Two%20Integers.js) / [PHP](PHP/2235.%20Add%20Two%20Integers.php) | |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children) | Easy | [JavaScript](JavaScript/2236.%20Root%20Equals%20Sum%20of%20Children.js) | |
 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero) | Easy | [Python](Python/2239.%20Find%20Closest%20Number%20to%20Zero.py) | |
+| 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) | Midium | [Python](Python/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.py) | |
 | 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine) | Midium | [Python](Python/2241.%20Design%20an%20ATM%20Machine.py) | |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string) | Easy | [Python](Python/2243.%20Calculate%20Digit%20Sum%20of%20a%20String.py) | |
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | Easy | [Python](Python/2248.%20Intersection%20of%20Multiple%20Arrays.py) | |
