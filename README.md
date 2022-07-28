@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 470)
+(Total solved problems : 471)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -459,6 +459,7 @@
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | [Python](Python/2325.%20Decode%20the%20Message.py) | |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | Midium | [Python](Python/2336.%20Smallest%20Number%20in%20Infinite%20Set.py) | |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) | Easy | [Python](Python/2341.%20Maximum%20Number%20of%20Pairs%20in%20Array.py) | |
+| 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number) | Midium | [Python](Python/2343.%20Query%20Kth%20Smallest%20Trimmed%20Number.py) | |
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | Midium | [Python](Python/2348.%20Number%20of%20Zero-Filled%20Subarrays.py) | |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | Easy | [Python](Python/2351.%20First%20Letter%20to%20Appear%20Twice.py) | |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | Midium | [Python](Python/2352.%20Equal%20Row%20and%20Column%20Pairs.py) | |
