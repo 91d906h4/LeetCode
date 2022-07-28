@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 474)
+(Total solved problems : 475)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -425,14 +425,15 @@
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | [JavaScript](JavaScript/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.js) | |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | [Python](Python/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.py) | |
 | 2164 | [Partition Array According to Given Pivot](https://leetcode.com/problems/sort-even-and-odd-indices-independently) | Easy | [Python](Python/2164.%20Sort%20Even%20and%20Odd%20Indices%20Independently.py) | |
+| 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number) | Medium | [Python](Python/2165.%20Smallest%20Value%20of%20the%20Rearranged%20Number.py) | |
 | 2169 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/count-operations-to-obtain-zero) | Easy | [Python](Python/2169.%20Count%20Operations%20to%20Obtain%20Zero.py) | |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | Easy | [JavaScript](JavaScript/2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.js) | |
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum) | Easy | [Python](Python/2180.%20Count%20Integers%20With%20Even%20Digit%20Sum.py) | |
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | Easy | [JavaScript](JavaScript/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.js) / [Python](Python/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py) | |
 | 2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array) | Easy | [Python](Python/2190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array.py) | |
-| 2191 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers) | Midium | [Python](Python/2191.%20Sort%20the%20Jumbled%20Numbers.py) | |
+| 2191 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers) | Medium | [Python](Python/2191.%20Sort%20the%20Jumbled%20Numbers.py) | |
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | Easy | [JavaScript](JavaScript/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.js) | |
-| 2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum) | Midium | [Python](Python/2195.%20Append%20K%20Integers%20With%20Minimal%20Sum.py) | |
+| 2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum) | Medium | [Python](Python/2195.%20Append%20K%20Integers%20With%20Minimal%20Sum.py) | |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | Easy | [Python](Python/2206.%20Divide%20Array%20Into%20Equal%20Pairs.py) | |
 | 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array) | Easy | [Python](Python/2210.%20Count%20Hills%20and%20Valleys%20in%20an%20Array.py) | |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | [Python](Python/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.py) | |
@@ -442,27 +443,27 @@
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [JavaScript](JavaScript/2235.%20Add%20Two%20Integers.js) / [PHP](PHP/2235.%20Add%20Two%20Integers.php) | |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children) | Easy | [JavaScript](JavaScript/2236.%20Root%20Equals%20Sum%20of%20Children.js) | |
 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero) | Easy | [Python](Python/2239.%20Find%20Closest%20Number%20to%20Zero.py) | |
-| 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) | Midium | [Python](Python/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.py) | |
-| 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine) | Midium | [Python](Python/2241.%20Design%20an%20ATM%20Machine.py) | |
+| 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) | Medium | [Python](Python/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.py) | |
+| 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine) | Medium | [Python](Python/2241.%20Design%20an%20ATM%20Machine.py) | |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string) | Easy | [Python](Python/2243.%20Calculate%20Digit%20Sum%20of%20a%20String.py) | |
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | Easy | [Python](Python/2248.%20Intersection%20of%20Multiple%20Arrays.py) | |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | Easy | [Python](Python/2255.%20Count%20Prefixes%20of%20a%20Given%20String.py) / [PHP](PHP/2255.%20Count%20Prefixes%20of%20a%20Given%20String.php) | |
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | Easy | [Python](Python/2259.%20Remove%20Digit%20From%20Number%20to%20Maximize%20Result.py) | |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | Easy | [JavaScript](JavaScript/2264.%20Largest%203-Same-Digit%20Number%20in%20String.js) / [Python](Python/2264.%20Largest%203-Same-Digit%20Number%20in%20String.py) | |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number) | Easy | [Python](Python/2269.%20Find%20the%20K-Beauty%20of%20a%20Number.py) | |
-| 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | Midium | [Python](Python/2270.%20Number%20of%20Ways%20to%20Split%20Array.py) | |
+| 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | Medium | [Python](Python/2270.%20Number%20of%20Ways%20to%20Split%20Array.py) | |
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) | Easy | [Python](Python/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.py) | |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | Easy | [Python](Python/2278.%20Percentage%20of%20Letter%20in%20String.py) | |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value) | Easy | [Python](Python/2283.%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.py) | |
 | 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string) | Easy | [Python](Python/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String.py) | |
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game) | Easy | [Python](Python/2293.%20Min%20Max%20Game.py) | |
-| 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array) | Midium | [Python](Python/2295.%20Replace%20Elements%20in%20an%20Array.py) | |
+| 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array) | Medium | [Python](Python/2295.%20Replace%20Elements%20in%20an%20Array.py) | |
 | 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | Easy | [Python](Python/2299.%20Strong%20Password%20Checker%20II.py) | |
 | 2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes) | Easy | [Python](Python/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.py) | |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | [Python](Python/2325.%20Decode%20the%20Message.py) | |
-| 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | Midium | [Python](Python/2336.%20Smallest%20Number%20in%20Infinite%20Set.py) | |
+| 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | Medium | [Python](Python/2336.%20Smallest%20Number%20in%20Infinite%20Set.py) | |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) | Easy | [Python](Python/2341.%20Maximum%20Number%20of%20Pairs%20in%20Array.py) | |
-| 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number) | Midium | [Python](Python/2343.%20Query%20Kth%20Smallest%20Trimmed%20Number.py) | |
-| 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | Midium | [Python](Python/2348.%20Number%20of%20Zero-Filled%20Subarrays.py) | |
+| 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number) | Medium | [Python](Python/2343.%20Query%20Kth%20Smallest%20Trimmed%20Number.py) | |
+| 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | Medium | [Python](Python/2348.%20Number%20of%20Zero-Filled%20Subarrays.py) | |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | Easy | [Python](Python/2351.%20First%20Letter%20to%20Appear%20Twice.py) | |
-| 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | Midium | [Python](Python/2352.%20Equal%20Row%20and%20Column%20Pairs.py) | |
+| 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | Medium | [Python](Python/2352.%20Equal%20Row%20and%20Column%20Pairs.py) | |
