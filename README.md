@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 469)
+(Total solved problems : 470)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -453,6 +453,7 @@
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value) | Easy | [Python](Python/2283.%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.py) | |
 | 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string) | Easy | [Python](Python/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String.py) | |
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game) | Easy | [Python](Python/2293.%20Min%20Max%20Game.py) | |
+| 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array) | Midium | [Python](Python/2295.%20Replace%20Elements%20in%20an%20Array.py) | |
 | 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | Easy | [Python](Python/2299.%20Strong%20Password%20Checker%20II.py) | |
 | 2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes) | Easy | [Python](Python/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.py) | |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | [Python](Python/2325.%20Decode%20the%20Message.py) | |
