@@ -70,7 +70,7 @@
 | 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | Easy | [MySQL](MySQL/197.%20Rising%20Temperature.mysql) | |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [JavaScript](JavaScript/202.%20Happy%20Number.js) / [Python](Python/202.%20Happy%20Number.py) | |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | [Python](Python/203.%20Remove%20Linked%20List%20Elements.py) | |
-| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [JavaScript](JavaScript/205.%20Isomorphic%20Strings.js) | |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [JavaScript](JavaScript/205.%20Isomorphic%20Strings.js) [Python](Python/205.%20Isomorphic%20Strings.py) | |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [JavaScript](JavaScript/217.%20Contains%20Duplicate.js) / [Python](Python/217.%20Contains%20Duplicate.py) | |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | [Python](Python/219.%20Contains%20Duplicate%20II.py) | |
 | 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy | [Python](Python/225.%20Implement%20Stack%20using%20Queues.py) | |
