@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 478)
+(Total solved problems : 479)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -305,6 +305,7 @@
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | Easy | [MySQL](MySQL/1484.%20Group%20Sold%20Products%20By%20The%20Date.mysql) | |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | [JavaScript](JavaScript/1486.%20XOR%20Operation%20in%20an%20Array.js) | |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | Easy | [Python](Python/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py) | |
+| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | Medium | [Python](Python/1492.%20The%20kth%20Factor%20of%20n.py) | |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | Easy | [Python](Python/1496.%20Path%20Crossing.py) | |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | Easy | [Python](Python/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py) | |
 | 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | Easy | [Python](Python/1507.%20Reformat%20Date.py) | |
