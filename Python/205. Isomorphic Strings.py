@@ -1,9 +1,7 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
         def helper(s):
-            dict_ = {}
-            t = 0
-            r = []
+            dict_, r, t = {}, [], 0
             for i in s:
                 if i not in dict_:
                     dict_[i] = t
