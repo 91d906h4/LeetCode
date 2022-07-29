@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 479)
+(Total solved problems : 480)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -348,6 +348,7 @@
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | [JavaScript](JavaScript/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.js) / [Python](Python/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py) | |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | Easy | [MySQL](MySQL/1693.%20Daily%20Leads%20and%20Partners.mysql) | |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | Easy | [Python](Python/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py) | |
+| 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time) | Medium | [Python](Python/1701.%20Average%20Waiting%20Time.py) | |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Easy | [Python](Python/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.py) | |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | Easy | [Python](Python/1710.%20Maximum%20Units%20on%20a%20Truck.py) | |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | [JavaScript](JavaScript/1720.%20Decode%20XORed%20Array.js) | |
