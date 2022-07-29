@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 475)
+(Total solved problems : 476)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -378,6 +378,7 @@
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | Easy | [JavaScript](JavaScript/1844.%20Replace%20All%20Digits%20with%20Characters.js) | |
 | 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values) | Medium | [Python](Python/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.py) | |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | [JavaScript](JavaScript/1859.%20Sorting%20the%20Sentence.js) | |
+| 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box) | Medium | [Python](Python/1861.%20Rotating%20the%20Box.py) | |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | Easy | [MySQL](MySQL/1873.%20Calculate%20Special%20Bonus.mysql) | |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | Medium | [Python](Python/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.py) | |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | Easy | [Python](Python/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.py) | |
