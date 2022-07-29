@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 477)
+(Total solved problems : 478)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -172,6 +172,7 @@
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | Easy | [Python](Python/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) | |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) | |
 | 0776 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | [Python](Python/766.%20Toeplitz%20Matrix.py) | |
+| 0779 | [ K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | Medium | [Python](Python/779.%20K-th%20Symbol%20in%20Grammar.py) | |
 | 0791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | Medium | [Python](Python/791.%20Custom%20Sort%20String.py) | |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | [JavaScript](JavaScript/796.%20Rotate%20String.js) | |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | [JavaScript](JavaScript/804.%20Unique%20Morse%20Code%20Words.js) | |
