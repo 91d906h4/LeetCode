@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 486)
+(Total solved problems : 487)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -274,8 +274,9 @@
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | Easy | [MySQL](MySQL/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.mysql) | |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Easy | [Python](Python/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | [Python](Python/1380.%20Lucky%20Numbers%20in%20a%20Matrix.py) | |
+| 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) | Medium | [Python](Python/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.py) | |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | Easy | [Python](Python/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.py) | |
-| 1387 | [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value) | Medium | [Python](Python/1387.%20Sort%20Integers%20by%20The%20Power%20Value.py) | |
+| 1387 | [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value) | Medium | [Python](Python/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.py) | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | Easy | [JavaScript](JavaScript/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.js) | |
 | 1393 | [Capital Gain／Loss](https://leetcode.com/problems/capital-gainloss) | Medium | [MySQL](MySQL/1393.%20Capital%20Gain／Loss.mysql) | |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | Easy | [Python](Python/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.py) | |
