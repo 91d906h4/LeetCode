@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 499)
+(Total solved problems : 500)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -476,6 +476,7 @@
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) | Easy | [Python](Python/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.py) | |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | Easy | [Python](Python/2278.%20Percentage%20of%20Letter%20in%20String.py) | |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value) | Easy | [Python](Python/2283.%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.py) | |
+| 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count) | Medium | [Python](Python/2284.%20Sender%20With%20Largest%20Word%20Count.py) | |
 | 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string) | Easy | [Python](Python/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String.py) | |
 | 2288 | [Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices) | Medium | [Python](Python/2288.%20Apply%20Discount%20to%20Prices.py) | |
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game) | Easy | [Python](Python/2293.%20Min%20Max%20Game.py) | |
