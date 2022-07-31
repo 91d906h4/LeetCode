@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 498)
+(Total solved problems : 499)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -150,6 +150,7 @@
 | 0590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | Easy | [Python](Python/590.%20N-ary%20Tree%20Postorder%20Traversal.py) | [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [MySQL](MySQL/595.%20Big%20Countries.mysql) | |
 | 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | Easy | [MySQL](MySQL/596.%20Classes%20More%20Than%205%20Students.mysql) | |
+| 0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | Easy | [Python](Python/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.py) | |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
 | 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | [MySQL](MySQL/607.%20Sales%20Person.mysql) | |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | [MySQL](MySQL/620.%20Not%20Boring%20Movies.mysql) | |
