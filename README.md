@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 493)
+(Total solved problems : 494)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -452,6 +452,7 @@
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | Easy | [Python](Python/2206.%20Divide%20Array%20Into%20Equal%20Pairs.py) | |
 | 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array) | Easy | [Python](Python/2210.%20Count%20Hills%20and%20Valleys%20in%20an%20Array.py) | |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | [Python](Python/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.py) | |
+| 2216 | [Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful) | Medium | [Python](Python/2216.%20Minimum%20Deletions%20to%20Make%20Array%20Beautiful.py) | |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | Easy | [JavaScript](JavaScript/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.js) | |
 | 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time) | Easy | [Python](Python/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time.py) | |
 | 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | Easy | [Python](Python/2231.%20Largest%20Number%20After%20Digit%20Swaps%20by%20Parity.py) | |
