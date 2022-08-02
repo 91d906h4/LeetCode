@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 500)
+(Total solved problems : 501)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -492,3 +492,4 @@
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | Medium | [Python](Python/2348.%20Number%20of%20Zero-Filled%20Subarrays.py) | |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | Easy | [Python](Python/2351.%20First%20Letter%20to%20Appear%20Twice.py) | |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | Medium | [Python](Python/2352.%20Equal%20Row%20and%20Column%20Pairs.py) | |
+| 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy | [Python](Python/2357.%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.py) | |
