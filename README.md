@@ -115,7 +115,7 @@
 | 0398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index) | Easy | [Python](Python/398.%20Random%20Pick%20Index.py) | |
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy | [Python](Python/404.%20Sum%20of%20Left%20Leaves.py) | |
 | 0405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | Easy | [Python](Python/405.%20Convert%20a%20Number%20to%20Hexadecimal.py) | |
-| 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | [Python](Python/409.%20Longest%20Palindrome.py) | |
+| 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | [Python](Python/409.%20Longest%20Palindrome.py) / [Java](Java/409.%20Longest%20Palindrome.java) | |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
 | 0419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) | Medium | [Python](Python/419.%20Battleships%20in%20a%20Board.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
