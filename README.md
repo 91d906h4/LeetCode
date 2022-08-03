@@ -50,7 +50,7 @@
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | [Python](Python/119.%20Pascal's%20Triangle%20II.py) | |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | [Python](Python/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) / [Java](Java/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) | |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | [Python](Python/133.%20Clone%20Graph.py) | |
-| 0136 | [Single Number](https://leetcode.com/problems/single-number) | Medium | [JavaScript](JavaScript/136.%20Single%20Number.js) | |
+| 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | [JavaScript](JavaScript/136.%20Single%20Number.js) / [Java](Java/136.%20Single%20Number.java) | |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | [Python](Python/144.%20Binary%20Tree%20Preorder%20Traversal.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | [Python](Python/145.%20Binary%20Tree%20Postorder%20Traversal.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Easy | [Python](Python/155.%20Min%20Stack.py) | |
