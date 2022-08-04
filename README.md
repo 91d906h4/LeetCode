@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 505)
+(Total solved problems : 506)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -430,6 +430,7 @@
 | 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence) | Easy | [Python](Python/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence.py) | |
 | 2053 | [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy | [Python](Python/2053.%20Kth%20Distinct%20String%20in%20an%20Array.py) | |
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | Easy | [Python](Python/2057.%20Smallest%20Index%20With%20Equal%20Value.py) | |
+| 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors) | Easy | [Python](Python/2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors.py) | |
 | 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants) | Medium | [Python](Python/2079.%20Watering%20Plants.py) | |
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | Easy | [Python](Python/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.py) | |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | Easy | [JavaScript](JavaScript/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.js) | |
