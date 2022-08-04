@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 512)
+(Total solved problems : 513)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -228,10 +228,11 @@
 | 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | [Python](Python/976.%20Largest%20Perimeter%20Triangle.py) | |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](Python/977.%20Squares%20of%20a%20Sorted%20Array.py) | |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | [Python](Python/989.%20Add%20to%20Array-Form%20of%20Integer.py) | |
-| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | Easy | [Python](Python/1002.%20Find%20Common%20Characters.py) |  |
-| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | Easy | [Python](Python/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py) |  |
-| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](Python/1009.%20Complement%20of%20Base%2010%20Integer.py) |  |
-| 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | Medium | [Python](Python/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.py) |  |
+| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | Easy | [Python](Python/1002.%20Find%20Common%20Characters.py) | |
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | Easy | [Python](Python/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py) | |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](Python/1009.%20Complement%20of%20Base%2010%20Integer.py) | |
+| 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | Medium | [Python](Python/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.py) | |
+| 1016 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n) | Medium | [Python](Python/1016.%20Binary%20String%20With%20Substrings%20Representing%201%20To%20N.py) | |
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2) | Medium | [Python](Python/1017.%20Convert%20to%20Base%20-2.py) | [Negative Base](https://en.wikipedia.org/wiki/Negative_base) |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5) | Easy | [Python](Python/1018.%20Binary%20Prefix%20Divisible%20By%205.py) | |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | [Python](Python/1021.%20Remove%20Outermost%20Parentheses.py) | |
