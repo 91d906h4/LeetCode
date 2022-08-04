@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 509)
+(Total solved problems : 510)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -445,6 +445,7 @@
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | Easy | [JavaScript](JavaScript/2119.%20A%20Number%20After%20a%20Double%20Reversal.js) | |
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | Easy | [Python](Python/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.py) | |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank) | Medium | [Python](Python/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.py) | |
+| 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids) | Medium | [Python](Python/2126.%20Destroying%20Asteroids.py) | |
 | 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | Easy | [Python](Python/2129.%20Capitalize%20the%20Title.py) | |
 | 2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) | Easy | [Python](Python/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.py) | |
 | 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | Easy | [Python](Python/2138.%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k.py) | |
