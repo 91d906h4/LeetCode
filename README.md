@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 504)
+(Total solved problems : 505)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -463,6 +463,7 @@
 | 2216 | [Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful) | Medium | [Python](Python/2216.%20Minimum%20Deletions%20to%20Make%20Array%20Beautiful.py) | |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | Easy | [JavaScript](JavaScript/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.js) | |
 | 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time) | Easy | [Python](Python/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time.py) | |
+| 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses) | Medium | [Python](Python/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.py) | |
 | 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | Easy | [Python](Python/2231.%20Largest%20Number%20After%20Digit%20Swaps%20by%20Parity.py) | |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [JavaScript](JavaScript/2235.%20Add%20Two%20Integers.js) / [PHP](PHP/2235.%20Add%20Two%20Integers.php) | |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children) | Easy | [JavaScript](JavaScript/2236.%20Root%20Equals%20Sum%20of%20Children.js) | |
