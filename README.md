@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 502)
+(Total solved problems : 503)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -80,6 +80,7 @@
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | [Python](Python/231.%20Power%20of%20Two.py) / [Java](Java/231.%20Power%20of%20Two.java) | |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | [Python](Python/232.%20Implement%20Queue%20using%20Stacks.py) | |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | [Python](Python/234.%20Palindrome%20Linked%20List.py) | |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Easy | [Java](Java/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java) | |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy | [Python](Python/237.%20Delete%20Node%20in%20a%20Linked%20List.py) | |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | [Python](Python/242.%20Valid%20Anagram.py) | |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | [Python](Python/258.%20Add%20Digits.py) | |
