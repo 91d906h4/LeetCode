@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 515)
+(Total solved problems : 516)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -215,6 +215,7 @@
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | Medium | [Python](Python/912.%20Sort%20an%20Array.py) | |
 | 0914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | Easy | [Python](Python/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.py) | |
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy | [JavaScript](JavaScript/917.%20Reverse%20Only%20Letters.js) | |
+| 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | Medium | [Python](Python/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py) | |
 | 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | [JavaScript](JavaScript/922.%20Sort%20Array%20By%20Parity%20II.js) | |
 | 0925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | Easy | [Python](Python/925.%20Long%20Pressed%20Name.py) | |
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | Easy | [Python](Python/933.%20Number%20of%20Recent%20Calls.py) | |
