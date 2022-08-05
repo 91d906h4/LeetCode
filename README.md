@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 513)
+(Total solved problems : 514)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -139,6 +139,7 @@
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | [Python](Python/509.%20Fibonacci%20Number.py) | |
 | 0511 | [Game Play Analysis I](https://leetcode.com/problems/student-attendance-record-i) | Easy | [Python](Python/551.%20Student%20Attendance%20Record%20I.py) | |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | [Python](Python/520.%20Detect%20Capital.py) | |
+| 0532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | Medium | [Python](Python/532.%20K-diff%20Pairs%20in%20an%20Array.py) | |
 | 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](Python/535.%20Encode%20and%20Decode%20TinyURL.py) | |
 | 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | Easy | [Python](Python/541.%20Reverse%20String%20II.py) | |
 | 0551 | [Student Attendance Record I](https://leetcode.com/problems/game-play-analysis-i) | Easy | [MySQL](MySQL/511.%20Game%20Play%20Analysis%20I.mysql) | |
