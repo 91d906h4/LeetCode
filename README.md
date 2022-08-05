@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 514)
+(Total solved problems : 515)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -38,6 +38,7 @@
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) | |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Easy | [Python](Python/74.%20Search%20a%202D%20Matrix.py) | |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [Python](Python/75.%20Sort%20Colors.py) | [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort) |
+| 0077 | [Combinations](https://leetcode.com/problems/combinations) | Medium | [Python](Python/77.%20Combinations.py) | |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | [Python](Python/83.%20Remove%20Duplicates%20from%20Sorted%20List.py) | |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [Python](Python/88.%20Merge%20Sorted%20Array.py) | |
 | 0089 | [Gray Code](https://leetcode.com/problems/gray-code) | Medium | [Python](Python/89.%20Gray%20Code.py) | |
