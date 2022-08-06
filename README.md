@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 518)
+(Total solved problems : 519)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -261,6 +261,7 @@
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | [MySQL](MySQL/1179.%20Reformat%20Department%20Table.mysql) | |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | [Python](Python/1189.%20Maximum%20Number%20of%20Balloons.py) | |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy | [Python](Python/1207.%20Unique%20Number%20of%20Occurrences.py) | |
+| 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | Medium | [Python](Python/1208.%20Get%20Equal%20Substrings%20Within%20Budget.py) | |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [JavaScript](JavaScript/1221.%20Split%20a%20String%20in%20Balanced%20Strings.js) | |
 | 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability) | Medium | [Python](Python/1227.%20Airplane%20Seat%20Assignment%20Probability.py) | \*Mathematical Solution <sup>[[1]](.Notes/1227.%20Airplane%20Seat%20Assignment%20Probability.txt)</sup> |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | [Python](Python/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py) | |
