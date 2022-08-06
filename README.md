@@ -479,7 +479,7 @@
 | 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time) | Easy | [Python](Python/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time.py) | |
 | 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses) | Medium | [Python](Python/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.py) | |
 | 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | Easy | [Python](Python/2231.%20Largest%20Number%20After%20Digit%20Swaps%20by%20Parity.py) | |
-| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [JavaScript](JavaScript/2235.%20Add%20Two%20Integers.js) / [PHP](PHP/2235.%20Add%20Two%20Integers.php) | |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [JavaScript](JavaScript/2235.%20Add%20Two%20Integers.js) / [PHP](PHP/2235.%20Add%20Two%20Integers.php) / [Java](Java/2235.%20Add%20Two%20Integers.java) / [Python](Python/2235.%20Add%20Two%20Integers.py) | |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children) | Easy | [JavaScript](JavaScript/2236.%20Root%20Equals%20Sum%20of%20Children.js) | |
 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero) | Easy | [Python](Python/2239.%20Find%20Closest%20Number%20to%20Zero.py) | |
 | 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) | Medium | [Python](Python/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.py) | |
