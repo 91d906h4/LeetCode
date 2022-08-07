@@ -138,7 +138,7 @@
 | 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | [Python](Python/504.%20Base%207.py) | |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | [Python](Python/506.%20Relative%20Ranks.py) | |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | [Python](Python/507.%20Perfect%20Number.py) | |
-| 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | [Python](Python/509.%20Fibonacci%20Number.py) | |
+| 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | [Python](Python/509.%20Fibonacci%20Number.py) / [Java](Java/509.%20Fibonacci%20Number.java) / [JavaScript](JavaScript/509.%20Fibonacci%20Number.js) / [TypeScript](TypeScript/509.%20Fibonacci%20Number.ts) / [PHP](PHP/509.%20Fibonacci%20Number.php) | |
 | 0511 | [Game Play Analysis I](https://leetcode.com/problems/student-attendance-record-i) | Easy | [Python](Python/551.%20Student%20Attendance%20Record%20I.py) | |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | [Python](Python/520.%20Detect%20Capital.py) | |
 | 0532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | Medium | [Python](Python/532.%20K-diff%20Pairs%20in%20an%20Array.py) | |
