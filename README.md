@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 521)
+(Total solved problems : 522)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -123,6 +123,7 @@
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [JavaScript](JavaScript/412.%20Fizz%20Buzz.js) | |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
 | 0419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) | Medium | [Python](Python/419.%20Battleships%20in%20a%20Board.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
+| 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | Medium | [Python](Python/424.%20Longest%20Repeating%20Character%20Replacement.py) / [JavaScript](JavaScript/424.%20Longest%20Repeating%20Character%20Replacement.js) / [Java](Java/424.%20Longest%20Repeating%20Character%20Replacement.java) | |
 | 0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | Easy | [Python](Python/434.%20Number%20of%20Segments%20in%20a%20String.py) |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | [Python](Python/438.%20Find%20All%20Anagrams%20in%20a%20String.py) | [Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique) |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | [Python](Python/441.%20Arranging%20Coins.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
