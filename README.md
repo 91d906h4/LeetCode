@@ -90,7 +90,7 @@
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | [Python](Python/263.%20Ugly%20Number.py) | |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | [Python](Python/268.%20Missing%20Number.py) | |
 | 0275 | [H-Index II](https://leetcode.com/problems/h-index-ii) | Medium | [Python](Python/275.%20H-Index%20II.py) | |
-| 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | [Python](Python/278.%20First%20Bad%20Version.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
+| 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | [Python](Python/278.%20First%20Bad%20Version.py) / [TypeScript](TypeScript/278.%20First%20Bad%20Version.ts) / [Java](Java/278.%20First%20Bad%20Version.java) / [PHP](PHP/278.%20First%20Bad%20Version.php) /[JavaScript](JavaScript/278.%20First%20Bad%20Version.js) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Python](Python/283.%20Move%20Zeroes.py) | |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | [Python](Python/287.%20Find%20the%20Duplicate%20Number.py) | |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | [Python](Python/290.%20Word%20Pattern.py) | |
