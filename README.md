@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 519)
+(Total solved problems : 521)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -32,7 +32,7 @@
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
 | 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | Hard | [Python](Python/60.%20Permutation%20Sequence.py) | |
-| 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Easy | [Python](Python/62.%20Unique%20Paths.py) | \*Mathematical Solution <sup>[[1]](https://en.wikipedia.org/wiki/Combination)</sup> |
+| 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Easy | [Python](Python/62.%20Unique%20Paths.py) / [JavaScript](JavaScript/62.%20Unique%20Paths.js) / [PHP](PHP/62.%20Unique%20Paths.php) | \*Mathematical Solution <sup>[[1]](https://en.wikipedia.org/wiki/Combination)</sup> |
 | 0065 | [Valid Number](https://leetcode.com/problems/valid-number) | Hard | [Python](Python/65.%20Valid%20Number.py) | [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | [Python](Python/67.%20Add%20Binary.py) | |
@@ -124,6 +124,7 @@
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [JavaScript](JavaScript/415.%20Add%20Strings.js) / [Python](https://github.com/91d906h4/LeetCode/blob/main/Python/415.%20Add%20Strings.py) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
 | 0419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) | Medium | [Python](Python/419.%20Battleships%20in%20a%20Board.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
 | 0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | Easy | [Python](Python/434.%20Number%20of%20Segments%20in%20a%20String.py) |
+| 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | [Python](Python/438.%20Find%20All%20Anagrams%20in%20a%20String.py) | [Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique) |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | [Python](Python/441.%20Arranging%20Coins.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0443 | [String Compression](https://leetcode.com/problems/string-compression) | Medium | [Python](Python/443.%20String%20Compression.py) |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | [Python](Python/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | |
