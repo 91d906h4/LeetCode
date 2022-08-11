@@ -203,7 +203,7 @@
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [JavaScript](JavaScript/832.%20Flipping%20an%20Image.js) | |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | [Python](Python/836.%20Rectangle%20Overlap.py) | |
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | Easy | [Python](Python/841.%20Keys%20and%20Rooms.py) | |
-| 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | [JavaScript](JavaScript/844.%20Backspace%20String%20Compare.js) | |
+| 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | [JavaScript](JavaScript/844.%20Backspace%20String%20Compare.js) / [Python](Python/844.%20Backspace%20String%20Compare.py) | |
 | 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | Easy | [Python](Python/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | Easy | [Python](Python/859.%20Buddy%20Strings.py) | |
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | Easy | [Python](Python/860.%20Lemonade%20Change.py) | |
