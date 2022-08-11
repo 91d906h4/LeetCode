@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 522)
+(Total solved problems : 523)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -97,6 +97,7 @@
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | [Python](Python/290.%20Word%20Pattern.py) | |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game) | Easy | [Python](Python/292.%20Nim%20Game.py) | |
 | 0295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard | [Python](Python/295.%20Find%20Median%20from%20Data%20Stream.py) | |
+| 0299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) | Medium | [Python](Python/299.%20Bulls%20and%20Cows.py) | |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | [Python](Python/303.%20Range%20Sum%20Query%20-%20Immutable.py) | |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | Medium | [Python](Python/319.%20Bulb%20Switcher.py) | |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | [Python](Python/326.%20Power%20of%20Three.py) | |
