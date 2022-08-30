@@ -518,3 +518,5 @@
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | Easy | [Python](Python/2351.%20First%20Letter%20to%20Appear%20Twice.py) | |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | Medium | [Python](Python/2352.%20Equal%20Row%20and%20Column%20Pairs.py) | |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy | [Python](Python/2357.%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.py) | |
+| 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items) | Easy | [Python](Python/2363.%20Merge%20Similar%20Items.py) | |
+| 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | [Python](Python/2367.%20Number%20of%20Arithmetic%20Triplets.py) | |
