@@ -7,4 +7,9 @@ class Solution:
                 for j in range(l - 1, -1, -1):
                     t[j][i] = arr[i][l - j - 1]
             return t
-        return mat == target or helper(mat) == target or helper(helper(mat)) == target or helper(helper(helper(mat))) == target
+        
+        temp = mat
+        for _ in range(4):
+            if temp == target: return True
+            temp = helper(temp)
+        return False
