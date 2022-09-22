@@ -148,6 +148,7 @@
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | [Python](Python/509.%20Fibonacci%20Number.py) / [Java](Java/509.%20Fibonacci%20Number.java) / [JavaScript](JavaScript/509.%20Fibonacci%20Number.js) / [TypeScript](TypeScript/509.%20Fibonacci%20Number.ts) / [PHP](PHP/509.%20Fibonacci%20Number.php) | |
 | 0511 | [Game Play Analysis I](https://leetcode.com/problems/student-attendance-record-i) | Easy | [Python](Python/551.%20Student%20Attendance%20Record%20I.py) | |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | [Python](Python/520.%20Detect%20Capital.py) | |
+| 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | Easy | [Python](Python/521.%20Longest%20Uncommon%20Subsequence%20I.py) | |
 | 0532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | Medium | [Python](Python/532.%20K-diff%20Pairs%20in%20an%20Array.py) | |
 | 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](Python/535.%20Encode%20and%20Decode%20TinyURL.py) | |
 | 0537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | Medium | [Python](Python/537.%20Complex%20Number%20Multiplication.py) | |
