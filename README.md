@@ -186,6 +186,7 @@
 | 0697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | Easy | [Python](Python/697.%20Degree%20of%20an%20Array.py) | |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | [Python](Python/700.%20Search%20in%20a%20Binary%20Search%20Tree.py) | |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](Python/704.%20Binary%20Search.py) / [Java](Java/704.%20Binary%20Search.java) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
+| 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | [Python](Python/705.%20Design%20HashSet.py) |
 | 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list) | Medium | [Python](Python/707.%20Design%20Linked%20List.py) |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) / [Python](Python/709.%20To%20Lower%20Case.py) | |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | [Python](Python/724.%20Find%20Pivot%20Index.py) | |
