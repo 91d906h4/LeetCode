@@ -295,6 +295,7 @@
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | Easy | [Python](Python/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.py) | |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | Easy | [JavaScript](JavaScript/1323.%20Maximum%2069%20Number.js) | |
 | 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically) | Medium | [Python](Python/1324.%20Print%20Words%20Vertically.py) | |
+| 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | Medium | [Python](Python/1329.%20Sort%20the%20Matrix%20Diagonally.py) | |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) | Easy | [Python](Python/1331.%20Rank%20Transform%20of%20an%20Array.py) | |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | Easy | [Python](Python/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py) | |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | [JavaScript](JavaScript/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | |
