@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 541)
+(Total solved problems : 542)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -532,3 +532,4 @@
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy | [Python](Python/2357.%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.py) | |
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items) | Easy | [Python](Python/2363.%20Merge%20Similar%20Items.py) | |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | [Python](Python/2367.%20Number%20of%20Arithmetic%20Triplets.py) | |
+| 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](Python/2413.%20Smallest%20Even%20Multiple.py) | |
