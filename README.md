@@ -195,6 +195,7 @@
 | 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | [Python](Python/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py) | |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | Easy | [Python](Python/746.%20Min%20Cost%20Climbing%20Stairs.py) | [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming) |
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | Easy | [Python](Python/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) | |
+| 0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description) | Easy | [Python](Python/748.%20Shortest%20Completing%20Word.py) | |
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | [Python](Python/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.py) | |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) | |
 | 0776 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | [Python](Python/766.%20Toeplitz%20Matrix.py) | |
