@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 548)
+(Total solved problems : 549)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -538,4 +538,5 @@
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | [Python](Python/2396.%20Strictly%20Palindromic%20Number.py) | |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](Python/2413.%20Smallest%20Even%20Multiple.py) | |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor) | Medium | [Python](Python/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.py) | |
+| 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference/description) | Easy | [Python](Python/2451.%20Odd%20String%20Difference.py) | |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description) | Easy | [Python](Python/2469.%20Convert%20the%20Temperature.py) | |
