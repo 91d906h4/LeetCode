@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 550)
+(Total solved problems : 551)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -133,6 +133,7 @@
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | [Python](Python/441.%20Arranging%20Coins.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0443 | [String Compression](https://leetcode.com/problems/string-compression) | Medium | [Python](Python/443.%20String%20Compression.py) |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | [Python](Python/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | Medium | [Python](Python/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py) | |
 | 0459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | Easy | [Python](Python/459.%20Repeated%20Substring%20Pattern.py) | |
 | 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](Python/461.%20Hamming%20Distance.py) | <details><summary>Note</summary> [Bitwise Operations on Integer Types](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)</details> |
 | 0476 | [LNumber Complement](https://leetcode.com/problems/number-complement) | Easy | [Python](Python/476.%20Number%20Complement.py) | |
