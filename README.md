@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 551)
+(Total solved problems : 552)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -220,6 +220,7 @@
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [JavaScript](JavaScript/867.%20Transpose%20Matrix.js) | |
 | 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | [JavaScript](JavaScript/868.%20Binary%20Gap.js) | |
 | 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) | Medium | [Python](Python/869.%20Reordered%20Power%20of%202.py) | |
+| 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | Easy | [Python](Python/872.%20Leaf-Similar%20Trees.py) | |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](Python/876.%20Middle%20of%20the%20Linked%20List.py) | |
 | 0884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](Python/884.%20Uncommon%20Words%20from%20Two%20Sentences.py) | |
 | 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | Easy | [JavaScript](JavaScript/888.%20Fair%20Candy%20Swap.js) | |
