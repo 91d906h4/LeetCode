@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 553)
+(Total solved problems : 554)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -508,6 +508,7 @@
 | 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) | Medium | [Python](Python/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.py) | |
 | 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine) | Medium | [Python](Python/2241.%20Design%20an%20ATM%20Machine.py) | |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string) | Easy | [Python](Python/2243.%20Calculate%20Digit%20Sum%20of%20a%20String.py) | |
+| 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks) | Medium | [Python](Python/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks.py) | |
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | Easy | [Python](Python/2248.%20Intersection%20of%20Multiple%20Arrays.py) | |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | Easy | [Python](Python/2255.%20Count%20Prefixes%20of%20a%20Given%20String.py) / [PHP](PHP/2255.%20Count%20Prefixes%20of%20a%20Given%20String.php) | |
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | Easy | [Python](Python/2259.%20Remove%20Digit%20From%20Number%20to%20Maximize%20Result.py) | |
