@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 555)
+(Total solved problems : 556)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -57,9 +57,10 @@
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | [JavaScript](JavaScript/136.%20Single%20Number.js) / [Java](Java/136.%20Single%20Number.java) | |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | [Python](Python/144.%20Binary%20Tree%20Preorder%20Traversal.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | [Python](Python/145.%20Binary%20Tree%20Postorder%20Traversal.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
-| 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description) | Medium | [Python](Python/146.%20LRU%20Cache.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/ja/3/library/collections.html#collections.OrderedDict)</sup> |
+| 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Medium | [Python](Python/146.%20LRU%20Cache.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/ja/3/library/collections.html#collections.OrderedDict)</sup> |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Easy | [Python](Python/155.%20Min%20Stack.py) | |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium | [Python](Python/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
+| 0154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | Hard | [Python](Python/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py) | |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy | [Python](Python/151.%20Reverse%20Words%20in%20a%20String.py) | |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | [JavaScript](JavaScript/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.js) / [Python](Python/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) / [PHP](PHP/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.php) | |
 | 0169 | [Second Highest Salary](https://leetcode.com/problems/majority-element) | Easy | [JavaScript](JavaScript/169.%20Majority%20Element.js) | |
@@ -197,7 +198,7 @@
 | 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | [Python](Python/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py) | |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | Easy | [Python](Python/746.%20Min%20Cost%20Climbing%20Stairs.py) | [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming) |
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | Easy | [Python](Python/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) | |
-| 0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description) | Easy | [Python](Python/748.%20Shortest%20Completing%20Word.py) | |
+| 0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) | Easy | [Python](Python/748.%20Shortest%20Completing%20Word.py) | |
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | [Python](Python/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.py) | |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) | |
 | 0776 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | [Python](Python/766.%20Toeplitz%20Matrix.py) | |
@@ -543,6 +544,6 @@
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | [Python](Python/2396.%20Strictly%20Palindromic%20Number.py) | |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](Python/2413.%20Smallest%20Even%20Multiple.py) | |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor) | Medium | [Python](Python/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.py) | |
-| 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference/description) | Easy | [Python](Python/2451.%20Odd%20String%20Difference.py) | |
-| 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description) | Easy | [Python](Python/2455.%20Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.py) | |
-| 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description) | Easy | [Python](Python/2469.%20Convert%20the%20Temperature.py) | |
+| 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference) | Easy | [Python](Python/2451.%20Odd%20String%20Difference.py) | |
+| 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | Easy | [Python](Python/2455.%20Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.py) | |
+| 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | [Python](Python/2469.%20Convert%20the%20Temperature.py) | |
