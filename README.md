@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 554)
+(Total solved problems : 555)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -57,6 +57,7 @@
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | [JavaScript](JavaScript/136.%20Single%20Number.js) / [Java](Java/136.%20Single%20Number.java) | |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | [Python](Python/144.%20Binary%20Tree%20Preorder%20Traversal.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | [Python](Python/145.%20Binary%20Tree%20Postorder%20Traversal.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
+| 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description) | Medium | [Python](Python/146.%20LRU%20Cache.py) | /*Built-in Function Solution[[1]](https://docs.python.org/ja/3/library/collections.html#collections.OrderedDict) |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Easy | [Python](Python/155.%20Min%20Stack.py) | |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium | [Python](Python/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy | [Python](Python/151.%20Reverse%20Words%20in%20a%20String.py) | |
