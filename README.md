@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 557)
+(Total solved problems : 558)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -548,3 +548,4 @@
 | 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference) | Easy | [Python](Python/2451.%20Odd%20String%20Difference.py) | |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | Easy | [Python](Python/2455.%20Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.py) | |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | [Python](Python/2469.%20Convert%20the%20Temperature.py) | |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | Easy | [Python](Python/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py) | |
