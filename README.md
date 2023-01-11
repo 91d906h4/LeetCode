@@ -548,4 +548,9 @@
 | 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference) | Easy | [Python](Python/2451.%20Odd%20String%20Difference.py) | |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | Easy | [Python](Python/2455.%20Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.py) | |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | [Python](Python/2469.%20Convert%20the%20Temperature.py) | |
+| 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/description) | Easy | [Python](Python/2506.%20Count%20Pairs%20Of%20Similar%20Strings.py) | |
+| 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) | Easy | [Python](Python/2511.%20Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured.py) | |
+| 2515 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) | Easy | [Python](Python/2511.%20Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured.py) | |
+| 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria) | Easy | [Python](Python/2525.%20Categorize%20Box%20According%20to%20Criteria.py) | |
+| 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array) | Easy | [Python](Python/2527.%20Find%20Xor-Beauty%20of%20Array.py) | |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | Easy | [Python](Python/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py) | |
