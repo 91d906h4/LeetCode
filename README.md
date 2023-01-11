@@ -551,6 +551,7 @@
 | 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/description) | Easy | [Python](Python/2506.%20Count%20Pairs%20Of%20Similar%20Strings.py) | |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) | Easy | [Python](Python/2511.%20Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured.py) | |
 | 2515 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) | Easy | [Python](Python/2511.%20Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured.py) | |
-| 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria) | Easy | [Python](Python/2525.%20Categorize%20Box%20According%20to%20Criteria.py) | |
+| 2520 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | Easy | [Python](Python/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number.py) | |
+| 2525 | [Count the Digits That Divide a Number](https://leetcode.com/problems/categorize-box-according-to-criteria) | Easy | [Python](Python/2525.%20Categorize%20Box%20According%20to%20Criteria.py) | |
 | 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array) | Easy | [Python](Python/2527.%20Find%20Xor-Beauty%20of%20Array.py) | |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | Easy | [Python](Python/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py) | |
