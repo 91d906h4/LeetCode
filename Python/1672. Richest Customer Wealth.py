@@ -5,5 +5,4 @@ class Solution:
 #             max_ = max(max_, sum(i))
 #         return max_
 
-
         return max(map(sum, accounts))
