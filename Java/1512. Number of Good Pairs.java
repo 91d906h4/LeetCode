@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 class Solution {
     public int numIdenticalPairs(int[] nums) {
         int temp[] = new int[101], ans = 0;
