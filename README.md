@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 568)
+(Total solved problems : 583)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -286,6 +286,7 @@
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | [Python](Python/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py) | |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | Medium | [Python](Python/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py) | |
 | 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array) | Hard | [Python](Python/1250.%20Check%20If%20It%20Is%20a%20Good%20Array.py) | |
+| 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | Easy | [Python](Python/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.py) / [Java](Java/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.java) | |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points) | Easy | [JavaScript](JavaScript/1266.%20Minimum%20Time%20Visiting%20All%20Points.js) | |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game) | Easy | [Python](Python/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.py) | |
 | 1276 | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients) | Medium | [Python](Python/1276.%20Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients.py) | |
@@ -310,11 +311,12 @@
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | Medium | [Python](Python/1338.%20Reduce%20Array%20Size%20to%20The%20Half.py) | |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | [JavaScript](JavaScript/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js) | |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | Easy | [Python](Python/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py) | |
-| 1347 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | Easy | [Python](Python/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py) | |
+| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | Medium | [Python](Python/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.py) / [Java](Java/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.java) | |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | Easy | [Python](Python/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py) | |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | Easy | [Python](Python/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) | |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | [JavaScript](JavaScript/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js) | |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string) | Easy | [Python](Python/1370.%20Increasing%20Decreasing%20String.py) | |
+| 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | Easy | [Python](Python/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py) | |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | Easy | [MySQL](MySQL/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.mysql) | |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Easy | [Python](Python/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | [Python](Python/1380.%20Lucky%20Numbers%20in%20a%20Matrix.py) | |
@@ -368,6 +370,7 @@
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | Easy | [Python](Python/1544.%20Make%20The%20String%20Great.py) | |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | Medium | [Python](Python/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.py) | |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | Easy | [Python](Python/1550.%20Three%20Consecutive%20Odds.py) | |
+| 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal) | Medium | [Python](Python/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal.py) / [Java](Java/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal.java) | |
 | 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator) | Easy | [Python](Python/1556.%20Thousand%20Separator.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/3.8/tutorial/inputoutput.html#the-string-format-method)</sup> |
 | 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get) | Medium | [Python](Python/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.py) | |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Easy | [Python](Python/1572.%20Matrix%20Diagonal%20Sum.py) | |
@@ -396,7 +399,7 @@
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | [JavaScript](JavaScript/1678.%20Goal%20Parser%20Interpretation.js) / [Python](Python/1678.%20Goal%20Parser%20Interpretation.py) | |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | Easy | [JavaScript](JavaScript/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js) | |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament) | Easy | [JavaScript](JavaScript/1688.%20Count%20of%20Matches%20in%20Tournament.js) | |
-| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | [JavaScript](JavaScript/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.js) / [Python](Python/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py) | |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | [JavaScript](JavaScript/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.js) / [Python](Python/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py) / [Java](Java/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.java) | |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | Easy | [MySQL](MySQL/1693.%20Daily%20Leads%20and%20Partners.mysql) | |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number) | Easy | [Python](Python/1694.%20Reformat%20Phone%20Number.py) | |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | Easy | [Python](Python/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py) | |
@@ -431,6 +434,7 @@
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes) | Medium | [Python](Python/1817.%20Finding%20the%20Users%20Active%20Minutes.py) | |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | Easy | [Python](Python/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py) | |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | Easy | [JavaScript](JavaScript/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.js) | |
+| 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) | Medium | [Python](Python/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.py) / [Java](Java/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.java) | |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | [JavaScript](JavaScript/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.js) | |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | Easy | [JavaScript](JavaScript/1837.%20Sum%20of%20Digits%20in%20Base%20K.js) | |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | Easy | [JavaScript](JavaScript/1844.%20Replace%20All%20Digits%20with%20Characters.js) | |
@@ -439,6 +443,7 @@
 | 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values) | Medium | [Python](Python/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.py) | |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | [JavaScript](JavaScript/1859.%20Sorting%20the%20Sentence.js) | |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box) | Medium | [Python](Python/1861.%20Rotating%20the%20Box.py) | |
+| 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | Easy | [Python](Python/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.py) | |
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros) | Easy | [Python](Python/1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros.py) | |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | Easy | [MySQL](MySQL/1873.%20Calculate%20Special%20Bonus.mysql) | |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | Medium | [Python](Python/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.py) | |
@@ -496,6 +501,7 @@
 | 2169 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/count-operations-to-obtain-zero) | Easy | [Python](Python/2169.%20Count%20Operations%20to%20Obtain%20Zero.py) | |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | Easy | [JavaScript](JavaScript/2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.js) | |
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum) | Easy | [Python](Python/2180.%20Count%20Integers%20With%20Even%20Digit%20Sum.py) | |
+| 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros) | Medium | [Python](Python/2181.%20Merge%20Nodes%20in%20Between%20Zeros.py) | |
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | Easy | [JavaScript](JavaScript/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.js) / [Python](Python/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py) | |
 | 2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array) | Easy | [Python](Python/2190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array.py) | |
 | 2191 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers) | Medium | [Python](Python/2191.%20Sort%20the%20Jumbled%20Numbers.py) | |
@@ -506,6 +512,7 @@
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | [Python](Python/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.py) | |
 | 2216 | [Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful) | Medium | [Python](Python/2216.%20Minimum%20Deletions%20to%20Make%20Array%20Beautiful.py) | |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | Easy | [JavaScript](JavaScript/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.js) | |
+| 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) | Medium | [Python](Python/2221.%20Find%20Triangular%20Sum%20of%20an%20Array.py) / [Java](Java/2221.%20Find%20Triangular%20Sum%20of%20an%20Array.java) | |
 | 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time) | Easy | [Python](Python/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time.py) | |
 | 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses) | Medium | [Python](Python/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.py) | |
 | 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | Easy | [Python](Python/2231.%20Largest%20Number%20After%20Digit%20Swaps%20by%20Parity.py) | |
@@ -535,6 +542,7 @@
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | Easy | [Python](Python/2315.%20Count%20Asterisks.py) | |
 | 2319 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix) | Easy | [Python](Python/2319.%20Check%20if%20Matrix%20Is%20X-Matrix.py) | |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | [Python](Python/2325.%20Decode%20the%20Message.py) | |
+| 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) | Easy | [Python](Python/2331.%20Evaluate%20Boolean%20Binary%20Tree.py) / [Java](Java/2331.%20Evaluate%20Boolean%20Binary%20Tree.java) | |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | Medium | [Python](Python/2336.%20Smallest%20Number%20in%20Infinite%20Set.py) | |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) | Easy | [Python](Python/2341.%20Maximum%20Number%20of%20Pairs%20in%20Array.py) | |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) | Medium | [Python](Python/2342.%20Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits.py) | |
@@ -546,16 +554,23 @@
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items) | Easy | [Python](Python/2363.%20Merge%20Similar%20Items.py) | |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | [Python](Python/2367.%20Number%20of%20Arithmetic%20Triplets.py) | |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | Easy | [Python](Python/2373.%20Largest%20Local%20Values%20in%20a%20Matrix.py) | |
+| 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage) | Medium | [Python](Python/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.py) / [Java](Java/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.java) | |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | [Python](Python/2396.%20Strictly%20Palindromic%20Number.py) | |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](Python/2413.%20Smallest%20Even%20Multiple.py) / [Java](Java/2413.%20Smallest%20Even%20Multiple.java) | |
+| 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | [Python](Python/2418.%20Sort%20the%20People.py) | |
+| 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | [Java](Java/2427.%20Number%20of%20Common%20Factors.java) | |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor) | Medium | [Python](Python/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.py) | |
 | 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference) | Easy | [Python](Python/2451.%20Odd%20String%20Difference.py) | |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | Easy | [Python](Python/2455.%20Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.py) | |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | [Python](Python/2469.%20Convert%20the%20Temperature.py) / [Java](Java/2469.%20Convert%20the%20Temperature.java) | |
-| 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/description) | Easy | [Python](Python/2506.%20Count%20Pairs%20Of%20Similar%20Strings.py) | |
+| 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column) | Medium | [Python](Python/2482.%20Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column.py) | |
+| 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer) | Easy | [Java](Java/2485.%20Find%20the%20Pivot%20Integer.java) | |
+| 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | [Python](Python/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row.py) | |
+| 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings) | Easy | [Python](Python/2506.%20Count%20Pairs%20Of%20Similar%20Strings.py) | |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) | Easy | [Python](Python/2511.%20Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured.py) | |
 | 2515 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) | Easy | [Python](Python/2511.%20Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured.py) | |
 | 2520 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | Easy | [Python](Python/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number.py) | |
 | 2525 | [Count the Digits That Divide a Number](https://leetcode.com/problems/categorize-box-according-to-criteria) | Easy | [Python](Python/2525.%20Categorize%20Box%20According%20to%20Criteria.py) | |
 | 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array) | Easy | [Python](Python/2527.%20Find%20Xor-Beauty%20of%20Array.py) | |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | Easy | [Python](Python/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py) | |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | Easy | [Java](Java/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.java) / [Python](Python/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.py) | |
