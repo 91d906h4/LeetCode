@@ -1,6 +1,6 @@
 class Solution:
     def partitionString(self, s: str) -> int:
-        res, temp = 0, ''
+        res, temp = 1, ''
 
         for i in s:
             if i not in temp:
@@ -9,4 +9,4 @@ class Solution:
                 temp = i
                 res += 1
         
-        return res + 1
+        return res
