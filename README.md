@@ -41,6 +41,7 @@
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Easy | [Python](Python/74.%20Search%20a%202D%20Matrix.py) | |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [Python](Python/75.%20Sort%20Colors.py) | [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort) |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | Medium | [Python](Python/77.%20Combinations.py) | |
+| 0078 | [Subsets](https://leetcode.com/problems/subsets) | Medium | [Python](Python/78.%20Subsets.py) | |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | [Python](Python/83.%20Remove%20Duplicates%20from%20Sorted%20List.py) | |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [Python](Python/88.%20Merge%20Sorted%20Array.py) | |
 | 0089 | [Gray Code](https://leetcode.com/problems/gray-code) | Medium | [Python](Python/89.%20Gray%20Code.py) | |
@@ -203,7 +204,8 @@
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | [Python](Python/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.py) | |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) / [Java](Java/771.%20Jewels%20and%20Stones.java) | |
 | 0776 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | [Python](Python/766.%20Toeplitz%20Matrix.py) | |
-| 0779 | [ K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | Medium | [Python](Python/779.%20K-th%20Symbol%20in%20Grammar.py) | |
+| 0779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | Medium | [Python](Python/784.%20Letter%20Case%20Permutation.py) | |
+| 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation) | Medium | [Python](Python/779.%20K-th%20Symbol%20in%20Grammar.py) | |
 | 0791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | Medium | [Python](Python/791.%20Custom%20Sort%20String.py) | |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | [JavaScript](JavaScript/796.%20Rotate%20String.js) | |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | [JavaScript](JavaScript/804.%20Unique%20Morse%20Code%20Words.js) | |
@@ -334,6 +336,7 @@
 | 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser) | Medium | [Python](Python/1410.%20HTML%20Entity%20Parser.py) | |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) | Easy | [Python](Python/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.py) | |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | Easy | [Python](Python/1417.%20Reformat%20The%20String.py) | |
+| 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant) | Medium | [Python](Python/1418.%20Display%20Table%20of%20Food%20Orders%20in%20a%20Restaurant.py) | |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | Easy | [Python](Python/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.py) | |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | [JavaScript](JavaScript/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js) | |
 | 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer) | Medium | [Python](Python/1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer.py) | |
@@ -436,6 +439,7 @@
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | Easy | [JavaScript](JavaScript/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.js) | |
 | 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) | Medium | [Python](Python/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.py) / [Java](Java/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.java) | |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | [JavaScript](JavaScript/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.js) | |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | Medium | [Python](Python/1833.%20Maximum%20Ice%20Cream%20Bars.py) / [Java](Java/1833.%20Maximum%20Ice%20Cream%20Bars.java) | |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | Easy | [JavaScript](JavaScript/1837.%20Sum%20of%20Digits%20in%20Base%20K.js) | |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | Easy | [JavaScript](JavaScript/1844.%20Replace%20All%20Digits%20with%20Characters.js) | |
 | 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element) | Easy | [Python](Python/1848.%20Minimum%20Distance%20to%20the%20Target%20Element.py) | |
@@ -452,6 +456,7 @@
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | Easy | [MySQL](MySQL/1890.%20The%20Latest%20Login%20in%202020.mysql) | |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered) | Easy | [Python](Python/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py) | |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | Easy | [Python](Python/1903.%20Largest%20Odd%20Number%20in%20String.py) | |
+| 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | Medium | [Java](Java/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring.java) / [Python](Python/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring.py) | |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | Easy | [JavaScript](JavaScript/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.js) | |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [JavaScript](JavaScript/1920.%20Build%20Array%20from%20Permutation.js) / [PHP](PHP/1920.%20Build%20Array%20from%20Permutation.php) / [Java](Java/1920.%20Build%20Array%20from%20Permutation.java) | |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [JavaScript](JavaScript/1929.%20Concatenation%20of%20Array.js) / [Java](Java/1929.%20Concatenation%20of%20Array.java) | |
@@ -556,6 +561,7 @@
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | Easy | [Python](Python/2373.%20Largest%20Local%20Values%20in%20a%20Matrix.py) | |
 | 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage) | Medium | [Python](Python/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.py) / [Java](Java/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.java) | |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | [Python](Python/2396.%20Strictly%20Palindromic%20Number.py) | |
+| 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string) | Medium | [Python](Python/2405.%20Optimal%20Partition%20of%20String.py) / [Java](Java/2405.%20Optimal%20Partition%20of%20String.java) | |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](Python/2413.%20Smallest%20Even%20Multiple.py) / [Java](Java/2413.%20Smallest%20Even%20Multiple.java) | |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | [Python](Python/2418.%20Sort%20the%20People.py) | |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | [Java](Java/2427.%20Number%20of%20Common%20Factors.java) | |
