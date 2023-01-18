@@ -1,9 +1,7 @@
 class Solution:
     def garbageCollection(self, garbage: List[str], travel: List[int]) -> int:
-        n = len(garbage)
-
         m, p, g = 0, 0, 0
-        for i in range(n):
+        for i in range(len(garbage)):
             temp = garbage[i]
             if "M" in temp: m = i
             if "P" in temp: g = i
