@@ -6,4 +6,4 @@ class Solution:
             if i == "]" and temp and temp[-1] == "[": temp.pop()
             else: temp.append(i)
 
-        return math.ceil(Counter(temp)["["] / 2)
+        return math.ceil(len(temp) / 4)
