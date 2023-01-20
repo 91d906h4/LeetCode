@@ -27,6 +27,7 @@
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | Hard | [Python](Python/41.%20First%20Missing%20Positive.py) | |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | [Python](Python/46.%20Permutations.py) | |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium | [Python](Python/47.%20Permutations%20II.py) | |
+| 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | [Python](Python/48.%20Rotate%20Image.py) | |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](Python/49.%20Group%20Anagrams.py) | |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](Python/50.%20Pow(x,%20n).py) | |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) | [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm) |
@@ -137,6 +138,7 @@
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | [Python](Python/441.%20Arranging%20Coins.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0443 | [String Compression](https://leetcode.com/problems/string-compression) | Medium | [Python](Python/443.%20String%20Compression.py) |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | [Python](Python/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | |
+| 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | Medium | [Python](Python/451.%20Sort%20Characters%20By%20Frequency.py) | |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | Medium | [Python](Python/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py) | |
 | 0459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | Easy | [Python](Python/459.%20Repeated%20Substring%20Pattern.py) | |
 | 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](Python/461.%20Hamming%20Distance.py) | <details><summary>Note</summary> [Bitwise Operations on Integer Types](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)</details> |
@@ -213,9 +215,11 @@
 | 0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | Medium | [Python](Python/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.py) | |
 | 0811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | Medium | [Python](Python/811.%20Subdomain%20Visit%20Count.py) | [Hash Table](https://en.wikipedia.org/wiki/Hash_table) |
 | 0819 | [Most Common Word](https://leetcode.com/problems/most-common-word) | Easy | [Python](Python/819.%20Most%20Common%20Word.py) | |
+| 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | Easy | [Python](Python/821.%20Shortest%20Distance%20to%20a%20Character.py) / [Java](Java/821.%20Shortest%20Distance%20to%20a%20Character.java) | |
 | 0824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](Python/824.%20Goat%20Latin.py) | |
 | 0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | Easy | [Python](Python/830.%20Positions%20of%20Large%20Groups.py) | |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [JavaScript](JavaScript/832.%20Flipping%20an%20Image.js) | |
+| 0833 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes) | Easy | [Python](Python/883.%20Projection%20Area%20of%203D%20Shapes.py) / [Java](Java/883.%20Projection%20Area%20of%203D%20Shapes.java) | |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | [Python](Python/836.%20Rectangle%20Overlap.py) | |
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | Easy | [Python](Python/841.%20Keys%20and%20Rooms.py) | |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | [JavaScript](JavaScript/844.%20Backspace%20String%20Compare.js) / [Python](Python/844.%20Backspace%20String%20Compare.py) | |
@@ -227,6 +231,7 @@
 | 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) | Medium | [Python](Python/869.%20Reordered%20Power%20of%202.py) | |
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | Easy | [Python](Python/872.%20Leaf-Similar%20Trees.py) | |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](Python/876.%20Middle%20of%20the%20Linked%20List.py) | |
+| 0877 | [Stone Game](https://leetcode.com/problems/stone-game) | Medium | [Python](Python/877.%20Stone%20Game.py) / [Java](Java/877.%20Stone%20Game.java) | |
 | 0884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](Python/884.%20Uncommon%20Words%20from%20Two%20Sentences.py) | |
 | 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | Easy | [JavaScript](JavaScript/888.%20Fair%20Candy%20Swap.js) | |
 | 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | Medium | [Python](Python/890.%20Find%20and%20Replace%20Pattern.py) | |
@@ -248,6 +253,7 @@
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | Medium | [Python](Python/950.%20Reveal%20Cards%20In%20Increasing%20Order.py) | |
 | 0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | Easy | [Python](Python/953.%20Verifying%20an%20Alien%20Dictionary.py) | |
 | 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | Easy | [Python](Python/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.py) | |
+| 0965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | Easy | [Python](Python/965.%20Univalued%20Binary%20Tree.py) / [Java](Java/965.%20Univalued%20Binary%20Tree.java) | |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Medium | [Python](Python/973.%20K%20Closest%20Points%20to%20Origin.py) | |
 | 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | [Python](Python/976.%20Largest%20Perimeter%20Triangle.py) | |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](Python/977.%20Squares%20of%20a%20Sorted%20Array.py) | |
@@ -264,6 +270,7 @@
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game) | Easy | [Python](Python/1025.%20Divisor%20Game.py) | |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang) | Easy | [JavaScript](JavaScript/1037.%20Valid%20Boomerang.js) / [Python](Python/1037.%20Valid%20Boomerang.py) | |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | [Python](Python/1046.%20Last%20Stone%20Weight.py) | |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | Easy | [Python](Python/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py) / [Java](Java/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | [MySQL](MySQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.mysql) | |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [JavaScript](JavaScript/1051.%20Height%20Checker.js) | |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | Easy | [Python](Python/1071.%20Greatest%20Common%20Divisor%20of%20Strings.py) | |
@@ -281,6 +288,7 @@
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | [Python](Python/1154.%20Day%20of%20the%20Year.py) | |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | [MySQL](MySQL/1179.%20Reformat%20Department%20Table.mysql) | |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | [Python](Python/1189.%20Maximum%20Number%20of%20Balloons.py) | |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | [Python](Python/1200.%20Minimum%20Absolute%20Difference.py) / [Java](Java/1200.%20Minimum%20Absolute%20Difference.java) | |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy | [Python](Python/1207.%20Unique%20Number%20of%20Occurrences.py) | |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | Medium | [Python](Python/1208.%20Get%20Equal%20Substrings%20Within%20Budget.py) | |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [JavaScript](JavaScript/1221.%20Split%20a%20String%20in%20Balanced%20Strings.js) | |
@@ -367,6 +375,7 @@
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | Easy | [JavaScript](JavaScript/1512.%20Number%20of%20Good%20Pairs.js) / [Java](Java/1512.%20Number%20of%20Good%20Pairs.java) | |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles) | Easy | [Python](Python/1518.%20Water%20Bottles.py) | |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | Easy | [Python](Python/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py) | |
+| 1525 | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string) | Medium | [Python](Python/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.py) / [Java](Java/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.java) | |
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | Easy | [MySQL](MySQL/1527.%20Patients%20With%20a%20Condition.mysql) | |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | Easy | [JavaScript](JavaScript/1528.%20Shuffle%20String.js) / [Java](Java/1528.%20Shuffle%20String.java) | |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | Easy | [JavaScript](JavaScript/1534.%20Count%20Good%20Triplets.js) | |
@@ -451,8 +460,10 @@
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | Easy | [Python](Python/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.py) | |
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros) | Easy | [Python](Python/1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros.py) | |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | Easy | [MySQL](MySQL/1873.%20Calculate%20Special%20Bonus.mysql) | |
+| 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | Easy | [Python](Python/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py) / [Java](Java/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.java) | |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | Medium | [Python](Python/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.py) | |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | Easy | [Python](Python/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.py) | |
+| 1884 | [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors) | Medium | [Python](Python/1884.%20Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors.py) / [Java](Java/1884.%20Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors.java) | |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation) | Easy | [Python](Python/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.py) | |
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | Easy | [MySQL](MySQL/1890.%20The%20Latest%20Login%20in%202020.mysql) | |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered) | Easy | [Python](Python/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py) | |
@@ -561,8 +572,10 @@
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items) | Easy | [Python](Python/2363.%20Merge%20Similar%20Items.py) | |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | [Python](Python/2367.%20Number%20of%20Arithmetic%20Triplets.py) | |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | Easy | [Python](Python/2373.%20Largest%20Local%20Values%20in%20a%20Matrix.py) | |
+| 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | Medium | [Python](Python/2390.%20Removing%20Stars%20From%20a%20String.py) / [Java](Java/2390.%20Removing%20Stars%20From%20a%20String.java) | |
 | 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage) | Medium | [Python](Python/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.py) / [Java](Java/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.java) | |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | [Python](Python/2396.%20Strictly%20Palindromic%20Number.py) | |
+| 2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters) | Easy | [Python](Python/2399.%20Check%20Distances%20Between%20Same%20Letters.py) / [Java](Java/2399.%20Check%20Distances%20Between%20Same%20Letters.java) | |
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string) | Medium | [Python](Python/2405.%20Optimal%20Partition%20of%20String.py) / [Java](Java/2405.%20Optimal%20Partition%20of%20String.java) | |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](Python/2413.%20Smallest%20Even%20Multiple.py) / [Java](Java/2413.%20Smallest%20Even%20Multiple.java) | |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | [Python](Python/2418.%20Sort%20the%20People.py) | |
