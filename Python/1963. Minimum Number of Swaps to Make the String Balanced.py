@@ -12,6 +12,6 @@ class Solution:
         
         for i in s:
             if i == '[': temp += 1
-            elif temp >0: temp -= 1
+            elif temp > 0: temp -= 1
         
         return (temp + 1) // 2
