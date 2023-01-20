@@ -10,6 +10,7 @@ class Solution {
 //         return (temp.size() + 2) / 4;
 
         int ans = 0;
+
         for(char i: s.toCharArray()){
             if(i == '[') ans++;
             else if(ans > 0) ans--;
