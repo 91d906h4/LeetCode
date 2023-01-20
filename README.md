@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 586)
+(Total solved problems : 602)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -343,6 +343,7 @@
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | Medium | [Python](Python/1433.%20Check%20If%20a%20String%20Can%20Break%20Another%20String.py) | |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | Easy | [Python](Python/1436.%20Destination%20City.py) | |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | Easy | [Python](Python/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.py) | |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations) | Medium | [Python](Python/1441.%20Build%20an%20Array%20With%20Stack%20Operations.py) / [Java](Java/1441.%20Build%20an%20Array%20With%20Stack%20Operations.java) | |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | Easy | [Python](Python/1446.%20Consecutive%20Characters.py) | |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | Easy | [Python](Python/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.py) | |
 | 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence) | Medium | [Python](Python/1451.%20Rearrange%20Words%20in%20a%20Sentence.py) | |
@@ -467,6 +468,7 @@
 | 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | Easy | [Python](Python/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py) | |
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | Easy | [MySQL](MySQL/1965.%20Employees%20With%20Missing%20Information.mysql) | |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy | [JavaScript](JavaScript/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js) | |
+| 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter) | Easy | [Python](Python/1974.%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.py) / [Java](Java/1974.%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.java) | |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | Easy | [Python](Python/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.py) | |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | [Python](Python/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.py) | |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | Easy | [Python](Python/2000.%20Reverse%20Prefix%20of%20Word.py) | |
