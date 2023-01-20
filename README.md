@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 602)
+(Total solved problems : 619)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -295,6 +295,7 @@
 | 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability) | Medium | [Python](Python/1227.%20Airplane%20Seat%20Assignment%20Probability.py) | \*Mathematical Solution <sup>[[1]](.Notes/1227.%20Airplane%20Seat%20Assignment%20Probability.txt)</sup> |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | [Python](Python/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py) | |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | Medium | [Python](Python/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py) | |
+| 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation) | Medium | [Python](Python/1238.%20Circular%20Permutation%20in%20Binary%20Representation.py) / [Java](Java/1238.%20Circular%20Permutation%20in%20Binary%20Representation.java) | |
 | 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array) | Hard | [Python](Python/1250.%20Check%20If%20It%20Is%20a%20Good%20Array.py) | |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | Easy | [Python](Python/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.py) / [Java](Java/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.java) | |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points) | Easy | [JavaScript](JavaScript/1266.%20Minimum%20Time%20Visiting%20All%20Points.js) | |
@@ -471,12 +472,14 @@
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | Medium | [Java](Java/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring.java) / [Python](Python/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring.py) | |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | Easy | [JavaScript](JavaScript/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.js) | |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [JavaScript](JavaScript/1920.%20Build%20Array%20from%20Permutation.js) / [PHP](PHP/1920.%20Build%20Array%20from%20Permutation.php) / [Java](Java/1920.%20Build%20Array%20from%20Permutation.java) | |
+| 1925 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [JavaScript](JavaScript/1929.%20Concatenation%20of%20Array.js) / [Java](Java/1929.%20Concatenation%20of%20Array.java) | |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [JavaScript](JavaScript/1929.%20Concatenation%20of%20Array.js) / [Java](Java/1929.%20Concatenation%20of%20Array.java) | |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | Easy | [Python](Python/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.py) | |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | Easy | [JavaScript](JavaScript/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.js) | |
 | 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) | Easy | [Python](Python/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py) | |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | Easy | [Python](Python/1952.%20Three%20Divisors.py) | \*Mathematical Method <sup>[[1]](.Notes/1952.%20Three%20Divisors.txt)</sup> |
 | 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | Easy | [Python](Python/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py) | |
+| 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) | Medium | [Python](Python/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py) / [Java](Java/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.java) | |
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | Easy | [MySQL](MySQL/1965.%20Employees%20With%20Missing%20Information.mysql) | |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy | [JavaScript](JavaScript/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js) | |
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter) | Easy | [Python](Python/1974.%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.py) / [Java](Java/1974.%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.java) | |
@@ -557,6 +560,7 @@
 | 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array) | Medium | [Python](Python/2295.%20Replace%20Elements%20in%20an%20Array.py) | |
 | 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | Easy | [Python](Python/2299.%20Strong%20Password%20Checker%20II.py) | |
 | 2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes) | Easy | [Python](Python/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.py) | |
+| 2309 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case) | Easy | [Python](Python/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.py) / [Java](Java/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.java) | |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | Easy | [Python](Python/2315.%20Count%20Asterisks.py) | |
 | 2319 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix) | Easy | [Python](Python/2319.%20Check%20if%20Matrix%20Is%20X-Matrix.py) | |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | [Python](Python/2325.%20Decode%20the%20Message.py) | |
