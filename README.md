@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 619)
+(Total solved problems : 623)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -250,6 +250,7 @@
 | 0941 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](Python/938.%20Range%20Sum%20of%20BST.py) | |
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match) | Easy | [Python](Python/942.%20DI%20String%20Match.py) | |
 | 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | Easy | [Python](Python/944.%20Delete%20Columns%20to%20Make%20Sorted.py) | |
+| 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences) | Medium | [Python](Python/946.%20Validate%20Stack%20Sequences.py) | |
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | Medium | [Python](Python/950.%20Reveal%20Cards%20In%20Increasing%20Order.py) | |
 | 0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | Easy | [Python](Python/953.%20Verifying%20an%20Alien%20Dictionary.py) | |
 | 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | Easy | [Python](Python/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.py) | |
@@ -286,6 +287,7 @@
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | Easy | [MySQL](MySQL/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.mysql) | |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | [MySQL](MySQL/1148.%20Article%20Views%20I.mysql) | |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | [Python](Python/1154.%20Day%20of%20the%20Year.py) | |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | Easy | [Python](Python/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py) / [Java](Java/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.java) | |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | [MySQL](MySQL/1179.%20Reformat%20Department%20Table.mysql) | |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | [Python](Python/1189.%20Maximum%20Number%20of%20Balloons.py) | |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | [Python](Python/1200.%20Minimum%20Absolute%20Difference.py) / [Java](Java/1200.%20Minimum%20Absolute%20Difference.java) | |
@@ -325,6 +327,7 @@
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | Medium | [Python](Python/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.py) / [Java](Java/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.java) | |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | Easy | [Python](Python/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py) | |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | Easy | [Python](Python/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) | |
+| 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders) | Medium | [Python](Python/1357.%20Apply%20Discount%20Every%20n%20Orders.py) / [Java](Java/1357.%20Apply%20Discount%20Every%20n%20Orders.java) | |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | [JavaScript](JavaScript/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js) | |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string) | Easy | [Python](Python/1370.%20Increasing%20Decreasing%20String.py) | |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | Easy | [Python](Python/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py) | |
@@ -588,6 +591,7 @@
 | 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference) | Easy | [Python](Python/2451.%20Odd%20String%20Difference.py) | |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | Easy | [Python](Python/2455.%20Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.py) | |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | [Python](Python/2469.%20Convert%20the%20Temperature.py) / [Java](Java/2469.%20Convert%20the%20Temperature.java) | |
+| 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array) | Easy | [Python](Python/2475.%20Number%20of%20Unequal%20Triplets%20in%20Array.py) / [Java](Java/2475.%20Number%20of%20Unequal%20Triplets%20in%20Array.java) | |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column) | Medium | [Python](Python/2482.%20Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column.py) | |
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer) | Easy | [Java](Java/2485.%20Find%20the%20Pivot%20Integer.java) | |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | [Python](Python/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row.py) | |
