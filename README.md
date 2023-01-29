@@ -283,7 +283,7 @@
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [JavaScript](JavaScript/1108.%20Defanging%20an%20IP%20Address.js) / [Java](Java/1108.%20Defanging%20an%20IP%20Address.java) | |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array) | Easy | [Python](Python/1122.%20Relative%20Sort%20Array.py) | |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | Easy | [Python](Python/1128.%20Number%20of%20Equivalent%20Domino%20Pairs.py) | |
-| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](Python/1137.%20N-th%20Tribonacci%20Number.py) / [PHP](PHP/1137.%20N-th%20Tribonacci%20Number.php) | |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](Python/1137.%20N-th%20Tribonacci%20Number.py) / [PHP](PHP/1137.%20N-th%20Tribonacci%20Number.php) / [Java](Java/1137.%20N-th%20Tribonacci%20Number.java) | |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | Easy | [MySQL](MySQL/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.mysql) | |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | [MySQL](MySQL/1148.%20Article%20Views%20I.mysql) | |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | [Python](Python/1154.%20Day%20of%20the%20Year.py) | |
