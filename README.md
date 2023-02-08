@@ -142,7 +142,7 @@
 | 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | Medium | [Python](Python/451.%20Sort%20Characters%20By%20Frequency.py) | |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | Medium | [Python](Python/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py) | |
 | 0459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | Easy | [Python](Python/459.%20Repeated%20Substring%20Pattern.py) | |
-| 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](Python/461.%20Hamming%20Distance.py) | <details><summary>Note</summary> [Bitwise Operations on Integer Types](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)</details> |
+| 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](Python/461.%20Hamming%20Distance.py) / [Java](Java/461.%20Hamming%20Distance.java) | <details><summary>Note</summary> [Bitwise Operations on Integer Types](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)</details> |
 | 0476 | [LNumber Complement](https://leetcode.com/problems/number-complement) | Easy | [Python](Python/476.%20Number%20Complement.py) | |
 | 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | [Python](Python/482.%20License%20Key%20Formatting.py) | |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | [Python](Python/485.%20Max%20Consecutive%20Ones.py) | |
