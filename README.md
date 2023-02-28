@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 625)
+(Total solved problems : 626)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -24,6 +24,7 @@
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Easy | [Python](Python/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) | |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) / [Python](Python/35.%20Search%20Insert%20Position.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | [Python](Python/36.%20Valid%20Sudoku.py) | |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say) | Medium | [Python](Python/38.%20Count%20and%20Say.py) | |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | Hard | [Python](Python/41.%20First%20Missing%20Positive.py) | |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | [Python](Python/46.%20Permutations.py) | |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium | [Python](Python/47.%20Permutations%20II.py) | |
