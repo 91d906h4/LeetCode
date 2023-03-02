@@ -161,7 +161,7 @@
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | [Python](Python/520.%20Detect%20Capital.py) | |
 | 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | Easy | [Python](Python/521.%20Longest%20Uncommon%20Subsequence%20I.py) | |
 | 0532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | Medium | [Python](Python/532.%20K-diff%20Pairs%20in%20an%20Array.py) | |
-| 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](Python/535.%20Encode%20and%20Decode%20TinyURL.py) | |
+| 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](Python/535.%20Encode%20and%20Decode%20TinyURL.py) / [C++](C%2B%2B/535.%20Encode%20and%20Decode%20TinyURL.cpp) | |
 | 0537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | Medium | [Python](Python/537.%20Complex%20Number%20Multiplication.py) | |
 | 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | Easy | [Python](Python/541.%20Reverse%20String%20II.py) | |
 | 0551 | [Student Attendance Record I](https://leetcode.com/problems/game-play-analysis-i) | Easy | [MySQL](MySQL/511.%20Game%20Play%20Analysis%20I.mysql) | |
@@ -208,7 +208,7 @@
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | Easy | [Python](Python/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) | |
 | 0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) | Easy | [Python](Python/748.%20Shortest%20Completing%20Word.py) | |
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | [Python](Python/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.py) | |
-| 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) / [Java](Java/771.%20Jewels%20and%20Stones.java) | |
+| 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) / [Java](Java/771.%20Jewels%20and%20Stones.java) / [C++](C%2B%2B/771.%20Jewels%20and%20Stones.cpp) | |
 | 0776 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | [Python](Python/766.%20Toeplitz%20Matrix.py) | |
 | 0779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | Medium | [Python](Python/784.%20Letter%20Case%20Permutation.py) | |
 | 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation) | Medium | [Python](Python/779.%20K-th%20Symbol%20in%20Grammar.py) | |
@@ -401,7 +401,7 @@
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | Easy | [Python](Python/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) | \*Mathematical Method <sup>[[1]](.Notes/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.txt)</sup> |
 | 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words) | Easy | [Python](Python/1592.%20Rearrange%20Spaces%20Between%20Words.py) | |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | Easy | [Python](Python/1598.%20Crawler%20Log%20Folder.py) | |
-| 1603 | [Design Parking System](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Easy | [Python](JavaScript/1603.%20Design%20Parking%20System.js) / [Python](Python/1603.%20Design%20Parking%20System.py) / [Java](Java/1603.%20Design%20Parking%20System.java) | |
+| 1603 | [Design Parking System](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Easy | [Python](JavaScript/1603.%20Design%20Parking%20System.js) / [Python](Python/1603.%20Design%20Parking%20System.py) / [Java](Java/1603.%20Design%20Parking%20System.java) / [C++](C%2B%2B/1603.%20Design%20Parking%20System.cpp) | |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Easy | [Python](Python/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.py) | [Greedy Algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | [JavaScript](JavaScript/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.js) | |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | Easy | [Python](Python/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters.py) | |
@@ -523,7 +523,7 @@
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | Medium | [Python](Python/2149.%20Rearrange%20Array%20Elements%20by%20Sign.py) | |
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | Easy | [Python](Python/2154.%20Keep%20Multiplying%20Found%20Values%20by%20Two.py) | |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | [JavaScript](JavaScript/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.js) | |
-| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | [Python](Python/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.py) | |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | [Python](Python/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.py) / [C++](C%2B%2B/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.cpp) | |
 | 2164 | [Partition Array According to Given Pivot](https://leetcode.com/problems/sort-even-and-odd-indices-independently) | Easy | [Python](Python/2164.%20Sort%20Even%20and%20Odd%20Indices%20Independently.py) | |
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number) | Medium | [Python](Python/2165.%20Smallest%20Value%20of%20the%20Rearranged%20Number.py) | |
 | 2169 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/count-operations-to-obtain-zero) | Easy | [Python](Python/2169.%20Count%20Operations%20to%20Obtain%20Zero.py) | |
@@ -585,7 +585,7 @@
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | Easy | [Python](Python/2373.%20Largest%20Local%20Values%20in%20a%20Matrix.py) | |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | Medium | [Python](Python/2390.%20Removing%20Stars%20From%20a%20String.py) / [Java](Java/2390.%20Removing%20Stars%20From%20a%20String.java) | |
 | 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage) | Medium | [Python](Python/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.py) / [Java](Java/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.java) | |
-| 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | [Python](Python/2396.%20Strictly%20Palindromic%20Number.py) | |
+| 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | [Python](Python/2396.%20Strictly%20Palindromic%20Number.py) / [C++](C%2B%2B/2396.%20Strictly%20Palindromic%20Number.cpp) | |
 | 2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters) | Easy | [Python](Python/2399.%20Check%20Distances%20Between%20Same%20Letters.py) / [Java](Java/2399.%20Check%20Distances%20Between%20Same%20Letters.java) | |
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string) | Medium | [Python](Python/2405.%20Optimal%20Partition%20of%20String.py) / [Java](Java/2405.%20Optimal%20Partition%20of%20String.java) | |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](Python/2413.%20Smallest%20Even%20Multiple.py) / [Java](Java/2413.%20Smallest%20Even%20Multiple.java) | |
