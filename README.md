@@ -219,6 +219,7 @@
 | 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | Easy | [Python](Python/806.%20Number%20of%20Lines%20To%20Write%20String.py) | |
 | 0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | Medium | [Python](Python/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.py) | |
 | 0811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | Medium | [Python](Python/811.%20Subdomain%20Visit%20Count.py) | [Hash Table](https://en.wikipedia.org/wiki/Hash_table) |
+| 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning) | Medium | [C++](C%2B%2B/814.%20Binary%20Tree%20Pruning.cpp) | |
 | 0819 | [Most Common Word](https://leetcode.com/problems/most-common-word) | Easy | [Python](Python/819.%20Most%20Common%20Word.py) | |
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | Easy | [Python](Python/821.%20Shortest%20Distance%20to%20a%20Character.py) / [Java](Java/821.%20Shortest%20Distance%20to%20a%20Character.java) | |
 | 0824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](Python/824.%20Goat%20Latin.py) | |
@@ -354,6 +355,7 @@
 | 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key) | Medium | [Python](Python/1409.%20Queries%20on%20a%20Permutation%20With%20Key.py) | |
 | 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser) | Medium | [Python](Python/1410.%20HTML%20Entity%20Parser.py) | |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) | Easy | [Python](Python/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.py) | |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Medium | [C++](C%2B%2B/1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n.cpp) | |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | Easy | [Python](Python/1417.%20Reformat%20The%20String.py) | |
 | 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant) | Medium | [Python](Python/1418.%20Display%20Table%20of%20Food%20Orders%20in%20a%20Restaurant.py) | |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | Easy | [Python](Python/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.py) | |
@@ -421,6 +423,7 @@
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | Easy | [Python](Python/1652.%20Defuse%20the%20Bomb.py) | |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | Easy | [MySQL](1667.%20Fix%20Names%20in%20a%20Table.mysql) | |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) | Easy | [Python](Python/1668.%20Maximum%20Repeating%20Substring.py) | |
+| 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists) | Medium | [C++](C%2B%2B/1669.%20Merge%20In%20Between%20Linked%20Lists.cpp) | |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | [JavaScript](JavaScript/1672.%20Richest%20Customer%20Wealth.js) / [Python](Python/1672.%20Richest%20Customer%20Wealth.py) / [Java](Java/1672.%20Richest%20Customer%20Wealth.java) | |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | [JavaScript](JavaScript/1678.%20Goal%20Parser%20Interpretation.js) / [Python](Python/1678.%20Goal%20Parser%20Interpretation.py) | |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | Easy | [JavaScript](JavaScript/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js) | |
@@ -596,6 +599,7 @@
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](Python/2413.%20Smallest%20Even%20Multiple.py) / [Java](Java/2413.%20Smallest%20Even%20Multiple.java) | |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | [Python](Python/2418.%20Sort%20the%20People.py) | |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | [Java](Java/2427.%20Number%20of%20Common%20Factors.java) | |
+| 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass) | Medium | [C++](C%2B%2B/2428.%20Maximum%20Sum%20of%20an%20Hourglass.cpp) | |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor) | Medium | [Python](Python/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.py) | |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations) | Medium | [Python](Python/2442.%20Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations.py) / [C++](C%2B%2B/2442.%20Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations.cpp) | |
 | 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference) | Easy | [Python](Python/2451.%20Odd%20String%20Difference.py) | |
