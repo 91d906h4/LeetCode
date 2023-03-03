@@ -179,6 +179,7 @@
 | 0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | Easy | [Python](Python/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.py) | |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
 | 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | [MySQL](MySQL/607.%20Sales%20Person.mysql) | |
+| 0609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | Medium | [Python](Python/609.%20Find%20Duplicate%20File%20in%20System.py) | |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | [MySQL](MySQL/620.%20Not%20Boring%20Movies.mysql) | |
 | 0626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | Medium | [MySQL](MySQL/626.%20Exchange%20Seats.mysql) | |
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary.mysql) | |
@@ -300,6 +301,7 @@
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy | [Python](Python/1207.%20Unique%20Number%20of%20Occurrences.py) | |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | Medium | [Python](Python/1208.%20Get%20Equal%20Substrings%20Within%20Budget.py) | |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [JavaScript](JavaScript/1221.%20Split%20a%20String%20in%20Balanced%20Strings.js) | |
+| 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king) | Medium | [C++](C%2B%2B/1222.%20Queens%20That%20Can%20Attack%20the%20King.cpp) | |
 | 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability) | Medium | [Python](Python/1227.%20Airplane%20Seat%20Assignment%20Probability.py) | \*Mathematical Solution <sup>[[1]](.Notes/1227.%20Airplane%20Seat%20Assignment%20Probability.txt)</sup> |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | [Python](Python/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py) | |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | Medium | [Python](Python/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py) | |
