@@ -395,7 +395,7 @@
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | Easy | [MySQL](MySQL/1527.%20Patients%20With%20a%20Condition.mysql) | |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | Easy | [JavaScript](JavaScript/1528.%20Shuffle%20String.js) / [Java](Java/1528.%20Shuffle%20String.java) | |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | Easy | [JavaScript](JavaScript/1534.%20Count%20Good%20Triplets.js) | |
-| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | Easy | [Python](Python/1539.%20Kth%20Missing%20Positive%20Number.py) | |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | Easy | [Python](Python/1539.%20Kth%20Missing%20Positive%20Number.py) / [C++](C%2B%2B/1539.%20Kth%20Missing%20Positive%20Number.cpp) | |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | Easy | [Python](Python/1544.%20Make%20The%20String%20Great.py) | |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | Medium | [Python](Python/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.py) | |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | Easy | [Python](Python/1550.%20Three%20Consecutive%20Odds.py) | |
