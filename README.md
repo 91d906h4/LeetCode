@@ -178,7 +178,7 @@
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [MySQL](MySQL/595.%20Big%20Countries.mysql) | |
 | 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | Easy | [MySQL](MySQL/596.%20Classes%20More%20Than%205%20Students.mysql) | |
 | 0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | Easy | [Python](Python/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.py) | |
-| 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) | |
+| 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) - [C++](C%2B%2B/605.%20Can%20Place%20Flowers.cpp) | |
 | 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | [MySQL](MySQL/607.%20Sales%20Person.mysql) | |
 | 0609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | Medium | [Python](Python/609.%20Find%20Duplicate%20File%20in%20System.py) | |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | [MySQL](MySQL/620.%20Not%20Boring%20Movies.mysql) | |
