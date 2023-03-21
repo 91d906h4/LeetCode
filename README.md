@@ -8,7 +8,7 @@
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [JavaScript](JavaScript/1.%20Two%20Sum.js) / [Python](Python/1.%20Two%20Sum.py) / [Java](Java/1.%20Two%20Sum.java) / [C++](C%2B%2B/1.%20Two%20Sum.cpp) | |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Mediun | [Python](Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) | |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | [JavaScript](JavaScript/4.%20Median%20of%20Two%20Sorted%20Arrays.js) | |
-| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | [JavaScript](JavaScript/7.%20Reverse%20Integer.js) | |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | [JavaScript](JavaScript/7.%20Reverse%20Integer.js) / [C++](C%2B%2B/7.%20Reverse%20Integer.cpp) | |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | [Python](Python/8.%20String%20to%20Integer%20(atoi).py) | |
 | 0009 | [Palindromem Number](https://leetcode.com/problems/palindrome-number) | Easy | [JavaScript](JavaScript/9.%20Palindrome%20Number.js) / [Java](Java/9.%20Palindrome%20Number.java) | |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | [Python](Python/11.%20Container%20With%20Most%20Water.py) | |
