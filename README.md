@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 646)
+(Total solved problems : 647)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -623,5 +623,6 @@
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | Easy | [Java](Java/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.java) / [Python](Python/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.py) | |
 | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score) | Medium | [C++](C%2B%2B/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.cpp) / [Python](Python/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.py) | |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | [C++](C%2B%2B/2574.%20Left%20and%20Right%20Sum%20Differences.cpp) | |
+| 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | Easy | [C++](C%2B%2B/2586.%20Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range.cpp) | |
 | 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits) | Easy | [C++](C%2B%2B/2595.%20Number%20of%20Even%20and%20Odd%20Bits.cpp) | |
 | 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum) | Easy | [C++](C%2B%2B/2600.%20K%20Items%20With%20the%20Maximum%20Sum.cpp) | |
