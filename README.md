@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 647)
+(Total solved problems : 648)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -53,6 +53,7 @@
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy | [Python](Python/101.%20Symmetric%20Tree.py) | [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | [Python](Python/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy | [Python](Python/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py) | |
+| 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | [C++](C%2B%2B/110.%20Balanced%20Binary%20Tree.cpp) | |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy | [Python](Python/111.%20Minimum%20Depth%20of%20Binary%20Tree.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | [Python](Python/119.%20Pascal's%20Triangle%20II.py) | |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | [Python](Python/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) / [Java](Java/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) | |
