@@ -200,7 +200,7 @@
 | 0697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | Easy | [Python](Python/697.%20Degree%20of%20an%20Array.py) | |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | [Python](Python/700.%20Search%20in%20a%20Binary%20Search%20Tree.py) | |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | Medium | [C++](C%2B%2B/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp) | |
-| 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](Python/704.%20Binary%20Search.py) / [Java](Java/704.%20Binary%20Search.java) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](Python/704.%20Binary%20Search.py) / [Java](Java/704.%20Binary%20Search.java) / [C](C/704.%20Binary%20Search.c) / [C++](C%2B%2B/704.%20Binary%20Search.cpp) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | [Python](Python/705.%20Design%20HashSet.py) |
 | 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list) | Medium | [Python](Python/707.%20Design%20Linked%20List.py) |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) / [Python](Python/709.%20To%20Lower%20Case.py) | |
@@ -527,6 +527,7 @@
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string) | Medium | [Python](Python/2109.%20Adding%20Spaces%20to%20a%20String.py) | |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | [JavaScript](JavaScript/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.js) / [Java](Java/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.java) | |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | Easy | [JavaScript](JavaScript/2119.%20A%20Number%20After%20a%20Double%20Reversal.js) | |
+| 2120 | [Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid) | Medium | [C++](C%2B%2B/2120.%20Execution%20of%20All%20Suffix%20Instructions%20Staying%20in%20a%20Grid.cpp) | |
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | Easy | [Python](Python/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.py) | |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank) | Medium | [Python](Python/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.py) | |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids) | Medium | [Python](Python/2126.%20Destroying%20Asteroids.py) /[Java](Java/2126.%20Destroying%20Asteroids.java) | |
