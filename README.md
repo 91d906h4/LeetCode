@@ -72,7 +72,8 @@
 | 0169 | [Second Highest Salary](https://leetcode.com/problems/majority-element) | Easy | [JavaScript](JavaScript/169.%20Majority%20Element.js) | |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy | [Python](Python/171.%20Excel%20Sheet%20Column%20Number.py) | |
 | 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | [MySQL](MySQL/175.%20Combine%20Two%20Tables.mysql) | |
-| 0176 | [Combine Two Tables](https://leetcode.com/problems/second-highest-salary) | Medium | [MySQL](MySQL/176.%20Second%20Highest%20Salary.mysql) | |
+| 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | Medium | [MySQL](MySQL/176.%20Second%20Highest%20Salary.mysql) | |
+| 0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | Medium | [MySQL](MySQL/177.%20Nth%20Highest%20Salary.mysql) | |
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | [MySQL](MySQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.mysql) | |
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | [MySQL](MySQL/182.%20Duplicate%20Emails.mysql) | |
 | 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | [MySQL](MySQL/183.%20Customers%20Who%20Never%20Order.mysql) | |
