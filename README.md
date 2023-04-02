@@ -580,6 +580,7 @@
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game) | Easy | [Python](Python/2293.%20Min%20Max%20Game.py) | |
 | 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array) | Medium | [Python](Python/2295.%20Replace%20Elements%20in%20an%20Array.py) | |
 | 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | Easy | [Python](Python/2299.%20Strong%20Password%20Checker%20II.py) | |
+| 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) | Medium | [C++](C%2B%2B/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.cpp) | |
 | 2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes) | Easy | [Python](Python/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.py) | |
 | 2309 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case) | Easy | [Python](Python/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.py) / [Java](Java/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.java) | |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | Easy | [Python](Python/2315.%20Count%20Asterisks.py) | |
