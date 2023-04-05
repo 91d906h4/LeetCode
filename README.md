@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 652)
+(Total solved problems : 653)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -241,7 +241,8 @@
 | 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) | Medium | [Python](Python/869.%20Reordered%20Power%20of%202.py) | |
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | Easy | [Python](Python/872.%20Leaf-Similar%20Trees.py) | |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](Python/876.%20Middle%20of%20the%20Linked%20List.py) | |
-| 0877 | [Stone Game](https://leetcode.com/problems/stone-game) | Medium | [Python](Python/877.%20Stone%20Game.py) / [Java](Java/877.%20Stone%20Game.java) | |
+| 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | Medium | [C++](C%2B%2B/881.%20Boats%20to%20Save%20People.cpp) | |
+| 0884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](Python/884.%20Uncommon%20Words%20from%20Two%20Sentences.py) | |
 | 0884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](Python/884.%20Uncommon%20Words%20from%20Two%20Sentences.py) | |
 | 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | Easy | [JavaScript](JavaScript/888.%20Fair%20Candy%20Swap.js) | |
 | 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | Medium | [Python](Python/890.%20Find%20and%20Replace%20Pattern.py) | |
