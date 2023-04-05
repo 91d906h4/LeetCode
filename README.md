@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 653)
+(Total solved problems : 654)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -198,6 +198,7 @@
 | 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | Medium | [Python](Python/692.%20Top%20K%20Frequent%20Words.py) | |
 | 0693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | Easy | [Python](Python/693.%20Binary%20Number%20with%20Alternating%20Bits.py) | |
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium | [Python](Python/695.%20Max%20Area%20of%20Island.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
+| 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | Easy | [Python](Python/696.%20Count%20Binary%20Substrings.py) / [C++](C%2B%2B/696.%20Count%20Binary%20Substrings.cpp) | |
 | 0697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | Easy | [Python](Python/697.%20Degree%20of%20an%20Array.py) | |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | [Python](Python/700.%20Search%20in%20a%20Binary%20Search%20Tree.py) | |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | Medium | [C++](C%2B%2B/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp) | |
