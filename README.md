@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 654)
+(Total solved problems : 655)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -314,6 +314,7 @@
 | 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation) | Medium | [Python](Python/1238.%20Circular%20Permutation%20in%20Binary%20Representation.py) / [Java](Java/1238.%20Circular%20Permutation%20in%20Binary%20Representation.java) | |
 | 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array) | Hard | [Python](Python/1250.%20Check%20If%20It%20Is%20a%20Good%20Array.py) | |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | Easy | [Python](Python/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.py) / [Java](Java/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.java) | |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | Medium | [Python](Python/1254.%20Number%20of%20Closed%20Islands.py) / [C++](C%2B%2B/1254.%20Number%20of%20Closed%20Islands.cpp) | |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | Medium | [Python](Python/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.py) / [C++](C%2B%2B/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.cpp) | |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points) | Easy | [JavaScript](JavaScript/1266.%20Minimum%20Time%20Visiting%20All%20Points.js) | |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game) | Easy | [Python](Python/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.py) | |
