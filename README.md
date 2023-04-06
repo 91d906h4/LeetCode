@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 657)
+(Total solved problems : 659)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -635,3 +635,5 @@
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | Easy | [C++](C%2B%2B/2586.%20Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range.cpp) | |
 | 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits) | Easy | [C++](C%2B%2B/2595.%20Number%20of%20Even%20and%20Odd%20Bits.cpp) | |
 | 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum) | Easy | [C++](C%2B%2B/2600.%20K%20Items%20With%20the%20Maximum%20Sum.cpp) | |
+| 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays) | Easy | [Python](Python/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.py) | |
+| 2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string) | Easy | [Python](Python/2609.%20Find%20the%20Longest%20Balanced%20Substring%20of%20a%20Binary%20String.py) | |
