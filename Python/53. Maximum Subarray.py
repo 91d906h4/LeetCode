@@ -32,3 +32,7 @@ class Solution(object):
             temp = max(i, temp + i)
             result = max(temp, result)
         return result
+    
+        t, m = nums[0], nums[0]
+        for i in nums[1:]: t = max(i, t + i); m = max(m, t)
+        return m
