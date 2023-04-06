@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 663)
+(Total solved problems : 664)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -347,6 +347,7 @@
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | Easy | [Python](Python/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py) | |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | Easy | [Python](Python/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) | |
 | 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders) | Medium | [Python](Python/1357.%20Apply%20Discount%20Every%20n%20Orders.py) / [Java](Java/1357.%20Apply%20Discount%20Every%20n%20Orders.java) | |
+| 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates) | Easy | [Python](Python/1360.%20Number%20of%20Days%20Between%20Two%20Dates.py) | |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | [JavaScript](JavaScript/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js) | |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string) | Easy | [Python](Python/1370.%20Increasing%20Decreasing%20String.py) | |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | Easy | [Python](Python/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py) | |
