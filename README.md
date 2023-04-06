@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 659)
+(Total solved problems : 660)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -637,3 +637,4 @@
 | 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum) | Easy | [C++](C%2B%2B/2600.%20K%20Items%20With%20the%20Maximum%20Sum.cpp) | |
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays) | Easy | [Python](Python/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.py) | |
 | 2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string) | Easy | [Python](Python/2609.%20Find%20the%20Longest%20Balanced%20Substring%20of%20a%20Binary%20String.py) | |
+| 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | Medium | [Python](Python/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.py) | |
