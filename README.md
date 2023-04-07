@@ -20,7 +20,7 @@
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | [JavaScript](JavaScript/21.%20Merge%20Two%20Sorted%20Lists.js) | |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | [JavaScript](JavaScript/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) | |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [JavaScript](JavaScript/27.%20Remove%20Element.js) | |
-| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) | |
+| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) / [C++](C%2B%2B/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp) | |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | [Python](Python/33.%20Search%20in%20Rotated%20Sorted%20Array.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Easy | [Python](Python/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) | |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) / [Python](Python/35.%20Search%20Insert%20Position.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
@@ -85,10 +85,10 @@
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | [MySQL](MySQL/196.%20Delete%20Duplicate%20Emails.mysql) | |
 | 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | Easy | [MySQL](MySQL/197.%20Rising%20Temperature.mysql) | |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [JavaScript](JavaScript/202.%20Happy%20Number.js) / [Python](Python/202.%20Happy%20Number.py) | |
-| 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | [Python](Python/203.%20Remove%20Linked%20List%20Elements.py) | |
+| 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | [Python](Python/203.%20Remove%20Linked%20List%20Elements.py) / [C++](C%2B%2B/202.%20Happy%20Number.cpp) | |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [JavaScript](JavaScript/205.%20Isomorphic%20Strings.js) / [Python](Python/205.%20Isomorphic%20Strings.py) | |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Medium | [C++](C%2B%2B/209.%20Minimum%20Size%20Subarray%20Sum.cpp) | |
-| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [JavaScript](JavaScript/217.%20Contains%20Duplicate.js) / [Python](Python/217.%20Contains%20Duplicate.py) | |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [JavaScript](JavaScript/217.%20Contains%20Duplicate.js) / [Python](Python/217.%20Contains%20Duplicate.py) / [C++](C%2B%2B/217.%20Contains%20Duplicate.cpp) | |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | [Python](Python/219.%20Contains%20Duplicate%20II.py) | |
 | 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy | [Python](Python/225.%20Implement%20Stack%20using%20Queues.py) | |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | [Python](Python/226.%20Invert%20Binary%20Tree.py) | |
@@ -160,7 +160,7 @@
 | 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | [Python](Python/504.%20Base%207.py) | |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | [Python](Python/506.%20Relative%20Ranks.py) | |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | [Python](Python/507.%20Perfect%20Number.py) | |
-| 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | [Python](Python/509.%20Fibonacci%20Number.py) / [Java](Java/509.%20Fibonacci%20Number.java) / [JavaScript](JavaScript/509.%20Fibonacci%20Number.js) / [TypeScript](TypeScript/509.%20Fibonacci%20Number.ts) / [PHP](PHP/509.%20Fibonacci%20Number.php) | |
+| 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | [Python](Python/509.%20Fibonacci%20Number.py) / [Java](Java/509.%20Fibonacci%20Number.java) / [JavaScript](JavaScript/509.%20Fibonacci%20Number.js) / [TypeScript](TypeScript/509.%20Fibonacci%20Number.ts) / [PHP](PHP/509.%20Fibonacci%20Number.php) / [C++](C%2B%2B/509.%20Fibonacci%20Number.cpp) | |
 | 0511 | [Game Play Analysis I](https://leetcode.com/problems/student-attendance-record-i) | Easy | [Python](Python/551.%20Student%20Attendance%20Record%20I.py) | |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | [Python](Python/520.%20Detect%20Capital.py) | |
 | 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | Easy | [Python](Python/521.%20Longest%20Uncommon%20Subsequence%20I.py) | |
@@ -249,7 +249,7 @@
 | 0884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](Python/884.%20Uncommon%20Words%20from%20Two%20Sentences.py) | |
 | 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | Easy | [JavaScript](JavaScript/888.%20Fair%20Candy%20Swap.js) | |
 | 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | Medium | [Python](Python/890.%20Find%20and%20Replace%20Pattern.py) | |
-| 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | [JavaScript](JavaScript/896.%20Monotonic%20Array.js) | |
+| 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | [JavaScript](JavaScript/896.%20Monotonic%20Array.js) / [C++](C%2B%2B/896.%20Monotonic%20Array.cpp) | |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | [JavaScript](JavaScript/905.%20Sort%20Array%20By%20Parity.js) / [Python](Python/905.%20Sort%20Array%20By%20Parity.py) | |
 | 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | [Python](Python/908.%20Smallest%20Range%20I.py) | |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | Medium | [Python](Python/912.%20Sort%20an%20Array.py) | |
@@ -298,7 +298,7 @@
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [JavaScript](JavaScript/1108.%20Defanging%20an%20IP%20Address.js) / [Java](Java/1108.%20Defanging%20an%20IP%20Address.java) / [C++](C%2B%2B/1108.%20Defanging%20an%20IP%20Address.cpp) | |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array) | Easy | [Python](Python/1122.%20Relative%20Sort%20Array.py) | |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | Easy | [Python](Python/1128.%20Number%20of%20Equivalent%20Domino%20Pairs.py) | |
-| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](Python/1137.%20N-th%20Tribonacci%20Number.py) / [PHP](PHP/1137.%20N-th%20Tribonacci%20Number.php) / [Java](Java/1137.%20N-th%20Tribonacci%20Number.java) | |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](Python/1137.%20N-th%20Tribonacci%20Number.py) / [PHP](PHP/1137.%20N-th%20Tribonacci%20Number.php) / [Java](Java/1137.%20N-th%20Tribonacci%20Number.java) / [C++](C%2B%2B/1137.%20N-th%20Tribonacci%20Number.cpp) | |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | Easy | [MySQL](MySQL/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.mysql) | |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | [MySQL](MySQL/1148.%20Article%20Views%20I.mysql) | |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | [Python](Python/1154.%20Day%20of%20the%20Year.py) | |
