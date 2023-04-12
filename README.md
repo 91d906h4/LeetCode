@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 665)
+(Total solved problems : 666)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -41,6 +41,7 @@
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | [Python](Python/67.%20Add%20Binary.py) | |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) / [Python](Python/69.%20Sqrt(x).py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) / [TyoeScript](TypeScript/70.%20Climbing%20Stairs.ts) / [PHP](PHP/70.%20Climbing%20Stairs.php) / [Python](Python/70.%20Climbing%20Stairs.py) / [Java](Java/70.%20Climbing%20Stairs.java) | |
+| 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path) | Medium | [Python](Python/71.%20Simplify%20Path.py) / [C++](C%2B%2B/71.%20Simplify%20Path.cpp) | |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Easy | [Python](Python/74.%20Search%20a%202D%20Matrix.py) | |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [Python](Python/75.%20Sort%20Colors.py) | [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort) |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | Medium | [Python](Python/77.%20Combinations.py) | |
