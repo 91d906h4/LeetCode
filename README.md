@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 666)
+(Total solved problems : 672)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -646,3 +646,6 @@
 | 2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string) | Easy | [Python](Python/2609.%20Find%20the%20Longest%20Balanced%20Substring%20of%20a%20Binary%20String.py) | |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | Medium | [Python](Python/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.py) | |
 | 2611 | [Mice and Cheese](https://leetcode.com/problems/mice-and-cheese) | Medium | [Python](Python/2611.%20Mice%20and%20Cheese.py) | |
+| 2620 | [Counter](https://leetcode.com/problems/counter) | Easy | [JavaScript](JavaScript/2620.%20Counter.js) / [TypeScript](TypeScript/2620.%20Counter.ts) | |
+| 2621 | [Sleep](https://leetcode.com/problems/sleep) | Easy | [JavaScript](JavaScript/2621.%20Sleep.js) / [TypeScript](TypeScript/2621.%20Sleep.ts) | |
+| 2621 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | Easy | [JavaScript](JavaScript/2626.%20Array%20Reduce%20Transformation.js) / [TypeScript](TypeScript/2626.%20Array%20Reduce%20Transformation.ts) | |
