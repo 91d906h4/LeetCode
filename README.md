@@ -58,7 +58,7 @@
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | [C++](C%2B%2B/110.%20Balanced%20Binary%20Tree.cpp) | |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy | [Python](Python/111.%20Minimum%20Depth%20of%20Binary%20Tree.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | [Python](Python/119.%20Pascal's%20Triangle%20II.py) | |
-| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | [Python](Python/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) / [Java](Java/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) | |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | [Python](Python/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) / [Java](Java/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) / [C](C/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.c) | |
 | 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Medium | [Python](Python/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) / [Java](Java/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.java) | |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | [Python](Python/133.%20Clone%20Graph.py) | |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | [JavaScript](JavaScript/136.%20Single%20Number.js) / [Java](Java/136.%20Single%20Number.java) | |
