@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 672)
+(Total solved problems : 675)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -649,5 +649,6 @@
 | 2611 | [Mice and Cheese](https://leetcode.com/problems/mice-and-cheese) | Medium | [Python](Python/2611.%20Mice%20and%20Cheese.py) | |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | Easy | [JavaScript](JavaScript/2620.%20Counter.js) / [TypeScript](TypeScript/2620.%20Counter.ts) | |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | Easy | [JavaScript](JavaScript/2621.%20Sleep.js) / [TypeScript](TypeScript/2621.%20Sleep.ts) | |
-| 2621 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | Easy | [JavaScript](JavaScript/2626.%20Array%20Reduce%20Transformation.js) / [TypeScript](TypeScript/2626.%20Array%20Reduce%20Transformation.ts) | |
+| 26216 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | Easy | [JavaScript](JavaScript/2626.%20Array%20Reduce%20Transformation.js) / [TypeScript](TypeScript/2626.%20Array%20Reduce%20Transformation.ts) | |
+| 2629 | [Function Composition](https://leetcode.com/problems/function-composition) | Easy | [JavaScript](JavaScript/2629.%20Function%20Composition.js) | |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array) | Easy | [JavaScript](JavaScript/2634.%20Filter%20Elements%20from%20Array.js) | |
