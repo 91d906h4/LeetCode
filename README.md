@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 675)
+(Total solved problems : 676)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -652,3 +652,4 @@
 | 26216 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | Easy | [JavaScript](JavaScript/2626.%20Array%20Reduce%20Transformation.js) / [TypeScript](TypeScript/2626.%20Array%20Reduce%20Transformation.ts) | |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition) | Easy | [JavaScript](JavaScript/2629.%20Function%20Composition.js) | |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array) | Easy | [JavaScript](JavaScript/2634.%20Filter%20Elements%20from%20Array.js) | |
+| 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | Easy | [JavaScript](JavaScript/2635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array.js) | |
