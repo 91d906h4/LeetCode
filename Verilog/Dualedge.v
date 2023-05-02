@@ -6,12 +6,12 @@ module top_module (
     
     reg q1, q2;
     
-    assign q = clk ? q1 : q2;
-    
     always @(posedge clk)
     	q1 <= d;
     
     always @(negedge clk)
     	q2 <= d;
+    
+    assign q = clk ? q1 : q2;
 
 endmodule
