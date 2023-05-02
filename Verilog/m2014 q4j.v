@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Exams/m2014_q4j
-
 module adder(
 	input a, b, cin,
     output cout, sum
