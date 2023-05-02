@@ -478,7 +478,7 @@
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | Easy | [Python](Python/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py) | |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | Easy | [JavaScript](JavaScript/1816.%20Truncate%20Sentence.js) | |
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes) | Medium | [Python](Python/1817.%20Finding%20the%20Users%20Active%20Minutes.py) | |
-| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | Easy | [Python](Python/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py) | |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | Easy | [Python](Python/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py) / [C](C/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.c) | |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | Easy | [JavaScript](JavaScript/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.js) | |
 | 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) | Medium | [Python](Python/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.py) / [Java](Java/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.java) | |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | [JavaScript](JavaScript/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.js) | |
