@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Alwaysblock2
-
 // synthesis verilog_input_version verilog_2001
 module top_module(
     input clk,
