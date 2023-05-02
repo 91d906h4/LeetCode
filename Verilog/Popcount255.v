@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Popcount255
-
 module top_module( 
     input [254:0] in,
     output [7:0] out );
