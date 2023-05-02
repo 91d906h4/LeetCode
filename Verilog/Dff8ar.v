@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Dff8ar
-
 module top_module (
     input clk,
     input areset,   // active high asynchronous reset
