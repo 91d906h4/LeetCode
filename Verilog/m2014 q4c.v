@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Exams/m2014_q4c
-
 module top_module (
     input clk,
     input d, 
