@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 678)
+(Total solved problems : 679)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -655,3 +655,4 @@
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array) | Easy | [JavaScript](JavaScript/2634.%20Filter%20Elements%20from%20Array.js) | |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | Easy | [JavaScript](JavaScript/2635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array.js) | |
 | 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence) | Easy | [JavaScript](JavaScript/2648.%20Generate%20Fibonacci%20Sequence.js) | |
+| 2565 | [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | Easy | [C](C/2656.%20Maximum%20Sum%20With%20Exactly%20K%20Elements%20.c) | |
