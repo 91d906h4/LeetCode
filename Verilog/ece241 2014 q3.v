@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Exams/ece241_2014_q3
-
 module top_module (
     input c,
     input d,
