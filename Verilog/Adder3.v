@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Adder3
-
 module adder(
 	input a, b, cin,
     output cout, sum
