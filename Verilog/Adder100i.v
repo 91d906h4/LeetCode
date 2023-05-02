@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Adder100i
-
 module add_1(
 	input a,
     input b,
