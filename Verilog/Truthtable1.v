@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Truthtable1
-
 module top_module( 
     input x3,
     input x2,
