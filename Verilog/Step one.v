@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Step_one
-
 module top_module( output one );
 
 // Insert your code here
