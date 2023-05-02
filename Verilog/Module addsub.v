@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Module_addsub
-
 module top_module(
     input [31:0] a,
     input [31:0] b,
