@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Module_shift
-
 module top_module ( input clk, input d, output q );
     wire w1, w2;
 
