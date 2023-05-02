@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Vector2
-
 module top_module( 
     input [31:0] in,
     output [31:0] out );//
