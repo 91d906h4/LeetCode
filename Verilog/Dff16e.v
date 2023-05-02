@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Dff16e
-
 module top_module (
     input clk,
     input resetn,
