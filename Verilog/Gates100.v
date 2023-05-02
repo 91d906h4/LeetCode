@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Gates100
-
 module top_module( 
     input [99:0] in,
     output out_and,
