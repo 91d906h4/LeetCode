@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/7420
-
 module top_module ( 
     input p1a, p1b, p1c, p1d,
     output p1y,
