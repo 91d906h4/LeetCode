@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Dff
-
 module top_module (
     input clk,    // Clocks are used in sequential circuits
     input d,
