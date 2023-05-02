@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Vector5
-
 module top_module (
     input a, b, c, d, e,
     output [24:0] out );//
