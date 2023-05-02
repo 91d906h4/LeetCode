@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Exams/m2014_q4g
-
 module top_module (
     input in1,
     input in2,
