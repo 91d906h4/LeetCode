@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Dff8r
-
 module top_module (
     input clk,
     input reset,            // Synchronous reset
