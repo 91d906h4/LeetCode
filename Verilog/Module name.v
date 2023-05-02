@@ -1,5 +1,3 @@
-// https://hdlbits.01xz.net/wiki/Module_name
-
 module top_module ( 
     input a, 
     input b, 
