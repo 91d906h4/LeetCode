@@ -12,6 +12,6 @@ module top_module (
 
     bcdcount counter0 (clk, reset, c_enable[0], q0),
              counter1 (clk, reset, c_enable[1], q1),
-    		 counter2 (clk, reset, c_enable[2], q2);
+             counter2 (clk, reset, c_enable[2], q2);
 
 endmodule
