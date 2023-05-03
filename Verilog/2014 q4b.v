@@ -12,7 +12,7 @@ module top_module (
 endmodule
 
 module MUXDFF (
-	input clk, l, e,
+    input clk, l, e,
     input i1, i2,
     output reg q
 );
