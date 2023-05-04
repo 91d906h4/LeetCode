@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 685)
+(Total solved problems : 686)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -16,6 +16,7 @@
 | 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | Medium | [Python](Python/12.%20Integer%20to%20Roman.py) | |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [JavaScript](JavaScript/13.%20Roman%20to%20Integer.js) | |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | [JavaScript](JavaScript/14.%20Longest%20Common%20Prefix.js) | |
+| 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium | [Python](Python/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py) | |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [JavaScript](JavaScript/20.%20Valid%20Parentheses.js) / [Python](Python/20.%20Valid%20Parentheses.py) / [C++](C%2B%2B/20.%20Valid%20Parentheses.cpp) | |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | [JavaScript](JavaScript/21.%20Merge%20Two%20Sorted%20Lists.js) | |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | [JavaScript](JavaScript/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) | |
