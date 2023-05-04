@@ -654,7 +654,7 @@
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | Easy | [JavaScript](JavaScript/2626.%20Array%20Reduce%20Transformation.js) / [TypeScript](TypeScript/2626.%20Array%20Reduce%20Transformation.ts) | |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition) | Easy | [JavaScript](JavaScript/2629.%20Function%20Composition.js) | |
 | 2631 | [Group By](https://leetcode.com/problems/group-by) | Medium | [JavaScript](JavaScript/2631.%20Group%20By.js) | |
-| 2633 | [Convert Object to JSON String](https://leetcode.com/problems/convert-object-to-json-string) | Medium | [JavaScript/2633.%20Convert%20Object%20to%20JSON%20String.js) | |
+| 2633 | [Convert Object to JSON String](https://leetcode.com/problems/convert-object-to-json-string) | Medium | [JavaScript](2633.%20Convert%20Object%20to%20JSON%20String.js) | |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array) | Easy | [JavaScript](JavaScript/2634.%20Filter%20Elements%20from%20Array.js) | |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | Easy | [JavaScript](JavaScript/2635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array.js) | |
 | 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence) | Easy | [JavaScript](JavaScript/2648.%20Generate%20Fibonacci%20Sequence.js) | |
