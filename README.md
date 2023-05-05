@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 689)
+(Total solved problems : 690)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -660,6 +660,7 @@
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array) | Easy | [JavaScript](JavaScript/2634.%20Filter%20Elements%20from%20Array.js) | |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | Easy | [JavaScript](JavaScript/2635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array.js) | |
 | 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence) | Easy | [JavaScript](JavaScript/2648.%20Generate%20Fibonacci%20Sequence.js) | |
+| 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | Easy | [C](C/2651.%20Calculate%20Delayed%20Arrival%20Time.c) | |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | Easy | [C](C/2652.%20Sum%20Multiples.c) | |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/counter-ii) | Easy | [C](C/2656.%20Maximum%20Sum%20With%20Exactly%20K%20Elements%20.c) | |
 | 2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game) | Easy | [Python](Python/2660.%20Determine%20the%20Winner%20of%20a%20Bowling%20Game.py) | |
