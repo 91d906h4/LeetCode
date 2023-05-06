@@ -51,7 +51,8 @@
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [Python](Python/88.%20Merge%20Sorted%20Array.py) | |
 | 0089 | [Gray Code](https://leetcode.com/problems/gray-code) | Medium | [Python](Python/89.%20Gray%20Code.py) | |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | Medium | [Python](Python/90.%20Subsets%20II.py) | |
-| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | [Python](Python/94.%20Binary%20Tree%20Inorder%20Traversal.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | [Python](Python/94.%20Binary%20Tree%20Inorder%20Traversal.py) / [C](C/94.%20Binary%20Tree%20Inorder%20Traversal.c) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
+| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | [Python](Python/98.%20Validate%20Binary%20Search%20Tree.py) | [BST](https://en.wikipedia.org/wiki/Binary_search_tree), [Inorder Traversal](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/) |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [JavaScript](JavaScript/100.%20Same%20Tree.js) / [Python](Python/100.%20Same%20Tree.py) | |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy | [Python](Python/101.%20Symmetric%20Tree.py) | [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | [Python](Python/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
