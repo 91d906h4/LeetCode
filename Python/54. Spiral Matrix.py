@@ -27,5 +27,5 @@ class Solution:
                 else: d = 0; j += 1
 
             t -= 1
-        
+
         return res
