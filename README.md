@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 695)
+(Total solved problems : 696)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -297,6 +297,7 @@
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | Easy | [Python](Python/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py) / [Java](Java/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | [MySQL](MySQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.mysql) | |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [JavaScript](JavaScript/1051.%20Height%20Checker.js) | |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | Easy | [MySQL](MySQL/1068.%20Product%20Sales%20Analysis%20I.mysql) | |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | Easy | [Python](Python/1071.%20Greatest%20Common%20Divisor%20of%20Strings.py) | |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram) | Easy | [Python](Python/1078.%20Occurrences%20After%20Bigram.py) | |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | Medium | [Python](Python/1079.%20Letter%20Tile%20Possibilities.py) | |
