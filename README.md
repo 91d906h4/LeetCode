@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 694)
+(Total solved problems : 695)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -34,6 +34,7 @@
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](Python/49.%20Group%20Anagrams.py) | |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](Python/50.%20Pow(x,%20n).py) | |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) / [Java](Java/53.%20Maximum%20Subarray.java) | [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm) |
+| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | [Python](Python/54.%20Spiral%20Matrix.py) | |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
 | 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | Hard | [Python](Python/60.%20Permutation%20Sequence.py) | |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Easy | [Python](Python/62.%20Unique%20Paths.py) / [JavaScript](JavaScript/62.%20Unique%20Paths.js) / [PHP](PHP/62.%20Unique%20Paths.php) | \*Mathematical Solution <sup>[[1]](https://en.wikipedia.org/wiki/Combination)</sup> |
