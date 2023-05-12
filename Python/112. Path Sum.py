@@ -13,6 +13,7 @@ class Solution:
             if not node: return 
 
             total += node.val
+
             if not node.left and not node.right:
                 print(total)
                 if not self.res: self.res = total == targetSum
