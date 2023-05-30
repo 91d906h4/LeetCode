@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 702)
+(Total solved problems : 703)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -677,4 +677,5 @@
 | 2665 | [Counter II](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | Easy | [JavaScript](JavaScript/2665.%20Counter%20II.js) | |
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | Easy | [JavaScript](JavaScript/2666.%20Allow%20One%20Function%20Call.js) | |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function) | Easy | [JavaScript](JavaScript/2667.%20Create%20Hello%20World%20Function.js) | |
+| 2704 | [To Be Or Not To Be](hhttps://leetcode.com/problems/to-be-or-not-to-be) | Easy | [JavaScript](JavaScript/2704.%20To%20Be%20Or%20Not%20To%20Be.js) | |
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | Easy | [Python](Python/2710.%20Remove%20Trailing%20Zeros%20From%20a%20String.py) | |
