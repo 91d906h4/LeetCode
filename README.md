@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 700)
+(Total solved problems : 702)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -647,6 +647,7 @@
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | Easy | [Python](Python/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py) | |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | Easy | [Java](Java/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.java) / [Python](Python/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.py) | |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | Easy | [Python](Python/2540. Minimum Common Value.py) | |
+| 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | [Python](Python/2544.%20Alternating%20Digit%20Sum.py) | |
 | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score) | Medium | [C++](C%2B%2B/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.cpp) / [Python](Python/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.py) | |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | [C++](C%2B%2B/2574.%20Left%20and%20Right%20Sum%20Differences.cpp) | |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | Easy | [C++](C%2B%2B/2586.%20Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range.cpp) | |
@@ -676,3 +677,4 @@
 | 2665 | [Counter II](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | Easy | [JavaScript](JavaScript/2665.%20Counter%20II.js) | |
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | Easy | [JavaScript](JavaScript/2666.%20Allow%20One%20Function%20Call.js) | |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function) | Easy | [JavaScript](JavaScript/2667.%20Create%20Hello%20World%20Function.js) | |
+| 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | Easy | [Python](Python/2710.%20Remove%20Trailing%20Zeros%20From%20a%20String.py) | |
