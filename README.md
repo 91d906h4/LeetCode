@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 709)
+(Total solved problems : 710)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -349,6 +349,7 @@
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | Medium | [Python](Python/1310.%20XOR%20Queries%20of%20a%20Subarray.py) | |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | Easy | [JavaScript](JavaScript/1313.%20Decompress%20Run-Length%20Encoded%20List.js) | |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | Easy | [Python](Python/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.py) | |
+| 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | Medium | [Python](Python/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.py) | |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | Easy | [JavaScript](JavaScript/1323.%20Maximum%2069%20Number.js) | |
 | 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically) | Medium | [Python](Python/1324.%20Print%20Words%20Vertically.py) | |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | Medium | [Python](Python/1329.%20Sort%20the%20Matrix%20Diagonally.py) | |
