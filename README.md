@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 710)
+(Total solved problems : 711)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -28,6 +28,7 @@
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | [Python](Python/36.%20Valid%20Sudoku.py) | |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say) | Medium | [Python](Python/38.%20Count%20and%20Say.py) | |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | Hard | [Python](Python/41.%20First%20Missing%20Positive.py) | |
+| 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | Medium | [C](C/45.%20Jump%20Game%20II.c) | |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | [Python](Python/46.%20Permutations.py) | |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium | [Python](Python/47.%20Permutations%20II.py) | |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | [Python](Python/48.%20Rotate%20Image.py) | |
