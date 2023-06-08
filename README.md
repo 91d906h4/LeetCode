@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 717)
+(Total solved problems : 718)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -199,6 +199,7 @@
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | [Python](Python/605.%20Can%20Place%20Flowers.py) - [C++](C%2B%2B/605.%20Can%20Place%20Flowers.cpp) | |
 | 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | Easy | [Python](Python/606.%20Construct%20String%20from%20Binary%20Tree.py) | |
 | 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | [MySQL](MySQL/607.%20Sales%20Person.mysql) | |
+| 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | Easy | [MySQL](MySQL/610.%20Triangle%20Judgement.mysql) | |
 | 0609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | Medium | [Python](Python/609.%20Find%20Duplicate%20File%20in%20System.py) | |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | [MySQL](MySQL/620.%20Not%20Boring%20Movies.mysql) | |
 | 0626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | Medium | [MySQL](MySQL/626.%20Exchange%20Seats.mysql) | |
