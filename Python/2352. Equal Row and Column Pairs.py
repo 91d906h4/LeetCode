@@ -1,5 +1,14 @@
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
+#         temp = np.rot90(grid)
+#         res = 0
+
+#         for i in grid:
+#             for j in temp:
+#                 if list(i) == list(j): res += 1
+
+#         return res
+
         temp1 = [repr(x) for x in grid]
         temp2 = []
         for x in range(len(grid)):
