@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 720)
+(Total solved problems : 721)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -454,7 +454,8 @@
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy | [JavaScript](JavaScript/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.js) / [Python](Python/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py) | |
 | 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value) | Medium | [Python](Python/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.py) | |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | Easy | [Python](Python/1652.%20Defuse%20the%20Bomb.py) | |
-| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | Easy | [MySQL](1667.%20Fix%20Names%20in%20a%20Table.mysql) | |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | Easy | [MySQL](MySQL/1661.%20Average%20Time%20of%20Process%20per%20Machine.mysql) | |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | Easy | [MySQL](MySQL/1667.%20Fix%20Names%20in%20a%20Table.mysql) | |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) | Easy | [Python](Python/1668.%20Maximum%20Repeating%20Substring.py) | |
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists) | Medium | [C++](C%2B%2B/1669.%20Merge%20In%20Between%20Linked%20Lists.cpp) | |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | [JavaScript](JavaScript/1672.%20Richest%20Customer%20Wealth.js) / [Python](Python/1672.%20Richest%20Customer%20Wealth.py) / [Java](Java/1672.%20Richest%20Customer%20Wealth.java) | |
