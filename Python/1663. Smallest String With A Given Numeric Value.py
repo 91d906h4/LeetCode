@@ -1,6 +1,5 @@
 class Solution:
     def getSmallestString(self, n: int, k: int) -> str:
-        print(ord('z') - 96)
         k -= n
 
         temp = [1 for _ in range(n)]
