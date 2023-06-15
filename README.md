@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 722)
+(Total solved problems : 723)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -312,6 +312,7 @@
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | Medium | [Python](Python/1079.%20Letter%20Tile%20Possibilities.py) | |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | Easy | [MySQL](MySQL/1084.%20Sales%20Analysis%20III.mysql) | |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | Easy | [Python](Python/1089.%20Duplicate%20Zeros.py) | |
+| 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | Hard | [Python](Python/1095.%20Find%20in%20Mountain%20Array.py) | |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | Easy | [Python](Python/1103.%20Distribute%20Candies%20to%20People.py) | |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [JavaScript](JavaScript/1108.%20Defanging%20an%20IP%20Address.js) / [Java](Java/1108.%20Defanging%20an%20IP%20Address.java) / [C++](C%2B%2B/1108.%20Defanging%20an%20IP%20Address.cpp) | |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array) | Easy | [Python](Python/1122.%20Relative%20Sort%20Array.py) | |
