@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 725)
+(Total solved problems : 726)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -700,3 +700,4 @@
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by) | Easy | [JavaScript](JavaScript/2724.%20Sort%20By.js) | |
 | 2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining) | Easy | [JavaScript](JavaScript/2726.%20Calculator%20with%20Method%20Chaining.js) | |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty) | Easy | [JavaScript](JavaScript/2727.%20Is%20Object%20Empty.js) | |
+| 2763 | [Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays) | Hard | [Python](Python/2763.%20Sum%20of%20Imbalance%20Numbers%20of%20All%20Subarrays.py) | |
