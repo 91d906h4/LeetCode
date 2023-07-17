@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 727)
+(Total solved problems : 728)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -156,6 +156,7 @@
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | [Python](Python/438.%20Find%20All%20Anagrams%20in%20a%20String.py) | [Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique) |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | [Python](Python/441.%20Arranging%20Coins.py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0443 | [String Compression](https://leetcode.com/problems/string-compression) | Medium | [Python](Python/443.%20String%20Compression.py) |
+| 0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | Medium | [Python](Python/445.%20Add%20Two%20Numbers%20II.py) |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | [Python](Python/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | |
 | 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | Medium | [Python](Python/451.%20Sort%20Characters%20By%20Frequency.py) | |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | Medium | [Python](Python/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py) | |
