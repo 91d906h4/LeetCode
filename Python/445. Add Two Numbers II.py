@@ -8,17 +8,14 @@ class Solution:
         a, b = 0, 0
 
         while l1:
-            a *= 10
-            a += l1.val
+            a = a * 10 +l1.val
             l1 = l1.next
 
         while l2:
-            b *= 10
-            b += l2.val
+            b = b * 10 +l2.val
             l2 = l2.next
 
-        a += b
-        a = list(str(a))
+        a = list(str(a + b))
         res = pointer = ListNode(a[0])
         del a[0]
 
