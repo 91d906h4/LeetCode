@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 732)
+(Total solved problems : 733)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -104,6 +104,7 @@
 | 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy | [Python](Python/225.%20Implement%20Stack%20using%20Queues.py) | |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | [Python](Python/226.%20Invert%20Binary%20Tree.py) | |
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | Easy | [Python](Python/228.%20Summary%20Ranges.py) | |
+| 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | Medium | [Python](Python/229.%20Majority%20Element%20II.py) | |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium | [C](C/230.%20Kth%20Smallest%20Element%20in%20a%20BST.c) / [C++](C%2B%2B/230.%20Kth%20Smallest%20Element%20in%20a%20BST.cpp) | |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | [Python](Python/231.%20Power%20of%20Two.py) / [Java](Java/231.%20Power%20of%20Two.java) / [C](C/231.%20Power%20of%20Two.c) | |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | [Python](Python/232.%20Implement%20Queue%20using%20Stacks.py) | |
