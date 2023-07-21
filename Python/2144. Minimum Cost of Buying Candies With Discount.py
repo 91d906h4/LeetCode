@@ -5,10 +5,9 @@ class Solution:
 
         cost.sort(reverse=True)
 
-        for i in range(0, l, 3):
-            res += cost[i]
-            i += 1
+        for i in range(0, l):
+            if i % 3 == 2: continue
 
-            if i < l: res += cost[i]
+            res += cost[i]
 
         return res
