@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 736)
+(Total solved problems : 737)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -40,6 +40,7 @@
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [Python](Python/55.%20Jump%20Game.py) | |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [JavaScript](JavaScript/58.%20Length%20of%20Last%20Word.js) | |
 | 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | Hard | [Python](Python/60.%20Permutation%20Sequence.py) | |
+| 0061 | [Rotate List](https://leetcode.com/problems/rotate-list) | Medium | [Python](Python/61.%20Rotate%20List.py) | |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Easy | [Python](Python/62.%20Unique%20Paths.py) / [JavaScript](JavaScript/62.%20Unique%20Paths.js) / [PHP](PHP/62.%20Unique%20Paths.php) | \*Mathematical Solution <sup>[[1]](https://en.wikipedia.org/wiki/Combination)</sup> |
 | 0065 | [Valid Number](https://leetcode.com/problems/valid-number) | Hard | [Python](Python/65.%20Valid%20Number.py) | [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) / [C++](C%2B%2B/66.%20Plus%20One.cpp) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
