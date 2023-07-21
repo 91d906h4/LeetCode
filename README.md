@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 737)
+(Total solved problems : 738)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -559,6 +559,7 @@
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | Easy | [Python](Python/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.py) | |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | Easy | [JavaScript](JavaScript/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.js) | |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | Medium | [Python](Python/2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array.py) | |
+| 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | Easy | [Python](Python/2094.%20Finding%203-Digit%20Even%20Numbers.py) | |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum) | Easy | [Python](Python/2099.%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum.py) | |
 | 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | Easy | [JavaScript](JavaScript/2103.%20Rings%20and%20Rods.js) | |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy | [JavaScript](JavaScript/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.js) | |
