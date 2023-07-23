@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 740)
+(Total solved problems : 741)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -640,6 +640,7 @@
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items) | Easy | [Python](Python/2363.%20Merge%20Similar%20Items.py) | |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | [Python](Python/2367.%20Number%20of%20Arithmetic%20Triplets.py) | |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | Easy | [Python](Python/2373.%20Largest%20Local%20Values%20in%20a%20Matrix.py) | |
+| 2374 | [Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score) | Medium | [Python](Python/2374.%20Node%20With%20Highest%20Edge%20Score.py) | |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | Easy | [Python](Python/2379.%20Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks.py) | |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | Medium | [Python](Python/2390.%20Removing%20Stars%20From%20a%20String.py) / [Java](Java/2390.%20Removing%20Stars%20From%20a%20String.java) | |
 | 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage) | Medium | [Python](Python/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.py) / [Java](Java/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.java) | |
