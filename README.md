@@ -34,7 +34,7 @@
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium | [Python](Python/47.%20Permutations%20II.py) | |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | [Python](Python/48.%20Rotate%20Image.py) | |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [Python](Python/49.%20Group%20Anagrams.py) | |
-| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](Python/50.%20Pow(x,%20n).py) | |
+| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | [Python](Python/50.%20Pow(x,%20n).py) / [C](C/50.%20Pow(x%2C%20n).c) | |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [JavaScript](JavaScript/53.%20Maximum%20Subarray.js) / [Python](Python/53.%20Maximum%20Subarray.py) / [Java](Java/53.%20Maximum%20Subarray.java) | [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm) |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | [Python](Python/54.%20Spiral%20Matrix.py) | |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [Python](Python/55.%20Jump%20Game.py) | |
