@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 741)
+(Total solved problems : 742)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -557,6 +557,7 @@
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors) | Easy | [Python](Python/2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors.py) / [Java](Java/2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors.py) | |
 | 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants) | Medium | [Python](Python/2079.%20Watering%20Plants.py) | |
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | Easy | [Python](Python/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.py) | |
+| 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid) | Medium | [Python](Python/2087.%20Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid.py) | |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | Easy | [JavaScript](JavaScript/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.js) | |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | Medium | [Python](Python/2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array.py) | |
 | 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | Easy | [Python](Python/2094.%20Finding%203-Digit%20Even%20Numbers.py) | |
