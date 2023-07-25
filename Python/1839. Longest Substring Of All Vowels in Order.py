@@ -8,13 +8,9 @@ class Solution:
 
         for i in word[1:]:
             if i == pointer: counter += 1; temp += i
-            elif i == dict_[pointer]:
-                pointer = i
-                counter += 1; temp += i
+            elif i == dict_[pointer]: pointer = i; counter += 1; temp += i
             else:
-                if pointer == 'u' and len(set(temp)) == 5: res = max(res, counter)
-                counter = 1
-                pointer = i
-                temp = i
+                if len(set(temp)) == 5: res = max(res, counter)
+                counter = 1; pointer = i; temp = i
 
         return res
