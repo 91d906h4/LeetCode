@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 746)
+(Total solved problems : 747)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -482,6 +482,7 @@
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | Easy | [Python](Python/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py) | |
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count) | Easy | [MySQL](MySQL/1729.%20Find%20Followers%20Count.mysql) | |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | [JavaScript](JavaScript/1732.%20Find%20the%20Highest%20Altitude.js) | |
+| 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits) | Easy | [Python](Python/1736.%20Latest%20Time%20by%20Replacing%20Hidden%20Digits.py) | |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | Easy | [MySQL](MySQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.mysql) | |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box) | Easy | [Python](Python/1742.%20Maximum%20Number%20of%20Balls%20in%20a%20Box.py) | |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | [Python](Python/1748.%20Sum%20of%20Unique%20Elements.py) | |
