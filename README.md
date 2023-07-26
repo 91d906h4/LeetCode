@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 747)
+(Total solved problems : 748)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -468,6 +468,7 @@
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists) | Medium | [C++](C%2B%2B/1669.%20Merge%20In%20Between%20Linked%20Lists.cpp) | |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | [JavaScript](JavaScript/1672.%20Richest%20Customer%20Wealth.js) / [Python](Python/1672.%20Richest%20Customer%20Wealth.py) / [Java](Java/1672.%20Richest%20Customer%20Wealth.java) | |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | [JavaScript](JavaScript/1678.%20Goal%20Parser%20Interpretation.js) / [Python](Python/1678.%20Goal%20Parser%20Interpretation.py) | |
+| 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | Medium | [Python](Python/1679.%20Max%20Number%20of%20K-Sum%20Pairs.py) | |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | Easy | [JavaScript](JavaScript/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js) | |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array) | Medium | [C](C/1685.%20Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.c) | |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament) | Easy | [JavaScript](JavaScript/1688.%20Count%20of%20Matches%20in%20Tournament.js) | |
