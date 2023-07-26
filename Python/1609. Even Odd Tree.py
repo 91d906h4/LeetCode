@@ -6,8 +6,6 @@
 #         self.right = right
 class Solution:
     def isEvenOddTree(self, root: Optional[TreeNode]) -> bool:
-        if root.val % 2 == 0: return False
-
         queue = deque([root])
         odd, temp = True, 0
 
