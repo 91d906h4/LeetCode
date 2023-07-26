@@ -23,11 +23,10 @@ class Solution:
                         else: return False
                     else:
                         if v.val % 2 == 1: return False
-                        if temp == 0: temp = float("inf")
                         if temp > v.val: temp = v.val
                         else: return False
 
             odd = not odd
-            temp = 0
+            temp = 0 if odd else float("inf")
                 
         return True
