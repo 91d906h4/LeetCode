@@ -20,7 +20,7 @@ class Solution:
 
         # return res
 
-        temp = Counter(list(s))
+        temp = Counter(s)
         pointer = float("inf")
         res = 0
 
