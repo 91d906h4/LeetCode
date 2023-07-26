@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 744)
+(Total solved problems : 745)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -456,6 +456,7 @@
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | Medium | [Python](Python/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py) | |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings) | Medium | [Python](Python/1641.%20Count%20Sorted%20Vowel%20Strings.py) | \*Methamatical Method <sup>[[1]](https://en.wikipedia.org/wiki/Combination)</sup> |
 | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array) | Easy | [Python](Python/1646.%20Get%20Maximum%20in%20Generated%20Array.py) | |
+| 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) | Medium | [Python](Python/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.py) | |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) | Medium | [Python](Python/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.py) | |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy | [JavaScript](JavaScript/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.js) / [Python](Python/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py) | |
 | 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value) | Medium | [Python](Python/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.py) | |
