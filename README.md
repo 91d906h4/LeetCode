@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 745)
+(Total solved problems : 746)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -448,6 +448,7 @@
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | Easy | [Python](Python/1598.%20Crawler%20Log%20Folder.py) | |
 | 1603 | [Design Parking System](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Easy | [Python](JavaScript/1603.%20Design%20Parking%20System.js) / [Python](Python/1603.%20Design%20Parking%20System.py) / [Java](Java/1603.%20Design%20Parking%20System.java) / [C++](C%2B%2B/1603.%20Design%20Parking%20System.cpp) | |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Easy | [Python](Python/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.py) | [Greedy Algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) |
+| 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree) | Medium | [Python](Python/1609.%20Even%20Odd%20Tree.py) | |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | [JavaScript](JavaScript/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.js) | |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | Easy | [Python](Python/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters.py) | |
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | [Python](Python/1629.%20Slowest%20Key.py) | |
