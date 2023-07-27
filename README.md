@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 750)
+(Total solved problems : 751)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -680,6 +680,7 @@
 | 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | [Python](Python/2544.%20Alternating%20Digit%20Sum.py) | |
 | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score) | Medium | [C++](C%2B%2B/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.cpp) / [Python](Python/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.py) | |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | [C++](C%2B%2B/2574.%20Left%20and%20Right%20Sum%20Differences.cpp) | |
+| 2582 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow) | Easy | [Python](Python/2582.%20Pass%20the%20Pillow.py) | |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | Easy | [C++](C%2B%2B/2586.%20Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range.cpp) | |
 | 2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children) | Easy | [Python](Python/2591.%20Distribute%20Money%20to%20Maximum%20Children.py) / [C++](C%2B%2B/2591.%20Distribute%20Money%20to%20Maximum%20Children.cpp) | |
 | 2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array) | Medium | [C++](C%2B%2B/2592.%20Maximize%20Greatness%20of%20an%20Array.cpp) | |
