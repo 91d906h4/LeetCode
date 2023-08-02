@@ -1,4 +1,4 @@
-# LeetCode 
+# LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
 (Total solved problems : 753)
