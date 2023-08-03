@@ -34,4 +34,5 @@ class Solution:
         self.path = []
         self.targetSum = targetSum
         self.dfs(root)
+
         return self.res
