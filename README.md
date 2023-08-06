@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 755)
+(Total solved problems : 756)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -255,6 +255,7 @@
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | Easy | [Python](Python/821.%20Shortest%20Distance%20to%20a%20Character.py) / [Java](Java/821.%20Shortest%20Distance%20to%20a%20Character.java) | |
 | 0824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](Python/824.%20Goat%20Latin.py) | |
 | 0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | Easy | [Python](Python/830.%20Positions%20of%20Large%20Groups.py) | |
+| 0831 | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information) | Medium | [Python](Python/831.%20Masking%20Personal%20Information.py) | |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [JavaScript](JavaScript/832.%20Flipping%20an%20Image.js) | |
 | 0833 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes) | Easy | [Python](Python/883.%20Projection%20Area%20of%203D%20Shapes.py) / [Java](Java/883.%20Projection%20Area%20of%203D%20Shapes.java) | |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | [Python](Python/836.%20Rectangle%20Overlap.py) | |
