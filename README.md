@@ -49,7 +49,7 @@
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) / [TyoeScript](TypeScript/70.%20Climbing%20Stairs.ts) / [PHP](PHP/70.%20Climbing%20Stairs.php) / [Python](Python/70.%20Climbing%20Stairs.py) / [Java](Java/70.%20Climbing%20Stairs.java) | |
 | 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path) | Medium | [Python](Python/71.%20Simplify%20Path.py) / [C++](C%2B%2B/71.%20Simplify%20Path.cpp) | |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | [Python](Python/73.%20Set%20Matrix%20Zeroes.py) | |
-| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Easy | [Python](Python/74.%20Search%20a%202D%20Matrix.py) | |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Easy | [Python](Python/74.%20Search%20a%202D%20Matrix.py) / [C](C/74.%20Search%20a%202D%20Matrix.c) | |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [Python](Python/75.%20Sort%20Colors.py) | [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort) |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | Medium | [Python](Python/77.%20Combinations.py) | |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | Medium | [Python](Python/78.%20Subsets.py) | |
