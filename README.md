@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 756)
+(Total solved problems : 757)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -705,6 +705,7 @@
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | Easy | [JavaScript](JavaScript/2635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array.js) | |
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit) | Easy | [JavaScript](JavaScript/2637.%20Promise%20Time%20Limit.js) | |
 | 2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score) | Easy | [Python](Python/2644.%20Find%20the%20Maximum%20Divisibility%20Score.py) | |
+| 2645 | [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string) | Medium | [Python](Python/2645.%20Minimum%20Additions%20to%20Make%20Valid%20String.py) | |
 | 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence) | Easy | [JavaScript](JavaScript/2648.%20Generate%20Fibonacci%20Sequence.js) | |
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | Easy | [C](C/2651.%20Calculate%20Delayed%20Arrival%20Time.c) | |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | Easy | [C](C/2652.%20Sum%20Multiples.c) | |
