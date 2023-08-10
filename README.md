@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 757)
+(Total solved problems : 758)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -230,6 +230,7 @@
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | Medium | [C++](C%2B%2B/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp) | |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](Python/704.%20Binary%20Search.py) / [Java](Java/704.%20Binary%20Search.java) / [C](C/704.%20Binary%20Search.c) / [C++](C%2B%2B/704.%20Binary%20Search.cpp) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | [Python](Python/705.%20Design%20HashSet.py) |
+| 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy | [Python](Python/706.%20Design%20HashMap.py) |
 | 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list) | Medium | [Python](Python/707.%20Design%20Linked%20List.py) |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [JavaScript](JavaScript/709.%20To%20Lower%20Case.js) / [Python](Python/709.%20To%20Lower%20Case.py) | |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | [Python](Python/724.%20Find%20Pivot%20Index.py) | |
