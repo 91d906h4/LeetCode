@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 758)
+(Total solved problems : 759)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -572,6 +572,7 @@
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | Medium | [Python](Python/2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array.py) | |
 | 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | Easy | [Python](Python/2094.%20Finding%203-Digit%20Even%20Numbers.py) | |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum) | Easy | [Python](Python/2099.%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum.py) | |
+| 2102 | [Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker) | Hard | [Python](Python/2102.%20Sequentially%20Ordinal%20Rank%20Tracker.py) | |
 | 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | Easy | [JavaScript](JavaScript/2103.%20Rings%20and%20Rods.js) | |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy | [JavaScript](JavaScript/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.js) | |
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string) | Medium | [Python](Python/2109.%20Adding%20Spaces%20to%20a%20String.py) | |
