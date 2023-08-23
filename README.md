@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 759)
+(Total solved problems : 760)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -732,3 +732,4 @@
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | [C](C/2769.%20Find%20the%20Maximum%20Achievable%20Number.c) | |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | [C](C/2778.%20Sum%20of%20Squares%20of%20Special%20Elements.c) | |
 | 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator) | Easy | [Python](Python/2788.%20Split%20Strings%20by%20Separator.py) | |
+| 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard) | Easy | [Python](Python/2810.%20Faulty%20Keyboard.py) | |
