@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 760)
+(Total solved problems : 761)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -671,6 +671,7 @@
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | [Python](Python/2469.%20Convert%20the%20Temperature.py) / [Java](Java/2469.%20Convert%20the%20Temperature.java) | |
 | 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array) | Easy | [Python](Python/2475.%20Number%20of%20Unequal%20Triplets%20in%20Array.py) / [Java](Java/2475.%20Number%20of%20Unequal%20Triplets%20in%20Array.java) | |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column) | Medium | [Python](Python/2482.%20Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column.py) | |
+| 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop) | Medium | [Python](Python/2483.%20Minimum%20Penalty%20for%20a%20Shop.py) | |
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer) | Easy | [Java](Java/2485.%20Find%20the%20Pivot%20Integer.java) | |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | [Python](Python/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row.py) | |
 | 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings) | Easy | [Python](Python/2506.%20Count%20Pairs%20Of%20Similar%20Strings.py) | |
