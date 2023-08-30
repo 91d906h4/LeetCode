@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 764)
+(Total solved problems : 765)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -735,4 +735,5 @@
 | 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator) | Easy | [Python](Python/2788.%20Split%20Strings%20by%20Separator.py) | |
 | 2806 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase) | Easy | [C++](C++/2806.%20Account%20Balance%20After%20Rounded%20Purchase.cpp) | |
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard) | Easy | [Python](Python/2810.%20Faulty%20Keyboard.py) | |
+| 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | Easy | [Python](Python/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.py) | |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin) | Easy | [Python](Python/2833.%20Furthest%20Point%20From%20Origin.py) | |
