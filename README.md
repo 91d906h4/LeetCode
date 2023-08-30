@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 765)
+(Total solved problems : 766)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -341,6 +341,7 @@
 | 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king) | Medium | [C++](C%2B%2B/1222.%20Queens%20That%20Can%20Attack%20the%20King.cpp) | |
 | 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability) | Medium | [Python](Python/1227.%20Airplane%20Seat%20Assignment%20Probability.py) | \*Mathematical Solution <sup>[[1]](.Notes/1227.%20Airplane%20Seat%20Assignment%20Probability.txt)</sup> |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | [Python](Python/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py) / [C++](C%2B%2B/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.cpp) | |
+| 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | Medium | [Python](Python/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.py) | |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | Medium | [Python](Python/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py) | |
 | 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation) | Medium | [Python](Python/1238.%20Circular%20Permutation%20in%20Binary%20Representation.py) / [Java](Java/1238.%20Circular%20Permutation%20in%20Binary%20Representation.java) | |
 | 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array) | Hard | [Python](Python/1250.%20Check%20If%20It%20Is%20a%20Good%20Array.py) | |
