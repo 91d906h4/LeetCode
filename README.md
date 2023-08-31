@@ -333,6 +333,7 @@
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | [Python](Python/1154.%20Day%20of%20the%20Year.py) | |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | Easy | [Python](Python/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py) / [Java](Java/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.java) | |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | Medium | [Python](Python/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py) | |
+| 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | Easy | [Python](Python/1175.%20Prime%20Arrangements.py) | |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | [MySQL](MySQL/1179.%20Reformat%20Department%20Table.mysql) | |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | [Python](Python/1189.%20Maximum%20Number%20of%20Balloons.py) | |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | [Python](Python/1200.%20Minimum%20Absolute%20Difference.py) / [Java](Java/1200.%20Minimum%20Absolute%20Difference.java) | |
