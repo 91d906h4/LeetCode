@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 773)
+(Total solved problems : 774)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -120,6 +120,7 @@
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy | [Python](Python/237.%20Delete%20Node%20in%20a%20Linked%20List.py) | |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | [Python](Python/238.%20Product%20of%20Array%20Except%20Self.py) | |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | [Python](Python/242.%20Valid%20Anagram.py) | |
+| 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | Easy | [Python](Python/257.%20Binary%20Tree%20Paths.py) | |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | [Python](Python/258.%20Add%20Digits.py) | |
 | 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii) | Medium | [Python](Python/260.%20Single%20Number%20III.py) | |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | [Python](Python/263.%20Ugly%20Number.py) | |
