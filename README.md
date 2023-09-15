@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 772)
+(Total solved problems : 773)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -103,6 +103,7 @@
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [JavaScript](JavaScript/202.%20Happy%20Number.js) / [Python](Python/202.%20Happy%20Number.py) | |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | [Python](Python/203.%20Remove%20Linked%20List%20Elements.py) / [C++](C%2B%2B/202.%20Happy%20Number.cpp) | |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [JavaScript](JavaScript/205.%20Isomorphic%20Strings.js) / [Python](Python/205.%20Isomorphic%20Strings.py) | |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | [Python](Python/206.%20Reverse%20Linked%20List.py) | |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Medium | [C++](C%2B%2B/209.%20Minimum%20Size%20Subarray%20Sum.cpp) | |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | [Python](Python/215.%20Kth%20Largest%20Element%20in%20an%20Array.py) | |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [JavaScript](JavaScript/217.%20Contains%20Duplicate.js) / [Python](Python/217.%20Contains%20Duplicate.py) / [C++](C%2B%2B/217.%20Contains%20Duplicate.cpp) | |
