@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 775)
+(Total solved problems : 776)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -641,6 +641,7 @@
 | 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string) | Easy | [Python](Python/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String.py) | |
 | 2288 | [Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices) | Medium | [Python](Python/2288.%20Apply%20Discount%20to%20Prices.py) | |
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game) | Easy | [Python](Python/2293.%20Min%20Max%20Game.py) | |
+| 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | Medium | [Python](Python/2294.%20Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K.py) | |
 | 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array) | Medium | [Python](Python/2295.%20Replace%20Elements%20in%20an%20Array.py) | |
 | 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | Easy | [Python](Python/2299.%20Strong%20Password%20Checker%20II.py) | |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) | Medium | [C++](C%2B%2B/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.cpp) | |
