@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 774)
+(Total solved problems : 775)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -667,6 +667,7 @@
 | 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage) | Medium | [Python](Python/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.py) / [Java](Java/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.java) | |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | [Python](Python/2396.%20Strictly%20Palindromic%20Number.py) / [C++](C%2B%2B/2396.%20Strictly%20Palindromic%20Number.cpp) | |
 | 2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters) | Easy | [Python](Python/2399.%20Check%20Distances%20Between%20Same%20Letters.py) / [Java](Java/2399.%20Check%20Distances%20Between%20Same%20Letters.java) | |
+| 2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element) | Easy | [Python](Python/2404.%20Most%20Frequent%20Even%20Element.py) | |
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string) | Medium | [Python](Python/2405.%20Optimal%20Partition%20of%20String.py) / [Java](Java/2405.%20Optimal%20Partition%20of%20String.java) / [C++](C%2B%2B/2405.%20Optimal%20Partition%20of%20String.cpp) | |
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) | Medium | [Python](Python/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.py) / [C](C/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.c) | |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](Python/2413.%20Smallest%20Even%20Multiple.py) / [Java](Java/2413.%20Smallest%20Even%20Multiple.java) | |
