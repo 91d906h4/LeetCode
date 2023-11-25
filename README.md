@@ -520,6 +520,7 @@
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | Easy | [C++](C%2B%2B/1800.%20Maximum%20Ascending%20Subarray%20Sum.cpp) | |
 | 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string) | Easy | [JavaScript](JavaScript/1805.%20Number%20of%20Different%20Integers%20in%20a%20String.js) | |
 | 1806 | [Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation) | Medium | [Python](Python/1806.%20Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation.py) | |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | Medium | [Python](Python/1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String.py) | |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | Easy | [Python](Python/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py) | |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | Easy | [JavaScript](JavaScript/1816.%20Truncate%20Sentence.js) | |
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes) | Medium | [Python](Python/1817.%20Finding%20the%20Users%20Active%20Minutes.py) | |
