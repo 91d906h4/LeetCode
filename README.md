@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 784)
+(Total solved problems : 786)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -426,6 +426,7 @@
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/destination-city) | Easy | [JavaScritp](JavaScript/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.js) / [Python](Python/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.py) | |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k) | Medium | [Python](Python/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.py) | |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays) | Easy | [Python](Python/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py) | |
+| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) | Medium | [Python](Python/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.py) | |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | [JavaScript](JavaScript/1470.%20Shuffle%20the%20Array.js) / [Python](Python/1470.%20Shuffle%20the%20Array.py) / [Java](Java/1470.%20Shuffle%20the%20Array.java) / [C++](C%2B%2B/1470.%20Shuffle%20the%20Array.cpp) | |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history) | Medium | [Python](Python/1472.%20Design%20Browser%20History.py) | |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | Easy | [Python](Python/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py) | |
