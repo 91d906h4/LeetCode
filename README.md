@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 786)
+(Total solved problems : 787)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -45,7 +45,7 @@
 | 0065 | [Valid Number](https://leetcode.com/problems/valid-number) | Hard | [Python](Python/65.%20Valid%20Number.py) | [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [JavaScript](JavaScript/66.%20Plus%20One.js) / [Python](Python/66.%20Plus%20One.py) / [C++](C%2B%2B/66.%20Plus%20One.cpp) | \*Built-in Function Solution <sup>[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)<sup> |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | [Python](Python/67.%20Add%20Binary.py) | |
-| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) / [Python](Python/69.%20Sqrt(x).py) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [JavaScript](JavaScript/69.%20Sqrt(x).js) / [Python](Python/69.%20Sqrt(x).py) / [C](C/69.%20Sqrt(x).c) | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [JavaScript](JavaScript/70.%20Climbing%20Stairs.js) / [TyoeScript](TypeScript/70.%20Climbing%20Stairs.ts) / [PHP](PHP/70.%20Climbing%20Stairs.php) / [Python](Python/70.%20Climbing%20Stairs.py) / [Java](Java/70.%20Climbing%20Stairs.java) | |
 | 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path) | Medium | [Python](Python/71.%20Simplify%20Path.py) / [C++](C%2B%2B/71.%20Simplify%20Path.cpp) | |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | [Python](Python/73.%20Set%20Matrix%20Zeroes.py) | |
@@ -689,6 +689,7 @@
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column) | Medium | [Python](Python/2482.%20Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column.py) | |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop) | Medium | [Python](Python/2483.%20Minimum%20Penalty%20for%20a%20Shop.py) | |
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer) | Easy | [Java](Java/2485.%20Find%20the%20Pivot%20Integer.java) | |
+| 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill) | Medium | [Python](Python/2491.%20Divide%20Players%20Into%20Teams%20of%20Equal%20Skill.py) | |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | [Python](Python/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row.py) | |
 | 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings) | Easy | [Python](Python/2506.%20Count%20Pairs%20Of%20Similar%20Strings.py) | |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) | Easy | [Python](Python/2511.%20Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured.py) | |
