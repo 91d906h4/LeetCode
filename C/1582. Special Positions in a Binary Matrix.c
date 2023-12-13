@@ -1,6 +1,4 @@
-int r, c;
-
-int check(int** mat, int i, int j) {
+int check(int** mat, int i, int j, int r, int c) {
     if (!mat[i][j]) return 0;
 
     int temp = 0;
@@ -22,12 +20,11 @@ int check(int** mat, int i, int j) {
 }
 
 int numSpecial(int** mat, int matSize, int* matColSize) {
-    r = matSize, c = *matColSize;
     int res = 0;
 
-    for (int i = 0; i < r; i++) {
-        for (int j = 0; j < c; j++) {
-            if (check(mat, i, j)) res++;
+    for (int i = 0; i < matSize; i++) {
+        for (int j = 0; j < *matColSize; j++) {
+            if (check(mat, i, j, matSize, *matColSize)) res++;
         }
     }
 
