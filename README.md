@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 792)
+(Total solved problems : 793)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -760,3 +760,4 @@
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard) | Easy | [Python](Python/2810.%20Faulty%20Keyboard.py) | |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | Easy | [Python](Python/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.py) | |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin) | Easy | [Python](Python/2833.%20Furthest%20Point%20From%20Origin.py) | |
+| 2870 | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty) | Medium | [Python](Python/2870.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.py) | |
