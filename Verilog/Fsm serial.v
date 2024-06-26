@@ -23,7 +23,7 @@ module top_module(
     
     always @(*) begin
         case (state)
-        	S1: next_state <= in ? S1 : S2;
+            S1: next_state <= in ? S1 : S2;
             S2: next_state <= (counter == 0) ? S3 : S2;
             S3: next_state <= in ? S4 : E;
             S4: next_state <= in ? S1 : S2;
