@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 793)
+(Total solved problems : 794)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -23,6 +23,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | [JavaScript](JavaScript/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) | |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | [JavaScript](JavaScript/27.%20Remove%20Element.js) | |
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy | [JavaScript](JavaScript/28.%20Implement%20strStr().js) / [C++](C%2B%2B/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp) | |
+| 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation) | Medium | [C](C/31.%20Next%20Permutation.c) | |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | [Python](Python/33.%20Search%20in%20Rotated%20Sorted%20Array.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Easy | [Python](Python/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) | |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [JavaScript](JavaScript/35.%20Search%20Insert%20Position.js) / [Python](Python/35.%20Search%20Insert%20Position.py) | [Binary Sreach](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
@@ -203,7 +204,7 @@
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | [Python](Python/566.%20Reshape%20the%20Matrix.py) | |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | Easy | [Python](Python/567.%20Permutation%20in%20String.py) | |
 | 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | [Python](Python/575.%20Distribute%20Candies.py) | |
-| 0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/description) | Easy | [MySQL](MySQL/577.%20Employee%20Bonus.mysql) | |
+| 0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | Easy | [MySQL](MySQL/577.%20Employee%20Bonus.mysql) | |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | [MySQL](MySQL/584.%20Find%20Customer%20Referee.mysql) | |
 | 0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | Easy | [MySQL](MySQL/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.mysql) | |
 | 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy | [Python](Python/589.%20N-ary%20Tree%20Preorder%20Traversal.py) | [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) |
