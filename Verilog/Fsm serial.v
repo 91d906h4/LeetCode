@@ -11,7 +11,7 @@ module top_module(
     always @(posedge clk) begin
         if (reset) begin
             state <= S1;
-			counter <= 7;
+            counter <= 7;
         end else
             state <= next_state;
         
