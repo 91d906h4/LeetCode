@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 796)
+(Total solved problems : 797)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -443,6 +443,7 @@
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | Easy | [Python](Python/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py) / [C](C/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.c) | |
 | 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | Easy | [Python](Python/1507.%20Reformat%20Date.py) | |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | Easy | [JavaScript](JavaScript/1512.%20Number%20of%20Good%20Pairs.js) / [Java](Java/1512.%20Number%20of%20Good%20Pairs.java) / [C++](C%2B%2B/1512.%20Number%20of%20Good%20Pairs.cpp) | |
+| 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails) | Easy | [MySQL](MySQL/1517.%20Find%20Users%20With%20Valid%20E-Mails.sql) | |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles) | Easy | [Python](Python/1518.%20Water%20Bottles.py) | |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | Easy | [Python](Python/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py) | |
 | 1525 | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string) | Medium | [Python](Python/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.py) / [Java](Java/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.java) | |
