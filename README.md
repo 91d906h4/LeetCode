@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 798)
+(Total solved problems : 799)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -755,6 +755,7 @@
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by) | Easy | [JavaScript](JavaScript/2724.%20Sort%20By.js) | |
 | 2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining) | Easy | [JavaScript](JavaScript/2726.%20Calculator%20with%20Method%20Chaining.js) | |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty) | Easy | [JavaScript](JavaScript/2727.%20Is%20Object%20Empty.js) | |
+| 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating) | Easy | [C](C/2729.%20Check%20if%20The%20Number%20is%20Fascinating.c) | |
 | 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled) | Easy | [C](C/2739.%20Total%20Distance%20Traveled.c) | |
 | 2763 | [Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays) | Hard | [Python](Python/2763.%20Sum%20of%20Imbalance%20Numbers%20of%20All%20Subarrays.py) / [C++](C%2B%2B/2763.%20Sum%20of%20Imbalance%20Numbers%20of%20All%20Subarrays.cpp) | |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | [C](C/2769.%20Find%20the%20Maximum%20Achievable%20Number.c) | |
