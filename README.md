@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 797)
+(Total solved problems : 798)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -750,6 +750,7 @@
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be) | Easy | [JavaScript](JavaScript/2704.%20To%20Be%20Or%20Not%20To%20Be.js) | |
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates) | Easy | [Python](Python/2706.%20Buy%20Two%20Chocolates.py) | |
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | Easy | [Python](Python/2710.%20Remove%20Trailing%20Zeros%20From%20a%20String.py) | |
+| 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | Easy | [C](C/2716.%20Minimize%20String%20Length.c) | |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises) | Easy | [JavaScript](JavaScript/2723.%20Add%20Two%20Promises.js) | |
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by) | Easy | [JavaScript](JavaScript/2724.%20Sort%20By.js) | |
 | 2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining) | Easy | [JavaScript](JavaScript/2726.%20Calculator%20with%20Method%20Chaining.js) | |
