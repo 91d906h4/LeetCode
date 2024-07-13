@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 805)
+(Total solved problems : 806)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -769,5 +769,6 @@
 | 2870 | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty) | Medium | [Python](Python/2870.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.py) | |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows) | Easy | [Python](Python/2879.%20Display%20the%20First%20Three%20Rows.py) | |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns) | Easy | [Python](Python/2884.%20Modify%20Columns.py) | |
+| 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | Easy | [C](C/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.c) | |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | [C](C/3110.%20Score%20of%20a%20String.c) | |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy | [C](C/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.c) | |
