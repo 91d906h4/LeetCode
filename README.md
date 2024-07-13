@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 804)
+(Total solved problems : 805)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -770,3 +770,4 @@
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows) | Easy | [Python](Python/2879.%20Display%20the%20First%20Three%20Rows.py) | |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns) | Easy | [Python](Python/2884.%20Modify%20Columns.py) | |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | [C](C/3110.%20Score%20of%20a%20String.c) | |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy | [C](C/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.c) | |
