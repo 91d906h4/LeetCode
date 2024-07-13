@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 809)
+(Total solved problems : 814)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -642,6 +642,7 @@
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | Easy | [Python](Python/2255.%20Count%20Prefixes%20of%20a%20Given%20String.py) / [PHP](PHP/2255.%20Count%20Prefixes%20of%20a%20Given%20String.php) | |
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | Easy | [Python](Python/2259.%20Remove%20Digit%20From%20Number%20to%20Maximize%20Result.py) | |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | Easy | [JavaScript](JavaScript/2264.%20Largest%203-Same-Digit%20Number%20in%20String.js) / [Python](Python/2264.%20Largest%203-Same-Digit%20Number%20in%20String.py) | |
+| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | Medium | [C](C/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.c) | |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number) | Easy | [Python](Python/2269.%20Find%20the%20K-Beauty%20of%20a%20Number.py) / [C++](C%2B%2B/2469.%20Convert%20the%20Temperature.cpp) | |
 | 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | Medium | [Python](Python/2270.%20Number%20of%20Ways%20to%20Split%20Array.py) | |
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) | Easy | [Python](Python/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.py) | |
@@ -763,6 +764,7 @@
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | [C](C/2769.%20Find%20the%20Maximum%20Achievable%20Number.c) | |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | [C](C/2778.%20Sum%20of%20Squares%20of%20Special%20Elements.c) | |
 | 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator) | Easy | [Python](Python/2788.%20Split%20Strings%20by%20Separator.py) | |
+| 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | Easy | [C](C/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target.c) | |
 | 2806 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase) | Easy | [C++](C++/2806.%20Account%20Balance%20After%20Rounded%20Purchase.cpp) | |
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | Medium | [C](C/2807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.c) | |
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard) | Easy | [Python](Python/2810.%20Faulty%20Keyboard.py) | |
@@ -771,7 +773,10 @@
 | 2870 | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty) | Medium | [Python](Python/2870.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.py) | |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows) | Easy | [Python](Python/2879.%20Display%20the%20First%20Three%20Rows.py) | |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns) | Easy | [Python](Python/2884.%20Modify%20Columns.py) | |
+| 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type) | Easy | [Python](Python/2886.%20Change%20Data%20Type.py) | |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | Easy | [C](C/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.c) | |
+| 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k) | Medium | [C](C/2997.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20XOR%20Equal%20to%20K.c) | |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | [C](C/3110.%20Score%20of%20a%20String.c) | |
 | 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings) | Easy | [C](C/3146.%20Permutation%20Difference%20between%20Two%20Strings.c) | |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy | [C](C/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.c) | |
+| 3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros) | Medium | [Python](Python/3211.%20Generate%20Binary%20Strings%20Without%20Adjacent%20Zeros.py) | |
