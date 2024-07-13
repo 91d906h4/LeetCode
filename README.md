@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 808)
+(Total solved problems : 809)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -320,6 +320,7 @@
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | [Python](Python/1021.%20Remove%20Outermost%20Parentheses.py) | |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game) | Easy | [Python](Python/1025.%20Divisor%20Game.py) | |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang) | Easy | [JavaScript](JavaScript/1037.%20Valid%20Boomerang.js) / [Python](Python/1037.%20Valid%20Boomerang.py) | |
+| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | Medium | [C](C/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.c) | |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | [Python](Python/1046.%20Last%20Stone%20Weight.py) | |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | Easy | [Python](Python/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py) / [Java](Java/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | [MySQL](MySQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.mysql) | |
