@@ -225,6 +225,7 @@
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy | [Python](Python/643.%20Maximum%20Average%20Subarray%20I.py) | |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | [Python](Python/645.%20Set%20Mismatch.py) | <details><summary>Note</summary> [Time Complexity](https://wiki.python.org/moin/TimeComplexity)</details> |
 | 0650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | Medium | [Python](Python/650.%202%20Keys%20Keyboard.py) | |
+| 0654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | Medium | [C](C/654.%20Maximum%20Binary%20Tree.c) | |
 | 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother) | Easy | [Python](Python/661.%20Image%20Smoother.py) | |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | [Python](Python/657.%20Robot%20Return%20to%20Origin.py) | |
 | 0670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap) | Medium | [Python](Python/670.%20Maximum%20Swap.py) | |
