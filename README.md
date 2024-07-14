@@ -777,6 +777,7 @@
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows) | Easy | [Python](Python/2879.%20Display%20the%20First%20Three%20Rows.py) | |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns) | Easy | [Python](Python/2884.%20Modify%20Columns.py) | |
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type) | Easy | [Python](Python/2886.%20Change%20Data%20Type.py) | |
+| 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt) | Easy | [Python](Python/2890.%20Reshape%20Data%3A%20Melt.py) | |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | Easy | [C](C/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.c) | |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | Easy | [C](C/2974.%20Minimum%20Number%20Game.c) | |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k) | Medium | [C](C/2997.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20XOR%20Equal%20to%20K.c) | |
