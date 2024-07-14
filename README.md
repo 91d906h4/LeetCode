@@ -777,6 +777,7 @@
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type) | Easy | [Python](Python/2886.%20Change%20Data%20Type.py) | |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | Easy | [C](C/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.c) | |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k) | Medium | [C](C/2997.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20XOR%20Equal%20to%20K.c) | |
+| 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | Easy | [C](C/3065.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20I.c) | |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | [C](C/3110.%20Score%20of%20a%20String.c) | |
 | 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings) | Easy | [C](C/3146.%20Permutation%20Difference%20between%20Two%20Strings.c) | |
 | 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | Easy | [C](C/3162.%20Find%20the%20Number%20of%20Good%20Pairs%20I.c) | |
