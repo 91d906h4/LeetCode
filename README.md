@@ -775,6 +775,7 @@
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits) | Easy | [C](C/2859.%20Sum%20of%20Values%20at%20Indices%20With%20K%20Set%20Bits.c) | |
 | 2870 | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty) | Medium | [Python](Python/2870.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.py) | |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows) | Easy | [Python](Python/2879.%20Display%20the%20First%20Three%20Rows.py) | |
+| 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows) | Easy | [Python](Python/2882.%20Drop%20Duplicate%20Rows.py) | |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns) | Easy | [Python](Python/2884.%20Modify%20Columns.py) | |
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type) | Easy | [Python](Python/2886.%20Change%20Data%20Type.py) | |
 | 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt) | Easy | [Python](Python/2890.%20Reshape%20Data%3A%20Melt.py) | |
