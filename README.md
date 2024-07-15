@@ -107,7 +107,7 @@
 | 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | Easy | [MySQL](MySQL/197.%20Rising%20Temperature.mysql) | |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [JavaScript](JavaScript/202.%20Happy%20Number.js) / [Python](Python/202.%20Happy%20Number.py) | |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | [Python](Python/203.%20Remove%20Linked%20List%20Elements.py) / [C++](C%2B%2B/202.%20Happy%20Number.cpp) | |
-| 0204 | [Count Primes](https://leetcode.com/problems/count-primes) | Medium | [C](C/204.%20Count%20Primes.c) | \*Methmatical Solution <sup>[[1]](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%A9%E3%83%88%E3%82%B9%E3%83%86%E3%83%8D%E3%82%B9%E3%81%AE%E7%AF%A9)</sup> |
+| 0204 | [Count Primes](https://leetcode.com/problems/count-primes) | Medium | [C](C/204.%20Count%20Primes.c) | \*Mathematical Solution <sup>[[1]](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%A9%E3%83%88%E3%82%B9%E3%83%86%E3%83%8D%E3%82%B9%E3%81%AE%E7%AF%A9)</sup> |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | [JavaScript](JavaScript/205.%20Isomorphic%20Strings.js) / [Python](Python/205.%20Isomorphic%20Strings.py) | |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | [Python](Python/206.%20Reverse%20Linked%20List.py) | |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Medium | [C++](C%2B%2B/209.%20Minimum%20Size%20Subarray%20Sum.cpp) | |
