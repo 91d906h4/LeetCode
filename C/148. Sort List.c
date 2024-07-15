@@ -37,5 +37,7 @@ struct ListNode* sortList(struct ListNode* head) {
         temp = temp->next;
     }
 
+    free(list);
+
     return head;
 }
