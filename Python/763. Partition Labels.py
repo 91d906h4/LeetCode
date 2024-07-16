@@ -1,7 +1,7 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
         # b (begin point, int): The begin point of current sub sentence.
-        # c (character, string): The current char.
+        # c (current char, string): The current char.
         # e (end point, int): The "potential" end point of current sub sentence.
         # i (index, int): The current index.
         # r (result, list): Store the result.
