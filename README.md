@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 826)
+(Total solved problems : 827)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -253,6 +253,7 @@
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | Easy | [Python](Python/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) | |
 | 0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) | Easy | [Python](Python/748.%20Shortest%20Completing%20Word.py) | |
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | [Python](Python/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.py) | |
+| 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | Medium | [Python](Python/763.%20Partition%20Labels.py) | |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [JavaScript](JavaScript/771.%20Jewels%20and%20Stones.js) / [Java](Java/771.%20Jewels%20and%20Stones.java) / [C++](C%2B%2B/771.%20Jewels%20and%20Stones.cpp) | |
 | 0776 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | [Python](Python/766.%20Toeplitz%20Matrix.py) | |
 | 0779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | Medium | [Python](Python/784.%20Letter%20Case%20Permutation.py) | |
