@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 827)
+(Total solved problems : 828)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -224,6 +224,7 @@
 | 0626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | Medium | [MySQL](MySQL/626.%20Exchange%20Seats.mysql) | |
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [MySQL](MySQL/627.%20Swap%20Salary.mysql) | |
 | 0633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) | Medium | [Python](Python/633.%20Sum%20of%20Square%20Numbers.py) | |
+| 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Easy | [Python](Python/637.%20Average%20of%20Levels%20in%20Binary%20Tree.py) | |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy | [Python](Python/643.%20Maximum%20Average%20Subarray%20I.py) | |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | [Python](Python/645.%20Set%20Mismatch.py) | <details><summary>Note</summary> [Time Complexity](https://wiki.python.org/moin/TimeComplexity)</details> |
 | 0650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | Medium | [Python](Python/650.%202%20Keys%20Keyboard.py) | |
