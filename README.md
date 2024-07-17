@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 828)
+(Total solved problems : 832)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -385,6 +385,7 @@
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | Medium | [Python](Python/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.py) | |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | Easy | [JavaScript](JavaScript/1323.%20Maximum%2069%20Number.js) | |
 | 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically) | Medium | [Python](Python/1324.%20Print%20Words%20Vertically.py) | |
+| 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period) | Easy | [MySQL](MySQL/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.sql) | |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | Medium | [Python](Python/1329.%20Sort%20the%20Matrix%20Diagonally.py) | |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) | Easy | [Python](Python/1331.%20Rank%20Transform%20of%20an%20Array.py) | |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | Easy | [Python](Python/1332.%20Remove%20Palindromic%20Subsequences.py) | |
