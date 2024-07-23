@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 833)
+(Total solved problems : 834)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -565,6 +565,7 @@
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered) | Easy | [Python](Python/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py) | |
 | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) | Medium | [C](C/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.c) | |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | Easy | [Python](Python/1903.%20Largest%20Odd%20Number%20in%20String.py) | |
+| 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | Easy | [C](C/1909.%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing.c) | |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | Medium | [Java](Java/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring.java) / [Python](Python/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring.py) | |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | Easy | [JavaScript](JavaScript/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.js) | |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [JavaScript](JavaScript/1920.%20Build%20Array%20from%20Permutation.js) / [PHP](PHP/1920.%20Build%20Array%20from%20Permutation.php) / [Java](Java/1920.%20Build%20Array%20from%20Permutation.java) / [C++](C%2B%2B/1920.%20Build%20Array%20from%20Permutation.cpp) | |
