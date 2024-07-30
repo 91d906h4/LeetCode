@@ -1,17 +1,13 @@
+#define isVowel(a) ( \
+    a == 'A' || a == 'E' || a == 'I' || a == 'O' || a == 'U' || \
+    a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u' \
+)
+
 compare (a, b)
 char* a;
 char* b;
 {
     return (*a == *b) ? 0 : strcmp(a, b);
-}
-
-isVowel (a)
-char a;
-{
-    return (
-        a == 'A' || a == 'E' || a == 'I' || a == 'O' || a == 'U' ||
-        a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u'
-    );
 }
 
 char * sortVowels(char * s){
