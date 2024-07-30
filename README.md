@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 834)
+(Total solved problems : 835)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -775,6 +775,7 @@
 | 2763 | [Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays) | Hard | [Python](Python/2763.%20Sum%20of%20Imbalance%20Numbers%20of%20All%20Subarrays.py) / [C++](C%2B%2B/2763.%20Sum%20of%20Imbalance%20Numbers%20of%20All%20Subarrays.cpp) | |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | [C](C/2769.%20Find%20the%20Maximum%20Achievable%20Number.c) | |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | [C](C/2778.%20Sum%20of%20Squares%20of%20Special%20Elements.c) | |
+| 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) | Medium | [C](C/2785.%20Sort%20Vowels%20in%20a%20String.c) | |
 | 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator) | Easy | [Python](Python/2788.%20Split%20Strings%20by%20Separator.py) | |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | Easy | [C](C/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target.c) | |
 | 2806 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase) | Easy | [C++](C++/2806.%20Account%20Balance%20After%20Rounded%20Purchase.cpp) | |
