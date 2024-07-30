@@ -7,12 +7,11 @@ compare (a, b)
 char* a;
 char* b;
 {
-    return (*a == *b) ? 0 : strcmp(a, b);
+    return *a == *b ? 0 : strcmp(a, b);
 }
 
 char * sortVowels(char * s){
-    int s_len = strlen(s);
-    int v_count = 0;
+    int s_len = strlen(s), v_count = 0;
     char *temp = (char *)malloc(sizeof(char) * s_len);
 
     for (int i = 0; i < s_len; i++)
