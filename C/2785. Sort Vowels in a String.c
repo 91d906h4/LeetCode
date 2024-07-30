@@ -8,12 +8,10 @@ char* b;
 isVowel (a)
 char a;
 {
-    if (
+    return (
         a == 'A' || a == 'E' || a == 'I' || a == 'O' || a == 'U' ||
         a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u'
-    ) return true;
-
-    return false;
+    );
 }
 
 char * sortVowels(char * s){
