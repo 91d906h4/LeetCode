@@ -701,6 +701,7 @@
 | 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings) | Medium | [C](C/2425.%20Bitwise%20XOR%20of%20All%20Pairings.c) | |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | [Java](Java/2427.%20Number%20of%20Common%20Factors.java) | |
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass) | Medium | [C++](C%2B%2B/2428.%20Maximum%20Sum%20of%20an%20Hourglass.cpp) | |
+| 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/?envType=daily-question&envId=2025-01-1) | Medium | [C](C/2429.%20Minimize%20XOR.c) | |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor) | Medium | [Python](Python/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.py) | |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations) | Medium | [Python](Python/2442.%20Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations.py) / [C++](C%2B%2B/2442.%20Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations.cpp) | |
 | 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference) | Easy | [Python](Python/2451.%20Odd%20String%20Difference.py) | |
