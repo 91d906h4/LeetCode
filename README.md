@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 838)
+(Total solved problems : 839)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -698,6 +698,7 @@
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) | Medium | [Python](Python/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.py) / [C](C/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.c) | |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](Python/2413.%20Smallest%20Even%20Multiple.py) / [Java](Java/2413.%20Smallest%20Even%20Multiple.java) | |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | [Python](Python/2418.%20Sort%20the%20People.py) | |
+| 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings) | Medium | [C](C/2425.%20Bitwise%20XOR%20of%20All%20Pairings.c) | |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | [Java](Java/2427.%20Number%20of%20Common%20Factors.java) | |
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass) | Medium | [C++](C%2B%2B/2428.%20Maximum%20Sum%20of%20an%20Hourglass.cpp) | |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor) | Medium | [Python](Python/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.py) | |
