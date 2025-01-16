@@ -24,11 +24,10 @@ int minimizeXor(int num1, int num2) {
         int temp = 0;
         diff = num2_bits - num1_bits;
 
-        while (diff) {
+        while (diff--) {
             while ((num1 >> temp) & 1) temp++;
 
             num1 |= (1 << temp);
-            diff--;
         }
 
         return num1;
