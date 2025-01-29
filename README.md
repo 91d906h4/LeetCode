@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 839)
+(Total solved problems : 840)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -234,6 +234,7 @@
 | 0670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap) | Medium | [Python](Python/670.%20Maximum%20Swap.py) | |
 | 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | Easy | [Python](Python/674.%20Longest%20Continuous%20Increasing%20Subsequence.py) | |
 | 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | [Python](Python/682.%20Baseball%20Game.py) | |
+| 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | [Python](Python/684.%20Redundant%20Connection.py) | |
 | 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | Medium | [Python](Python/692.%20Top%20K%20Frequent%20Words.py) | |
 | 0693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | Easy | [Python](Python/693.%20Binary%20Number%20with%20Alternating%20Bits.py) | |
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium | [Python](Python/695.%20Max%20Area%20of%20Island.py) | [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search) |
