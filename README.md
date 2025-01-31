@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 840)
+(Total solved problems : 841)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -313,6 +313,7 @@
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Medium | [Python](Python/973.%20K%20Closest%20Points%20to%20Origin.py) | |
 | 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | [Python](Python/976.%20Largest%20Perimeter%20Triangle.py) | |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](Python/977.%20Squares%20of%20a%20Sorted%20Array.py) | |
+| 0988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf) | Medium | [Python](Python/988.%20Smallest%20String%20Starting%20From%20Leaf.py) | |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | [Python](Python/989.%20Add%20to%20Array-Form%20of%20Integer.py) | |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | Easy | [Python](Python/997.%20Find%20the%20Town%20Judge.py) | |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | Easy | [Python](Python/1002.%20Find%20Common%20Characters.py) | |
