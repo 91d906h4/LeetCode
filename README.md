@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 842)
+(Total solved problems : 843)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -794,6 +794,7 @@
 | 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows) | Easy | [Python](Python/2882.%20Drop%20Duplicate%20Rows.py) | |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns) | Easy | [Python](Python/2884.%20Modify%20Columns.py) | |
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type) | Easy | [Python](Python/2886.%20Change%20Data%20Type.py) | |
+| 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate) | Easy | [Python](Python/2888.%20Reshape%20Data%3A%20Concatenate.py) | |
 | 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt) | Easy | [Python](Python/2890.%20Reshape%20Data%3A%20Melt.py) | |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | Easy | [C](C/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.c) | |
 | 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks) | Easy | [C](C/2951.%20Find%20the%20Peaks.c) | |
