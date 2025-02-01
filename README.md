@@ -809,3 +809,4 @@
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy | [C](C/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.c) | |
 | 3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros) | Medium | [Python](Python/3211.%20Generate%20Binary%20Strings%20Without%20Adjacent%20Zeros.py) | |
 | 3233 | [Find the Count of Numbers Which Are Not Special](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special) | Medium | [C](C/3233.%20Find%20the%20Count%20of%20Numbers%20Which%20Are%20Not%20Special.c) | |
+| 3436 | [Find Valid Emails](https://leetcode.com/problems/find-valid-emails) | Easy | [MySQL](MySQL/3436.%20Find%20Valid%20Emails.mysql) | |
