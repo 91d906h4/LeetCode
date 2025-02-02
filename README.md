@@ -520,7 +520,7 @@
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | Easy | [MySQL](MySQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.mysql) | |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box) | Easy | [Python](Python/1742.%20Maximum%20Number%20of%20Balls%20in%20a%20Box.py) | |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | [Python](Python/1748.%20Sum%20of%20Unique%20Elements.py) | |
-| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | [Python](Python/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py) | |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | [Python](Python/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py) / [C](C/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.c) | |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | [MySQL](MySQL/1757.%20Recyclable%20and%20Low%20Fat%20Products.mysql) | |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string) | Easy | [Python](Python/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.py) | |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | Easy | [Python](Python/1768.%20Merge%20Strings%20Alternately.py) | \*Built-in Function Solution <sup>[[1]](https://docs.python.org/3/library/itertools.html#itertools.zip_longest)</sup> |
