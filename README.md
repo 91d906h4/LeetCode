@@ -536,7 +536,7 @@
 | 1793 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray) | Hard | [C++](C%2B%2B/1793.%20Maximum%20Score%20of%20a%20Good%20Subarray.cpp) / [Python](Python/1793.%20Maximum%20Score%20of%20a%20Good%20Subarray.py) | |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | Easy | [MySQL](MySQL/1795.%20Rearrange%20Products%20Table.mysql) | |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | Easy | [Python](Python/1796.%20Second%20Largest%20Digit%20in%20a%20String.py) | |
-| 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | Easy | [C++](C%2B%2B/1800.%20Maximum%20Ascending%20Subarray%20Sum.cpp) | |
+| 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | Easy | [C++](C%2B%2B/1800.%20Maximum%20Ascending%20Subarray%20Sum.cpp) / [C](C/1800.%20Maximum%20Ascending%20Subarray%20Sum.c) | |
 | 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string) | Easy | [JavaScript](JavaScript/1805.%20Number%20of%20Different%20Integers%20in%20a%20String.js) | |
 | 1806 | [Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation) | Medium | [Python](Python/1806.%20Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation.py) | |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | Medium | [Python](Python/1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String.py) | |
