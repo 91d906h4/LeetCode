@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 849)
+(Total solved problems : 850)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -807,6 +807,7 @@
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | [C](C/3110.%20Score%20of%20a%20String.c) | |
 | 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings) | Easy | [C](C/3146.%20Permutation%20Difference%20between%20Two%20Strings.c) | |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i) | Easy | [C](C/3151.%20Special%20Array%20I.c) | |
+| 3160 | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls) | Medium | [Python](Python/3160.%20Find%20the%20Number%20of%20Distinct%20Colors%20Among%20the%20Balls.py) | |
 | 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | Easy | [C](C/3162.%20Find%20the%20Number%20of%20Good%20Pairs%20I.c) | |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy | [C](C/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.c) | |
 | 3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros) | Medium | [Python](Python/3211.%20Generate%20Binary%20Strings%20Without%20Adjacent%20Zeros.py) | |
