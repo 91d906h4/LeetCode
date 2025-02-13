@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 851)
+(Total solved problems : 852)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -802,6 +802,7 @@
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | Easy | [C](C/2974.%20Minimum%20Number%20Game.c) | |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k) | Medium | [C](C/2997.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20XOR%20Equal%20to%20K.c) | |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | Easy | [C](C/3065.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20I.c) | |
+| 3066 | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | Medium | [Python](Python/3066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II.py) | |
 | 3084 | [Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character) | Medium | [C](C/3084.%20Count%20Substrings%20Starting%20and%20Ending%20with%20Given%20Character.c) | |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | Easy | [Python](Python/3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.py) / [C](C/3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.c) | |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | [C](C/3110.%20Score%20of%20a%20String.c) | |
