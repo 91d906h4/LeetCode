@@ -1,7 +1,7 @@
 # LeetCode
 
 📚This repository consists of some leetcode problem solutions.<br>
-(Total solved problems : 852)
+(Total solved problems : 855)
 
 | **ID** | **Title** | **Level** | **Solution** | **Remark** |
 | ------ | --------- | --------- | ------------ | ---------- |
@@ -585,6 +585,7 @@
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy | [JavaScript](JavaScript/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js) | |
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter) | Easy | [Python](Python/1974.%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.py) / [Java](Java/1974.%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.java) | |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | Easy | [Python](Python/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.py) | |
+| 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | Medium | [Python](Python/1980.%20Find%20Unique%20Binary%20String.py) | |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | [Python](Python/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.py) | |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | Easy | [Python](Python/2000.%20Reverse%20Prefix%20of%20Word.py) | |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | Easy | [JavaScript](JavaScript/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.js) | |
