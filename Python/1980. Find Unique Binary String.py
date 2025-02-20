@@ -6,5 +6,7 @@ class Solution:
             table[int(n, 2)] = True
 
         for i in range(17):
-            if i not in table:
-                return "{0:b}".format(i).zfill(len(nums))
+            if i in table:
+                continue
+
+            return "{0:b}".format(i).zfill(len(nums))
