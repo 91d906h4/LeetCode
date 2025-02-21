@@ -22,10 +22,7 @@ class Solution:
                     p.append(t.right)
 
             if x in temp and y in temp:
-                if temp[x] == temp[y]:
-                    return False
-
-                return True
+                return temp[x] != temp[y]
 
             q = p
             p = []
