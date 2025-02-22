@@ -4,27 +4,26 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    carry = 0
+    def __init__(self) -> None:
+        self.carry = 0
+
+    def dfs(self, node: Optional[ListNode]) -> None:
+        if node.next:
+            self.dfs(node.next)
+
+        temp = node.val * 2 + self.carry
+
+        node.val = temp % 10
+        self.carry = temp // 10
 
     def doubleIt(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        def dfs(node):
-            if node.next:
-                dfs(node.next)
-
-            temp = node.val * 2 + self.carry
-
-            node.val = temp % 10
-            self.carry = temp // 10
-
-        dfs(head)
+        self.dfs(head)
 
         # Check if carry
         if self.carry != 0:
-            new = ListNode(
+            return ListNode(
                 val=self.carry,
                 next=head,
             )
-        else:
-            new = head
 
-        return new
+        return head
