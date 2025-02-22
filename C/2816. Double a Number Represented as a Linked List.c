@@ -14,7 +14,7 @@ void dfs(struct ListNode* node) {
     int temp = node->val * 2 + carry;
 
     node->val = temp % 10;
-    carry = (int)(temp / 10);
+    carry = temp / 10;
 }
 
 struct ListNode* doubleIt(struct ListNode* head) {
