@@ -25,11 +25,7 @@ class Solution:
     def numSmallerByFrequency(self, queries: List[str], words: List[str]) -> List[int]:
         queries = [self.f(q) for q in queries]
         words = [self.f(w) for w in words]
-        res = []
-        
+
         words.sort()
 
-        for q in queries:
-            res.append(self.bs(q, words))
-
-        return res
+        return [self.bs(q, words) for q in queries]
