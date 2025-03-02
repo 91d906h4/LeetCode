@@ -734,6 +734,7 @@
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | Easy | [Python](Python/2540.%20Minimum%20Common%20Value.py) | |
 | 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | [Python](Python/2544.%20Alternating%20Digit%20Sum.py) | |
 | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score) | Medium | [C++](C%2B%2B/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.cpp) / [Python](Python/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.py) | |
+| 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | Easy | [Python](Python/2570.%20Merge%20Two%202D%20Arrays%20by%20Summing%20Values.py) | |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | [C++](C%2B%2B/2574.%20Left%20and%20Right%20Sum%20Differences.cpp) | |
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) | Medium | [C](C/2579.%20Count%20Total%20Number%20of%20Colored%20Cells.c) | |
 | 2582 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow) | Easy | [Python](Python/2582.%20Pass%20the%20Pillow.py) | |
